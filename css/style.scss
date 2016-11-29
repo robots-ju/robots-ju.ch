@@ -1,0 +1,732 @@
+---
+---
+
+/*
+	Style Robots-JU
+	Clark Winkelmann
+*/
+
+$theme-color-main: #1F9600;
+$theme-color-light: white;
+$theme-color-lightgray: #EEE;
+$theme-color-darkgray: #666;
+
+$activities-banner-color: $theme-color-main;
+
+$font-fancy: 'Londrina Solid', cursive;
+
+$site-max-width: 1200px;
+$site-mobile-width: 800px;
+$site-mobile-width: 800px;
+
+body {
+	font-family: Arial, sans-serif;
+	color: #333;
+	background: #E8E8E8;
+}
+
+#container {
+	width: $site-max-width;
+	max-width: 100%;
+	margin: 0 auto;
+	background: #FFF;
+	box-shadow: 0 0 2px rgba(black, 0.2);
+	margin-bottom: 20px;
+
+	// Uniquement dans container pour ne pas exploser l'interface concrete
+	* {
+		box-sizing: border-box;
+		-moz-box-sizing: border-box;
+	}
+}
+
+// Bannière de l'en-tête
+#header-banner {
+	overflow: hidden;
+	background: url(/media/site/headerinlay.png) no-repeat 63% bottom;
+	position: relative;
+
+	@media (max-width: $site-max-width) {
+		background: none;
+	}
+
+	.logo {
+		float: left;
+		margin: 30px 0 20px 20px;
+
+		@media (max-width: $site-mobile-width) {
+			float: none;
+			display: block;
+			margin-top: 5em;
+			text-align: center;
+
+			a {
+				display: block;
+			}
+
+			img {
+				display: inline-block;
+				max-width: 100%;
+				height: auto;
+			}
+		}
+
+	}
+
+	.motto {
+		float: left;
+		color: #AAA;
+		margin-left: 10px;
+		margin-top: 60px;
+		font-size: 1.2em;
+
+		div {
+			display: inline;
+		}
+
+		&::before {
+			content: '... ';
+		}
+
+		@media (max-width: $site-mobile-width) {
+			display: none;
+		}
+	}
+
+	.login {
+		label {
+			display: none;
+		}
+
+		input[type=submit],
+		.logout-btn{
+			text-decoration: none;
+			padding: 0.4em 0.6em;
+			background: #DDD;
+			color: #333;
+			cursor: pointer;
+			border: none;
+		}
+
+		.sign-in {
+
+			b a {
+				background: none;
+				padding: 0;
+				color: $theme-color-main;
+				font-size: 1.2em;
+				border-bottom: 2px dotted;
+				text-decoration: none;
+
+				&:hover {
+					color: $theme-color-darkgray;
+				}
+			}
+		}
+
+		@media (max-width: $site-mobile-width) {
+			float: none;
+			position: absolute;
+			top: 0;
+			left: 0;
+			right: 0;
+			text-align: center;
+			padding: 1em;
+
+			.loginTitle {
+				display: none;
+			}
+
+			.form-group {
+				display: inline-block;
+			}
+
+			input[type=text],
+			input[type=password] {
+				padding: 0.3em;
+				max-width: 10em;
+			}
+		}
+
+		@media (min-width: $site-mobile-width) {
+			float: right;
+			border-left: 2px solid $theme-color-lightgray;
+			padding: 5px 10px;
+
+			.loginTitle {
+				color: $theme-color-main;
+				font-family: $font-fancy;
+				text-align: center;
+
+				a {
+					color: inherit;
+					text-decoration: none;
+				}
+			}
+
+			input[type=text],
+			input[type=password] {
+				border: none;
+				background: none;
+				border-bottom: 2px solid $theme-color-lightgray;
+				padding: 0.2em 1em;
+				min-width: 18em;
+			}
+
+			.loginButton {
+				text-align: center;
+			}
+
+			.sign-in {
+				padding: 40px 0;
+			}
+		}
+	}
+
+	.our-activities-banner {
+		display: none;
+
+		// Sera uniquement visible en mode bureau si la classe enabled a été ajoutée
+		@media (min-width: $site-mobile-width) {
+			&.enabled {
+				display: block;
+				background: $activities-banner-color;
+				color: $theme-color-light;
+				position: absolute;
+				bottom: 0;
+				text-align: center;
+				padding: 0.05em;
+				font-weight: bold;
+				font-size: 0.85em;
+				box-shadow: 0 0 2px rgba(black, 0.2);
+			}
+		}
+	}
+}
+
+// Éléments des menus
+#header-menu,
+#header-user-menu {
+	ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+		
+		li {
+			display: inline-block;
+			vertical-align: top;
+			margin: 0;
+
+			@media (max-width: $site-mobile-width) {
+				display: block;
+			}
+
+			&.our-activities-banner-item {
+				background: rgba($activities-banner-color, 0.06);
+			}
+			
+			a {
+				display: block;
+				padding: 1em 1.5em;
+				text-decoration: none;
+				font-weight: bold;
+				color: $theme-color-darkgray;
+				
+				&:hover {
+					background: $theme-color-lightgray;
+				}
+			}
+
+			ul {
+				position: absolute;
+				display: none;
+				background: $theme-color-light;
+				box-shadow: 0 0 2px rgba(black, 0.2);
+
+				@media (max-width: $site-mobile-width) {
+					position: static;
+					display: block;
+					box-shadow: none;
+					border-left: 5px solid $theme-color-lightgray;
+					margin-left: 1.3em;
+				}
+
+				li {
+					display: block;
+				}
+			}
+
+			&:hover ul {
+				display: block;
+			}
+		}
+	}
+}
+
+// Menu commun
+#header-menu{
+	border-top: 2px solid $theme-color-lightgray;
+	border-bottom: 2px solid $theme-color-lightgray;
+	padding: 0 20px;
+}
+
+// Menu pour utilisateur connecté
+#header-user-menu {
+	padding: 0 2em;
+	background: $theme-color-lightgray;
+	font-size: 0.9em;
+
+	ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+
+		& > li > a {
+			padding: 0.3em 0.6em;
+
+			@media (max-width: $site-mobile-width) {
+				padding: 1em 0.6em;
+			}
+
+			&::before {
+				content: '>';
+				color: #AAA;
+				display: inline-block;
+				margin-right: 0.5em;
+			}
+
+			&[href*="doodle.com"],
+			&[href*="youtube.com"] {
+				&::before {
+					content: '';
+					width: 16px;
+					height: 20px;
+					background-repeat: no-repeat;
+					background-position: 0 0;
+					margin-top: -2px;
+					margin-bottom: -6px;
+				}
+			}
+
+			&[href*="doodle.com"]::before {
+				background-image: url(../img/doodle.png);
+			}
+
+			&[href*="youtube.com"]::before {
+				background-image: url(../img/youtube.png);
+			}
+
+			&:hover {
+				text-decoration: underline;
+			}
+		}
+	}
+}
+
+.menu-toggle-button {
+	display: none;
+}
+
+@media (max-width: $site-mobile-width) {
+	.menu-toggle-button {
+		display: block;
+		padding: 0.5em;
+		font-weight: bold;
+		text-align: center;
+		font-size: 1.5em;
+		cursor: pointer;
+
+		.text {
+			padding-right: 1.5em;
+			background-repeat: no-repeat;
+			background-position: right center;
+			background-size: 1.5em;
+			background-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2248%22%20height%3D%2248%22%20viewBox%3D%220%200%2048%2048%22%3E%3Cpath%20d%3D%22M14.83%2016.42L24%2025.59l9.17-9.17L36%2019.25l-12%2012-12-12z%22%2F%3E%3C%2Fsvg%3E");
+		}
+	}
+
+	.menu-toggle-group.js-enabled {
+		display: none;
+
+		&.visible {
+			display: block;
+		}
+	}
+}
+
+// Pied de page
+#footer {
+	border-top: 2px solid $theme-color-lightgray;
+	padding: 20px;
+	text-align: center;
+	font-size: 0.9em;
+	color: #888;
+
+	a {
+		color: inherit;
+	}
+}
+
+#page-content,
+#page-sidebar,
+#ccm-profile-wrapper #ccm-profile-sidebar,
+#ccm-profile-wrapper #ccm-profile-body {
+	display: inline-block;
+	vertical-align: top;
+	padding: 20px;
+
+	@media (max-width: $site-mobile-width) {
+		display: block;
+	}
+}
+
+#page-content,
+#ccm-profile-wrapper #ccm-profile-body {
+	width: 80%;
+
+	@media (max-width: $site-mobile-width) {
+		width: auto;
+	}
+}
+
+#page-sidebar,
+#ccm-profile-wrapper #ccm-profile-sidebar {
+	width: 20%;
+	border-right: 2px solid $theme-color-lightgray;
+
+	@media (max-width: $site-mobile-width) {
+		width: auto;
+		border: none;
+		text-align: center;
+	}
+
+	img {
+		max-width: 100%;
+		height: auto;
+	}
+}
+
+#page-content + #page-sidebar {
+	border: none;
+	border-left: 2px solid $theme-color-lightgray;
+}
+
+#page-sidebar #ccm-profile-sidebar {
+	width: auto;
+}
+
+#page-content {
+	h1,
+	h2,
+	h4.guestBook-title {
+		font-family: $font-fancy;
+		font-weight: normal;
+		letter-spacing: 0.05em;
+	}
+
+	h1 {
+		color: $theme-color-main;
+		margin-top: 0;
+	}
+
+	a {
+		color: #888;
+		text-decoration: underline;
+	}
+
+	// À coup sûr un lien de téléchargement
+	& > a {
+		display: block;
+		color: #333;
+
+		&::before {
+			content: '';
+			display: inline-block;
+			vertical-align: middle;
+			width: 32px;
+			height: 32px;
+			background: url(../img/download.png) no-repeat;
+			margin: 0.3em 1em 0.3em 0.5em;
+		}
+
+		// Les liens vides intégrés dans les zones de
+		// commentaires ne doivent pas être visibles
+		&[name],
+		&[name]::before {
+			display: none;
+		}
+	}
+
+	hr {
+		display: none;
+	}
+
+	img {
+		max-width: 100%;
+		height: auto;
+	}
+
+	.entry {
+		border-top: 2px solid $theme-color-lightgray;
+		padding: 0 20px;
+		margin-bottom: 50px;
+
+		@media (max-width: $site-mobile-width) {
+			padding: 0;
+		}
+	}
+
+	.entry h3,
+	.post-title {
+		display: inline-block;
+		color: $theme-color-main;
+	}
+
+	.entry h3 {
+		font-size: 1.6em;
+		margin: 0.5em 0;
+
+		a {
+			color: inherit;
+			text-decoration: none;
+		}
+	} 
+
+	.entry h4,
+	.post-date {
+		display: inline-block;
+		font-weight: normal;
+		font-size: 0.9em;
+		color: #888;
+		margin-left: 1em;
+	}
+
+	.ccm-tags-display h4 {
+		display: inline-block;
+		margin: 0;
+
+		&::after {
+			content: ':';
+			margin-right: 1em;
+		}
+	}
+
+	.ccm-tags-display ul {
+		display: inline-block;
+		margin: 0;
+		padding: 0;
+
+		li {
+			display: inline-block;
+			margin: 0 0.3em;
+			padding: 0.4em 0.6em;
+			background: #DDD;
+			color: #333;
+			float: none;
+			line-height: normal;
+			height: auto;
+		}
+	}
+
+	.entry .meta {
+		color: #888;
+
+		a {
+			color: inherit;
+		}
+	}
+
+	input,
+	textarea {
+		font-family: inherit;
+		font-size: inherit;
+	}
+
+	h4.guestBook-title {
+		border: none;
+		background: url(../img/chat.png) no-repeat left top;
+		min-height: 60px;
+		color: $theme-color-main;
+		font-size: 1.5em;
+		padding: 0.5em 70px;
+		margin-bottom: 0.5em;
+		margin-top: 2em;
+	}
+
+	.guestBook-formBlock,
+	.guestBook-entry {
+		background: #EFEFEF;
+		padding: 20px;
+		margin: 10px;
+	}
+
+	.guestBook-entry .contentByLine {
+		font-size: 1em;
+		color: #AAA;
+		margin-bottom: 0.5em;
+
+		.userName {
+			font-weight: bold;
+			color: $theme-color-darkgray;
+		}
+	}
+
+	.guestBook-formBlock {
+		h5 {
+			font-size: 1.2em;
+			margin: 0.2em;
+		}
+
+		br {
+			display: none;
+		}
+	}
+
+	// Carte d'un membre dans la liste'
+	.ccm-profile-member {
+		width: 400px;
+		max-width: 100%;
+		margin: 0 auto;
+		border: none;
+
+		& > a {
+			display: block;
+			color: #333;
+			text-decoration: none;
+			background: #EFEFEF;
+			padding: 10px;
+
+			&:hover {
+				background: #DDD;
+			}
+		}
+
+		.avatar,
+		.profile {
+			display: inline-block;
+			vertical-align: middle;
+		}
+
+		.profile .name {
+			font-size: 1.5em;
+		}
+	}
+
+	// Formulaire de recherche sur la page des membres
+	.form-search-members {
+		text-align: center;
+		margin-bottom: 1em;
+
+		input[type=text],
+		input[type=submit] {
+			padding: 0.3em 0.5em;
+		}
+
+		input[type=text] {
+			width: 40em;
+			max-width: 100%;
+		}
+
+		input[type=submit] {
+			min-width: 6em;
+		}
+	}
+
+	// Pagination de la liste de membres
+	.ccm-pagination ul {
+		list-style: none;
+		padding: 0;
+		line-height: 2.5em;
+
+		li {
+			display: inline-block;
+			margin: 0 0.2em;
+		
+			a {
+				text-decoration: none;
+				padding: 0.4em 0.6em;
+				background: #DDD;
+				color: #333;
+				cursor: pointer;
+				border: none;
+			}
+
+			&.active a,
+			a:hover {
+				background: #AAA;
+			}
+		}
+	}
+}
+
+// Menu du profil
+div#ccm-profile-sidebar { // div pour être aussi fort que le style concrete
+	margin: 0;
+
+	.nav li {
+		margin: 0.2em 0;
+
+		a {
+			display: block;
+			text-decoration: none;
+			padding: 0.4em 0.6em;
+			background: #DDD;
+			color: #333;
+			cursor: pointer;
+			border: none;
+
+			&:hover {
+				background: #AAA;
+			}
+		}
+	}
+}
+
+// Liste des attributs sur la page de profil
+.ccm-profile-body-item div {
+	font-weight: bold;
+	font-size: 1.2em;
+	padding: 0.1em 0;
+
+	label {
+		display: inline-block;
+		min-width: 6em;
+		color: #888;
+	}
+}
+
+.table-resultats {
+	margin: 0 auto;
+	text-align: center;
+
+	td, th {
+		padding: 0.5em 1em;
+	}
+
+	thead {
+		background: $theme-color-main;
+		color: $theme-color-light;
+	}
+
+	tbody {
+		background: $theme-color-light;
+
+		tr:nth-child(even) {
+			background: rgba(black, 0.05);
+		}
+	}
+}
+
+.sponsoring-badge {
+	display: block;
+	border: 3px dashed $theme-color-darkgray;
+	color: $theme-color-darkgray;
+	text-align: center;
+	text-decoration: none;
+	margin: 30px 0;
+
+	&:hover {
+		color: $theme-color-main;
+		border-color: $theme-color-main;
+	}
+}
