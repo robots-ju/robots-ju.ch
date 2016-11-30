@@ -32,7 +32,7 @@ Le calculateur de score écrit en Javascript est également disponible comme mod
 
 ## FLL Scoreboard 2014
 
-[![FLL Scoreboard 2014](/media/projects/fll-scoreboard-2014.jpg)](https://robots-ju.ch/scoreboard-2014/)
+[![FLL Scoreboard 2014](/media/projects/fll-scoreboard-2014.jpg)](https://fll-scoreboard-2014.robots-ju.ch/)
 
 Ce scoreboard est un tableau visuel pour calculer son score pour le Robot Game 2014.
 
@@ -40,13 +40,13 @@ Vous pouvez l'utiliser en plein écran sur un PC en résolution HD ou supérieur
 
 Il est conçu pour fonctionner avec la dernière version de Firefox ou Chrome. Il devrait fonctionner sur les autres navigateurs mais n'a pas été testé.
 
-Vous pouvez l'utiliser sur notre site ici: [FLL ScoreBoard 2014](https://robots-ju.ch/scoreboard-2014/)
+Vous pouvez l'utiliser sur notre site ici: [FLL ScoreBoard 2014](https://fll-scoreboard-2014.robots-ju.ch/)
 
-Le projet est open source et disponible sur [GitHub](https://github.com/clarkwinkelmann/fll-scoreboard-2014).
+Le projet est open source et disponible sur [GitHub](https://github.com/robots-ju/fll-scoreboard-2014).
 
 ## Timer
 
-[![FLL Timer](/media/projects/fll-timer.jpg)](https://robots-ju.ch/timer/)
+[![FLL Timer](/media/projects/fll-timer.jpg)](https://fll-timer.robots-ju.ch/)
 
 Il s'agit d'un chronomètre de 2:30 dédié à l'entraînement des matchs de robots.
 
@@ -56,6 +56,6 @@ Il est conçu pour fonctionner avec la dernière version de Firefox ou Chrome. I
 
 Vous pouvez utiliser des raccourcis clavier pour aller plus vite: ESC ou ESPACE pour démarrer ou mettre en pause le chrono et R pour remettre à zéro.
 
-Vous pouvez l'utiliser sur notre site ici: [FLL Timer](https://robots-ju.ch/timer/)
+Vous pouvez l'utiliser sur notre site ici: [FLL Timer](https://fll-timer.robots-ju.ch/)
 
-Le projet est open source et disponible sur [GitHub](https://github.com/clarkwinkelmann/fll-timer).
+Le projet est open source et disponible sur [GitHub](https://github.com/robots-ju/fll-timer).
