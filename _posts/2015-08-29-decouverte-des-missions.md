@@ -1,6 +1,6 @@
 ---
 title: La découverte des missions FLL 2015/16
-redirect_from: /blog/la-decouverte-des-missions-fll-201516/
+redirect_from: /blog/la-decouverte-des-missions-fll-201516
 ---
 
 Les nouveau tapis de jeu sont arrivés et nous avons monté tous les modèles de missions. A première vue, on dirait qu'il y a moins d'éléments que l'année passée. Mais en lisant bien le règlement, on s'aperçoit très vite qu'il y beaucoup de détails qui permettent de marquer des points.

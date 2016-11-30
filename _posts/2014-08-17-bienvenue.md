@@ -1,8 +1,8 @@
 ---
 title: Bienvenue
 redirect_from:
-  - /blog/0817-bienvenue/
-  - /blog/cest-parti/
+  - /blog/0817-bienvenue
+  - /blog/cest-parti
 ---
 
 Bonjour à toutes et à tous.

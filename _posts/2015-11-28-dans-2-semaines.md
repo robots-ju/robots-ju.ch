@@ -1,6 +1,6 @@
 ---
 title: La fll 2015 dans deux semaines
-redirect_from: /blog/la-fll-2015-dans-deux-semaines/
+redirect_from: /blog/la-fll-2015-dans-deux-semaines
 ---
 
 Encore deux petites semaines avant la compétition de la FLL à Lausanne (EPFL)

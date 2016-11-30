@@ -1,6 +1,6 @@
 ---
 title: Vive les vacances
-redirect_from: /blog/vive-les-vacances-2015/
+redirect_from: /blog/vive-les-vacances-2015
 ---
 
 Les derniers ateliers du semestre se sont déroulés aujourd'hui. 

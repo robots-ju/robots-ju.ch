@@ -1,6 +1,6 @@
 ---
 title: Coupe Robots-JU très beaux résultats des équipes Team Jura
-redirect_from: /blog/coupe-robots-ju-tres-beaux-resultats-des-equipes-team-jura/
+redirect_from: /blog/coupe-robots-ju-tres-beaux-resultats-des-equipes-team-jura
 ---
 
 Les équipes Team Jura se sont très bien défendues lors de la première Coupe Robots-JU.

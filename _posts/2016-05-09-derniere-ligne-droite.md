@@ -1,6 +1,6 @@
 ---
 title: Dernière ligne droite pour la Coupe
-redirect_from: /blog/derniere-ligne-droite-pour-la-coupe/
+redirect_from: /blog/derniere-ligne-droite-pour-la-coupe
 ---
 
 A deux semaines de "notre" Coupe Robots-JU, la pression monte gentiment. Les préparatifs s'intensifient et les réglages deviennent de plus en plus précis.

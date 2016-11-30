@@ -1,6 +1,6 @@
 ---
 title: Passeport Vacances 2016
-redirect_from: /blog/passeport-vacances-2016/
+redirect_from: /blog/passeport-vacances-2016
 ---
 
 Les Passeports Vacances de [Delémont](http://www.ccrd.ch/web/) et de [Porrentruy](http://cultureporrentruy.ch/)

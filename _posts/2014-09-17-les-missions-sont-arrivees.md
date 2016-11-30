@@ -1,6 +1,6 @@
 ---
 title: Les missions sont arrivées
-redirect_from: /blog/les-missions-sont-arrivees-2014/
+redirect_from: /blog/les-missions-sont-arrivees-2014
 ---
 
 Nous avons reçu les plateaux de concours et nous avons monté tous les éléments.

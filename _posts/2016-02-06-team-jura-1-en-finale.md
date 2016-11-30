@@ -1,6 +1,6 @@
 ---
 title: Team Jura 1 en finale suisse
-redirect_from: /blog/team-jura-1-en-finale-suisse/
+redirect_from: /blog/team-jura-1-en-finale-suisse
 ---
 
 C'est ce samedi 13 février que notre **Team Jura 1** défendra nos couleurs à la **finale suisse** FLL.

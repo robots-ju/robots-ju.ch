@@ -1,6 +1,6 @@
 ---
 title: Match demi finale
-redirect_from: /blog/match-demi-finale/
+redirect_from: /blog/match-demi-finale
 ---
 
 Team Jura 1 dispute le match de demi-finale

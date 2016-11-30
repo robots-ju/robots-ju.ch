@@ -1,6 +1,6 @@
 ---
 title: Le concours FLL arrive
-redirect_from: /blog/le-concours-fll-arrive-2014/
+redirect_from: /blog/le-concours-fll-arrive-2014
 ---
 
 Cette fois, ça y est !

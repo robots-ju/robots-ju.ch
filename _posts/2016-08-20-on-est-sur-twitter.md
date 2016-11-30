@@ -1,6 +1,6 @@
 ---
 title: On est sur Twitter
-redirect_from: /blog/on-est-sur-twitter/
+redirect_from: /blog/on-est-sur-twitter
 ---
 
 Les vacances sont finies et les ateliers ont repris, en route vers la

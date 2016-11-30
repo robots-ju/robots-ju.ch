@@ -1,6 +1,6 @@
 ---
 title: Finale suisse à Lausanne
-redirect_from: /blog/finale-suisse-a-lausanne/
+redirect_from: /blog/finale-suisse-a-lausanne
 ---
 
 C'est parti. Parmi 15 équipes venues de toute la suisse.  

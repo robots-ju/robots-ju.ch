@@ -1,6 +1,6 @@
 ---
 title: Le club Robots-JU aux infos télé
-redirect_from: /blog/le-club-robots-ju-aux-infos-tele/
+redirect_from: /blog/le-club-robots-ju-aux-infos-tele
 ---
 
 Les Robots du Jura font parler d'eux.

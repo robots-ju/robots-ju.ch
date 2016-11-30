@@ -1,6 +1,6 @@
 ---
 title: "FLL Lausanne: une place en finale"
-redirect_from: /blog/2015-12-12-fll-lausanne/
+redirect_from: /blog/2015-12-12-fll-lausanne
 ---
 
 ![Photo](/media/posts/2015-12-12-teamjura-fll-lausanne.jpg)

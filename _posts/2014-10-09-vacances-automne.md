@@ -1,6 +1,6 @@
 ---
 title: Vacances d'automne ?
-redirect_from: /blog/141009-vacances-dautomne/
+redirect_from: /blog/141009-vacances-dautomne
 ---
 
 Certains prennent des vacances... d'autres poursuivent leur préparation.

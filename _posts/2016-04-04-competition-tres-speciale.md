@@ -1,6 +1,6 @@
 ---
 title: Une compétition très spéciale
-redirect_from: /blog/une-competition-tres-speciale/
+redirect_from: /blog/une-competition-tres-speciale
 ---
 
 Les équipes des Team Jura sont en pleine préparation pour un concours très particulier.

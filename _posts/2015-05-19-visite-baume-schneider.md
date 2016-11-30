@@ -1,6 +1,6 @@
 ---
 title: Visite de Mme Baume-Schneider
-redirect_from: /blog/visite-de-mme-baume-schneider/
+redirect_from: /blog/visite-de-mme-baume-schneider
 ---
 
 Mme Baume-Schneider, ministre de la Formation, de la Culture et des Sports nous a rendu visite samedi dernier.

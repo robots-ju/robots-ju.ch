@@ -1,6 +1,6 @@
 ---
 title: Passeport Vacances 2015
-redirect_from: /blog/passeport-vacances-2015/
+redirect_from: /blog/passeport-vacances-2015
 ---
 
 Pour la deuxième année consécutive, nous avons proposé des ateliers de découverte de la robotique

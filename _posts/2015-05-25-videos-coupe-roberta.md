@@ -1,6 +1,6 @@
 ---
 title: Vidéos de la Coupe Roberta en ligne
-redirect_from: /blog/2015-05-25-videos-en-ligne/
+redirect_from: /blog/2015-05-25-videos-en-ligne
 ---
 
 Comme on dit, mieux vaut tard que jamais !

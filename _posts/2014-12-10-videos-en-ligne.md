@@ -1,6 +1,6 @@
 ---
 title: Les vidéos sont en ligne
-redirect_from: /blog/2014-12-10-les-videos-sont-en-ligne/
+redirect_from: /blog/2014-12-10-les-videos-sont-en-ligne
 ---
 
 Les vidéos de la journée du 29 novembre à l'EPFL lors du championnat FLL 2014 sont en ligne sur note chaîne YouTube !

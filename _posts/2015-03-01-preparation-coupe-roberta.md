@@ -1,6 +1,6 @@
 ---
 title: Préparation de la Coupe Roberta 2015
-redirect_from: /blog/preparation-de-la-coupe-roberta-2015/
+redirect_from: /blog/preparation-de-la-coupe-roberta-2015
 ---
 
 La préparation pour la [Coupe Roberta](http://roberta.epfl.ch/) avance à grands pas. 

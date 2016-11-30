@@ -1,6 +1,6 @@
 ---
 title: Coupe Robots-JU
-redirect_from: /blog/coupe-robots-ju-2016/
+redirect_from: /blog/coupe-robots-ju-2016
 ---
 
 Le 21 mai prochain, nous organiserons la première **Coupe Robots-JU** à Delémont.

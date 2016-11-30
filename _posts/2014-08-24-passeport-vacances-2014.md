@@ -1,6 +1,6 @@
 ---
 title: Passeport vacances 2014
-redirect_from: /blog/passeport-vacances-2014/
+redirect_from: /blog/passeport-vacances-2014
 ---
 
 Nous avons proposé cette année des ateliers de robotique dans le

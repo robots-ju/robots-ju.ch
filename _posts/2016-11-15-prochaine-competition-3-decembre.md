@@ -1,6 +1,6 @@
 ---
 title: Prochaine compétition le 3 décembre
-redirect_from: /blog/prochaine-competition-le-3-decembre/
+redirect_from: /blog/prochaine-competition-le-3-decembre
 ---
 
 Très peu de temps encore jusqu'à la prochaine compétition.

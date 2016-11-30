@@ -1,6 +1,6 @@
 ---
 title: Magnifique résultat pour Team Jura 1
-redirect_from: /blog/magnifique-resultat-pour-team-jura-1/
+redirect_from: /blog/magnifique-resultat-pour-team-jura-1
 ---
 
 C'est une magnifique 7ème place que remporte notre Team Jura 1.

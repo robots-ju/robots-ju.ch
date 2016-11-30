@@ -1,6 +1,6 @@
 ---
 title: Reprise des ateliers
-redirect_from: /blog/reprise-des-ateliers-2014-2/
+redirect_from: /blog/reprise-des-ateliers-2014-2
 ---
 
 Les ateliers robots ont repris cette semaine.
