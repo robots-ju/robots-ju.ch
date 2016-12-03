@@ -6,15 +6,14 @@ permalink: /events
 
 Différents événements à venir auxquels participe le club ou organisés par le club.
 
-## Samedi 3 décembre 2016 - Coupe FLL à Lausanne
+## Samedi 21 janvier 2017 - Finale suisse FLL à Windisch
 
-Première étape de la compétition, la [compétition régionale FLL à l'EPFL](http://sps.epfl.ch/cms/site/sps/lang/fr/FLL).
-Rendez-vous le 3 décembre où nous participerons avec 4 équipes !
+Nos équipes **Team Jura 1** et **Les Cubix** sont sélectionnées pour la finale suisse
+qui aura lieu le samedi 21 janvier 2017 à Windisch.
 
-## Samedi 21 janvier 2016 - Finale suisse FLL à Windisch
-
-Avec nos membres super-motivés et nos 4 équipes Team Jura nous pouvons espérer nous y rendre...
-Nous le saurons le 3 décembre !
+Nous y affronterons les meilleurs équipes suisses,
+tenterons de décrocher une place en finale européenne
+et, qui sait, de peut-être enfin maîtriser le suisse allemand !
 
 ## Samedi 11 mars 2017 - Coupe Robots-JU à Delémont
 
