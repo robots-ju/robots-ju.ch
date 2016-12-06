@@ -6,6 +6,9 @@ permalink: /ateliers-java
 
 ![Un de nos ateliers de programmation](/media/banners/java.jpg)
 
+**Nous allons probablement séparer l'atelier java en ateliers plus spécifiques.
+Rendez-vous [ici](/nouveaux-ateliers) pour les détails**
+
 Le groupe est en principe ouvert à toutes les personnes dès 16 ans qui veulent
 apprendre le langage de programmation Java et l'utiliser dans la robotique.
 
