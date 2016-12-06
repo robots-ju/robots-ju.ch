@@ -4,11 +4,24 @@ layout: page
 permalink: /palmares
 ---
 
-## 2016
+## 2017
 
 ### A venir
 
-- Concours FLL "Animal Allies", décembre 2016
+- Finale suisse "Animal Allies", février 2017
+
+## 2016
+
+### Sélection régionale FLL "Animal Allies"
+
+3 décembre, EPFL Lausanne
+
+- Participation avec 4 équipes: 2ème, 3ème, 4ème et 8ème
+- 2 équipes sélectionnées pour la finale suisse: **Team Jura 1** et **Les Cubix**
+- 4 meilleurs scores au Robot Game: 1er, 2ème, 3ème, 4ème
+- **Nos 4 équipes ont disputé les demi-finales du Robot Game !**
+
+[Détail des scores]({% post_url 2016-12-03-fll-lausanne %})
 
 ### Coupe Robots-JU
 
