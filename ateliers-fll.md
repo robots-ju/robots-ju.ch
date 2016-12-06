@@ -43,9 +43,10 @@ sous la forme de leur choix: exposé, pièce de théâtre, chanson, etc...
 ### Travail d'équipe
 
 Les membres sont testés sur leur capacité à travailler ensemble,
-dans un travail de groupe qui implique généralement de bien de connaître et de savoir s'organiser.
+dans un travail de groupe qui implique généralement de bien se connaître et de savoir s'organiser.
 
-Plus d'informations: <http://www.firstlegoleague.org/> (Site global)
+Plus d'informations: <http://www.firstlegoleague.org/> (Site global, EN),
+<http://www.first-lego-league.org/> (Site Europe, DE/EN)
 et <http://sps.epfl.ch/FLL> (Organisation à l'EPFL)
 
 ## La Coupe Roberta
@@ -53,3 +54,13 @@ et <http://sps.epfl.ch/FLL> (Organisation à l'EPFL)
 La Coupe Roberta est un concours organisé par le centre éponyme de l'EPFL. Il reprend le tapis de jeu du championnat FLL, et consiste en 2 épreuves: les matchs de robots et le travail d'équipe.
 
 Plus d'informations: <http://sps.epfl.ch/CoupeRoberta>
+
+## La Coupe Robots-JU
+
+La Coupe Robots-JU reprend le concept de la Coupe Roberta, avec une organisation jurassienne.
+On y retrouve les matchs de robots (Robot Game), à une cadence bien plus soutenue ainsi
+qu'une mission secrète (Live Challenge) qui doit être accomplie par les équipes sans préparation ni aide extérieure.
+
+Elle est organisée par nos soins et ouverte à toutes les équipes suisses. La deuxième édition aura lieu le 11 mars 2017.
+
+Plus d'informations: <https://coupe.robots-ju.ch/>
