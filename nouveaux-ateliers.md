@@ -43,6 +43,9 @@ Rien n'est encore planifié, nous recherchons actuellement des participants comm
 Cela t'intéresse ? Tu peux rejoindre ce [groupe Telegram](https://telegram.me/joinchat/BBEJhwmXEwuRsOvMQsj_Sg)*
 où tous les intéressés sont conviés ou directement contacter Clark Winkelmann par email à <clark.winkelmann@gmail.com>.
 
+**Nous serons également présents certains samedis après-midis à Glovelier dès la rentrée.**
+Envoie un mail à <clark.winkelmann@gmail.com> si tu souhaites venir voir / discuter de ce que nous avons à proposer !
+
 L'idée est de rassembler les intéressés afin de mettre sur pied de touts nouveaux ateliers selon vos désirs.
 Le groupe est un premier moyen de discussion, où vous pourrez présenter vos intérêts.
 Si l'on rassemble suffisemment de monde on pourra se rencontrer pour parler des détails !
