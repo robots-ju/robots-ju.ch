@@ -2,6 +2,7 @@ description: Club de robotique jurassien
 url: "https://robots-ju.ch"
 
 markdown: kramdown
+excerpt_separator: <!--more-->
 permalink: /:year/:month/:day/:title
 defaults:
   - scope:
@@ -9,6 +10,9 @@ defaults:
       type: posts
     values:
       layout: post
+
+collections:
+  - projects
 
 gems:
   - jekyll-feed
@@ -18,21 +22,63 @@ exclude:
   - Gemfile.lock
 
 main_menu:
-  - title: Home
-    url: /
-  - title: Photos
-    url: /photos
   - title: Ateliers FLL
     url: /ateliers-fll
-  - title: Ateliers Java
-    url: /ateliers-java
+  - title: Ateliers Avancés
+    url: /nouveaux-ateliers
+  - title: Ateliers Prog
+    url: /ateliers-prog
   - title: Événements
     url: /events
-  - title: Projets
-    url: /projects
+  - title: Outils
+    url: /outils
   - title: Palmarès
     url: /palmares
   - title: À propos
     url: /about
   - title: Contact
     url: /contact
+
+sitemap:
+  activities:
+    - title: Ateliers FLL
+      url: /ateliers-fll
+    - title: Ateliers Avancés
+      url: /nouveaux-ateliers
+    - title: Ateliers Prog
+      url: /ateliers-prog
+    - title: Coupe Robots-JU
+      url: https://coupe.robots-ju.ch/
+    - title: Événements
+      url: /events
+  pages:
+    - title: Accueil
+      url: /
+    - title: Outils
+      url: /outils
+    - title: Palmarès
+      url: /palmares
+    - title: À propos
+      url: /about
+    - title: Sponsoring
+      url: /sponsoring
+    - title: Contact
+      url: /contact
+
+social_links:
+  - title: Twitter
+    url: https://twitter.com/RobotsJU
+    label: "@RobotsJU"
+    icon: twitter
+  - title: Facebook
+    url: https://www.facebook.com/RobotsJU/
+    label: "@RobotsJU"
+    icon: facebook
+  - title: YouTube
+    url: https://www.youtube.com/user/robotsju
+    label: /robotsju
+    icon: youtube-play
+  - title: GitHub
+    url: https://github.com/robots-ju
+    label: "robots-ju"
+    icon: github

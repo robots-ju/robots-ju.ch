@@ -1,7 +1,9 @@
 ---
 title: Ateliers FLL
-layout: page
+layout: sidebar
 permalink: /ateliers-fll
+banner_image: /media/banners/table-animalallies.jpg
+banner_text: Le groupe de robotique LEGO pour les 10-16 ans
 ---
 
 Le groupe FLL réunit chaque semaine des jeunes filles et garçons de 10 à 16 ans.
@@ -12,11 +14,9 @@ Le groupe FLL leur donne la possibilité de mettre en pratique leurs connaissanc
 
 En participant régulièrement au concours de la FIRST LEGO League, entre autres, ils travaillent également d'autres compétences dans des domaines variés.
 
-![Robot Game](/media/banners/fll.jpg)
-
 ## Concours FIRST LEGO League (FLL)
 
-La [coupe FLL](http://www.firstlegoleague.org/) est une compétition organisée par l'association FIRST.
+La [Coupe FLL](http://www.firstlegoleague.org/) est une compétition organisée par l'association FIRST.
 Elle se découpe en 4 parties: Matchs de robots, Design du robot, recherche scientifique et travail d'équipe.
 
 ### Matchs de robots
@@ -46,7 +46,7 @@ Les membres sont testés sur leur capacité à travailler ensemble,
 dans un travail de groupe qui implique généralement de bien se connaître et de savoir s'organiser.
 
 Plus d'informations: <http://www.firstlegoleague.org/> (Site global, EN),
-<http://www.first-lego-league.org/> (Site Europe, DE/EN)
+<https://www.first-lego-league.org/> (Site Europe, DE/EN)
 et <http://sps.epfl.ch/FLL> (Organisation à l'EPFL)
 
 ## La Coupe Roberta
@@ -64,3 +64,24 @@ qu'une mission secrète (Live Challenge) qui doit être accomplie par les équip
 Elle est organisée par nos soins et ouverte à toutes les équipes suisses. La deuxième édition aura lieu le 11 mars 2017.
 
 Plus d'informations: <https://coupe.robots-ju.ch/>
+
+<!-- section -->
+
+## Rejoindre l'atelier
+
+L'atelier FLL a lieu le samedi matin dans nos locaux de [Glovelier](https://www.google.ch/maps/place/Rue+des+Places+7,+2855+Glovelier/@47.3390915,7.2066171,17z/data=!3m1!4b1!4m5!3m4!1s0x4791e4df12d571d5:0xfc3cb407ccf2c65f!8m2!3d47.3390879!4d7.2088058?hl=fr).
+
+Prérequis pour votre enfants:
+
+- Être âgé de 10 à 16 ans
+- Avoir suivi le [cours Roberta](http://sps.epfl.ch/CoursRobot)
+
+Robots-JU est organisé en association qui demande une inscription et une cotisation.
+Actuellement, nous demandons 100.- par année.
+
+Vous ne savez pas si cet atelier lui convient ?
+Vous pouvez sans soucis passer quelques samedis afin de vous rendre compte sans engagement.
+
+Vous souhaitez inscrire votre enfant ? Contactez-nous via ce formulaire:
+
+{% include contact-form.html %}

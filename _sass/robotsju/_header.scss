@@ -1,0 +1,95 @@
+.brand-inception {
+    position: relative;
+    background: $robotsju-color-green;
+    color: $robotsju-color-white;
+
+    &::before {
+        content: '';
+        display: block;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        right: 100%;
+        left: -1200px; // Doit sortir de l'écran, environ la moitié de la largeur max de la fenêtre suffit
+        background: $robotsju-color-green;
+    }
+}
+
+header {
+    background: $robotsju-color-white;
+    text-transform: uppercase;
+
+    .container {
+        display: flex;
+
+        .main-menu {
+            flex-grow: 1;
+        }
+
+        ul {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+            display: flex;
+            flex-wrap: wrap;
+            color: #333;
+
+            li {
+                flex-grow: 1;
+            }
+        }
+
+        a {
+            color: inherit;
+            display: block;
+            text-align: center;
+            padding: 2em 1em;
+            text-decoration: none;
+
+            &.active,
+            &:hover {
+                background: #f2f2f2;
+            }
+        }
+
+        .logo {
+            a {
+                font-weight: bold;
+
+                @media (min-width: $screen-md-min) {
+                    font-size: 2em;
+                    padding: 0.7em 1em 0.6em 0.5em;
+                }
+
+                &:hover {
+                    background: rgba(black, 0.2);
+                }
+            }
+        }
+
+        @media (min-width: $screen-lg-min) {
+            .member-menu {
+                position: absolute;
+                top: 0;
+                right: 0;
+                background: #f2f2f2;
+            }
+        }
+
+        @media (max-width: $screen-md-max) {
+            display: block;
+
+            a {
+                padding: 0.5em;
+            }
+
+            ul {
+                display: inline;
+
+                li {
+                    display: inline-block;
+                }
+            }
+        }
+    }
+}

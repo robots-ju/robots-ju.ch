@@ -1,0 +1,38 @@
+footer {
+    color: $robotsju-color-darkgrey;
+
+    a {
+        color: inherit;
+    }
+
+    h3 {
+        text-transform: uppercase;
+        color: #aaa;
+        font-size: 1.3em;
+        margin: 2em 0 1em;
+    }
+
+    ul {
+        list-style: none;
+        padding: 0;
+
+        a {
+            display: block;
+            margin-bottom: 0.4em;
+        }
+    }
+
+    .brand-inception {
+        padding: 1px 0;
+        min-height: 240px;
+
+        h3 {
+            color: inherit;
+        }
+
+        .copyright {
+            margin-top: 40px;
+            font-size: 0.9em;
+        }
+    }
+}

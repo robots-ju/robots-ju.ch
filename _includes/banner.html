@@ -1,0 +1,9 @@
+{% if page.banner_image %}
+<section class="banner-image" style="background-image: url({{ page.banner_image }})">
+    {% if page.banner_text %}
+    <div class="banner-text">
+        <div class="container">{{ page.banner_text }}</div>
+    </div>
+    {% endif %}
+</section>
+{% endif %}

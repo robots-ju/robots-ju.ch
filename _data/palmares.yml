@@ -1,0 +1,267 @@
+- type: fll
+  title: FLL "Food Factor"
+  step: Sélection régionale EPFL Lausanne
+  date: 2011-11-01
+  teams:
+  - name: Team Jura
+    rank: 3
+    qualified: true
+    scores:
+      research: 1
+- type: fll
+  title: Finale FLL "Food Factor"
+  step: Finale suisse Brugg-Windisch
+  date: 2011-12-03
+  teams:
+  - name: Team Jura
+    rank: 17
+- type: fll
+  title: FLL "Senior Solutions"
+  step: Sélection régionale EPFL Lausanne
+  date: 2012-11-10
+  teams:
+  - name: Team Jura
+    rank: 7
+    scores:
+      teamwork: 1
+- type: roberta
+  title: Coupe Roberta
+  place: EPFL Lausanne
+  date: 2013-04-20
+  teams:
+  - name: Team Jura
+    rank: 7
+- type: fll
+  title: FLL "Nature’s Fury"
+  step: Sélection régionale EPFL Lausanne
+  date: 2013-11-09
+  teams:
+  - name: Team Jura Senior
+    rank: 5
+    scores:
+      robotdesign: 2
+      teamwork: 10
+      research: 4
+      robotgame: 8
+  - name: Team Jura Junior
+    rank: 8
+    scores:
+      robotdesign: 6
+      teamwork: 3
+      research: 11
+      robotgame: 10
+- type: roberta
+  title: Coupe Roberta
+  place: EPFL Lausanne
+  date: 2014-04-05
+  teams:
+  - name: Team Jura 2
+    rank: 3
+    scores:
+      robotgame: 2
+  - name: Team Jura 3
+    rank: 5
+  - name: Team Jura 1
+    rank: 13
+- type: fll
+  title: FLL "World Class"
+  step: Sélection régionale EPFL Lausanne
+  date: 2014-11-29
+  teams:
+  - name: Team Jura 2
+    rank: 4
+    juryaward: true
+    scores:
+      robotgame: 3
+      teamwork: 5
+      robotdesign: 2
+      research: 7
+  - name: Team Jura 1
+    rank: 5
+    scores:
+      robotgame: 7
+      teamwork: 2
+      robotdesign: 6
+      research: 5
+  - name: Team Jura 3
+    rank: 6
+    scores:
+      robotgame: 5
+      teamwork: 4
+      robotdesign: 6
+      research: 9
+- type: roberta
+  title: Coupe Roberta
+  place: EPFL Lausanne
+  date: 2015-03-28
+  teams:
+  - name: Team Jura 1
+    rank: 2
+    scores:
+      robotgame: 2
+      livechallenge: 3
+  - name: Team Jura 2
+    rank: 3
+    scores:
+      robotgame: 1
+      livechallenge: 4
+  - name: Team Jura 3
+    rank: 6
+    scores:
+      robotgame: 6
+      livechallenge: 10
+  notes:
+  - "Une équipe meilleur score des match de qualification"
+- type: fll
+  title: FLL "Trash Trek"
+  step: Sélection régionale EPFL Lausanne
+  date: 2015-12-12
+  teams:
+  - name: Team Jura 1
+    rank: 3
+    qualified: true
+    scores:
+      robotgame: 2
+      teamwork: 1
+      robotdesign: 5
+      research: 6
+  - name: Team Jura 3
+    rank: 7
+    scores:
+      robotgame: 4
+      teamwork: 8
+      robotdesign: 5
+      research: 9
+  - name: Team Jura 2
+    rank: 8
+    scores:
+      robotgame: 4
+      teamwork: 5
+      robotdesign: 9
+      research: 6
+- type: fll
+  title: Finale FLL "Trash Trek"
+  step: Finale suisse EPFL Lausanne
+  date: 2016-02-13
+  teams:
+  - name: Team Jura 1
+    rank: 7
+    scores:
+      robotgame: 4
+      teamwork: 11
+      robotdesign: 6
+      research: 13
+- type: robotsju
+  title: Coupe Robots-JU
+  place: Cinemont Delémont
+  date: 2016-05-21
+  teams:
+  - name: Team Jura 1
+    rank: 2
+    scores:
+      robotgame: 3
+      livechallenge: 4
+  - name: Team Jura 3
+    rank: 5
+    scores:
+      robotgame: 2
+      livechallenge: 4
+  - name: Team Jura 4
+    rank: 8
+    scores:
+      robotgame: 8
+      livechallenge: 4
+  - name: Team Jura 2
+    rank: 9
+    scores:
+      robotgame: 9
+      livechallenge: 4
+  notes:
+  - "Une équipe meilleur score de match"
+- type: fll
+  title: FLL "Animal Allies"
+  step: Sélection régionale EPFL Lausanne
+  date: 2016-12-03
+  teams:
+  - name: Team Jura 1
+    rank: 2
+    qualified: true
+    scores:
+      robotgame: 1
+      teamwork: 5
+      robotdesign: 3
+      research: 11
+  - name: Les Cubix
+    rank: 3
+    qualified: true
+    scores:
+      robotgame: 3
+      teamwork: 5
+      robotdesign: 5
+      research: 4
+  - name: Team Jura 2
+    rank: 4
+    scores:
+      robotgame: 2
+      teamwork: 5
+      robotdesign: 10
+      research: 4
+  - name: Team JurAllies
+    rank: 8
+    scores:
+      robotgame: 4
+      teamwork: 10
+      robotdesign: 6
+      research: 4
+  notes:
+  - "Nos 4 équipes ont disputé les demi-finales du Robot Game !"
+- type: fll
+  title: Finale FLL "Animal Allies"
+  step: Finale suisse Brugg-Windisch
+  date: 2017-02-21
+  teams:
+  - name: Team Jura 1
+    rank: 4
+    juryaward: true
+    scores:
+      robotgame: 3
+      teamwork: 3
+      robotdesign: 7
+      research: 6
+  - name: Les Cubix
+    rank: 13
+    scores:
+      robotgame: 9
+      teamwork: 11
+      robotdesign: 12
+      research: 14
+- type: robotsju
+  title: Coupe Robots-JU
+  place: StrateJ Delémont
+  date: 2017-03-11
+  teams:
+  - name: MADAORPLULA
+    rank: 1
+    scores:
+      robotgame: 1
+      livechallenge: 2
+  - name: Team Jur’Allies
+    rank: 2
+    scores:
+      robotgame: 6
+      livechallenge: 1
+  - name: Team Jura 2
+    rank: 4
+    scores:
+      robotgame: 4
+      livechallenge: 4
+  - name: CUB-X
+    rank: 8
+    scores:
+      robotgame: 9
+      livechallenge: 5
+  - name: RHINO
+    rank: 9
+    scores:
+      robotgame: 7
+      livechallenge: 9

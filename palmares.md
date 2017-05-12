@@ -2,103 +2,80 @@
 title: Palmarès
 layout: page
 permalink: /palmares
+banner_image: /media/banners/attestations.jpg
+banner_text: Nos performances aux différents concours
 ---
 
-## 2017
-
-### A venir
-
-- Finale suisse "Animal Allies", février 2017
-
-## 2016
-
-### Sélection régionale FLL "Animal Allies"
-
-3 décembre, EPFL Lausanne
-
-- Participation avec 4 équipes: 2ème, 3ème, 4ème et 8ème
-- 2 équipes sélectionnées pour la finale suisse: **Team Jura 1** et **Les Cubix**
-- 4 meilleurs scores au Robot Game: 1er, 2ème, 3ème, 4ème
-- **Nos 4 équipes ont disputé les demi-finales du Robot Game !**
-
-[Détail des scores]({% post_url 2016-12-03-fll-lausanne %})
-
-### Coupe Robots-JU
-
-21 mai, Delémont
-
-- 4 équipes: 2ème, 5ème, 8ème & 9ème
-- Une équipe en finale des matches de robots
-- Une équipe meilleur score de match
-
-### FLL Semi Final Switzerland "Trash Trek"
-
-13 février, Team Jura 1, EPFL Lausanne
-
-- 7ème rang
-- Demi-finale des matches de robots
-
-## 2015
-
-### Concours FLL "Trash Trek"
-
-12 décembre, EPFL Lausanne
-
-- 3 équipes: 3ème, 7ème & 8ème
-- Une équipe première au travail de groupe
-- Une équipe 2e aux matchs de robots
-
-### Coupe Roberta
-
-28.03 EPFL Lausanne
-
-- 3 équipes : 2ème, 3ème & 6ème
-- une équipe vainqueur des match de robots
-- une équipe meilleur score des match de qualification
-
-## 2014
-
-### Concours FLL "World Class"
-
-29.11 sélection régionale EPFL Lausanne
-
-- 3 équipes : 4ème, 5ème & 6ème
-- une équipe finaliste des match de robots
-- Prix spécial du jury
-
-### Coupe Roberta
-
-05.04 EPFL Lausanne
-
-- 3 équipes : 3ème, 5ème & 13ème
-- une équipe finaliste des match de robots
-
-## 2013
-
-### Concours FLL "Nature's Fury"
-
-09.11 sélection régionale EPFL Lausanne
-
-- 2 équipes 5ème & 8ème
-
-### Coupe Roberta
-
-20.04 EPFL Lausanne 7ème
-
-## 2012
-
-### Concours FLL "Senior Solutions"
-
-10.11 sélection régionale EPFL Lausanne 7ème
-
-- Meilleur travail d'équipe
-
-## 2011
-
-### Concours FLL "Food Factor"
-
-03.12 finale suisse Brugg-Windisch 17ème
-
-01.11 sélection régionale EPFL Lausanne 3ème
-
-- Meilleur projet de recherche
+<table class="table table-palmares">
+    <tbody>
+        {% assign last_year = nil %}
+        {% for competition in site.data.palmares reversed %}
+        {% assign competition_year = competition.date | date: "%Y" %}
+        {% if competition_year != last_year %}
+        <tr class="year-jump">
+            <td colspan="6"><h2 class="side-title">{{ competition_year }}</h2></td>
+            {% assign last_year = competition_year %}
+        </tr>
+        {% endif %}
+        <tr class="competion-title type-{{ competition.type }}">
+            <td colspan="6">
+                {% if competition.type == 'fll' %}
+                <a class="logo" href="https://www.first-lego-league.org/"><img src="/media/competitions/fll.png"></a>
+                {% elsif competition.type == 'roberta' %}
+                <a class="logo" href="http://sps.epfl.ch/CoupeRoberta"><img src="/media/competitions/roberta.jpg"></a>
+                {% elsif competition.type == 'robotsju' %}
+                <a class="logo" href="https://coupe.robots-ju.ch/"><img src="/media/competitions/robotsju.png"></a>
+                {% endif %}
+                <h3>{{ competition.title }}</h3>
+                <p>{{ competition.date }}, {{ competition.step }}{{ competition.place }}</p>
+            </td>
+        </tr>
+        <tr class="competition-headers">
+            <th></th>
+            <th>Rang</th>
+            {% if competition.type == 'fll' %}
+            <th>Robot-Game</th>
+            <th>Travail d'équipe</th>
+            <th>Design du robot</th>
+            <th>Travail de recherche</th>
+            {% endif %}
+            {% if competition.type == 'roberta' or competition.type == 'robotsju' %}
+            <th>Robot-Game</th>
+            <th>Live Challenge</th>
+            {% endif %}
+        </tr>
+        {% for team in competition.teams %}
+        <tr>
+            <td>
+                {{ team.name }}
+                {% if team.qualified %}
+                <i class="fa fa-trophy" title="Équipe qualifiée"></i>
+                {% endif %}
+                {% if team.juryaward %}
+                <i class="fa fa-star" title="Jury Award"></i>
+                {% endif %}
+            </td>
+            <td class="standout">{{ team.rank }}</td>
+            <td{% if team.scores.robotgame <= 4 %} class="standout"{% endif %}>{{ team.scores.robotgame   }}</td>
+            {% if competition.type == 'fll' %}
+            <td{% if team.scores.teamwork    == 1 %} class="standout"{% endif %}>{{ team.scores.teamwork    }}</td>
+            <td{% if team.scores.robotdesign == 1 %} class="standout"{% endif %}>{{ team.scores.robotdesign }}</td>
+            <td{% if team.scores.research    == 1 %} class="standout"{% endif %}>{{ team.scores.research    }}</td>
+            {% endif %}
+            {% if competition.type == 'roberta' or competition.type == 'robotsju' %}
+            <td{% if team.scores.livechallenge == 1 %} class="standout"{% endif %}>{{ team.scores.livechallenge }}</td>
+            {% endif %}
+        </tr>
+        {% endfor %}
+        {% if competition.notes %}
+        <tr>
+            <td colspan="6">
+                {% for note in competition.notes %}
+                <p class="note">{{ note }}</p>
+                {% endfor %}
+            </td>
+        </tr>
+        {% endif %}
+        {% endfor %}
+    </tbody>
+</table>

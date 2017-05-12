@@ -1,7 +1,9 @@
 ---
-title: Nouveaux ateliers
-layout: page
+title: Nouveaux ateliers avancés
+layout: sidebar
 permalink: /nouveaux-ateliers
+banner_image: /media/banners/programmation-robotique.jpg
+banner_text: Aller plus loin en robotique
 ---
 
 Tu es intéressé par la programmation ?
@@ -24,7 +26,7 @@ mais nous accueillons volontiers toute personne motivée !
 
 D'après les premiers avis, il y a de l'intérêt pour organiser (par exemple):
 
-- Un atelier / cours de programmation, autour de languages comme java
+- Un atelier / cours de programmation, autour de langages comme java
 - Un atelier de robotique, où l'on réalisera par groupe de petits (ou grands !) projets
 
 Les horaires pourront inclure:
@@ -38,17 +40,18 @@ En sa qualité de club, Robots-JU pourrait par exemple mettre à disposition:
 - Le matériel nécessaire aux projets
 - Couvrir les frais de transport à d'éventuelles compétitions
 
-Rien n'est encore planifié, nous recherchons actuellement des participants comme toi pour en discuter !
-
-Cela t'intéresse ? Tu peux rejoindre ce [groupe Telegram](https://telegram.me/joinchat/BBEJhwmXEwuRsOvMQsj_Sg)*
-où tous les intéressés sont conviés ou directement contacter Clark Winkelmann par email à <clark.winkelmann@gmail.com>.
-
-**Nous serons également présents certains samedis après-midis à Glovelier dès la rentrée.**
-Envoie un mail à <clark.winkelmann@gmail.com> si tu souhaites venir voir / discuter de ce que nous avons à proposer !
-
 L'idée est de rassembler les intéressés afin de mettre sur pied de touts nouveaux ateliers selon vos désirs.
 Le groupe est un premier moyen de discussion, où vous pourrez présenter vos intérêts.
-Si l'on rassemble suffisemment de monde on pourra se rencontrer pour parler des détails !
+Si l'on rassemble suffisamment de monde on pourra se rencontrer pour parler des détails !
 
-\* [Telegram](https://telegram.org/) est un logiciel de messagerie similaire à WhatsApp, en plus sécurisé
-et surtout offrant la possibilité de créer des groupes sans que les membres doivent partager leur numéro de portable publiquement.
+<!-- section -->
+
+## Rejoindre l'atelier
+
+Rien n'est encore planifié, nous recherchons actuellement des participants comme toi pour en discuter !
+
+Cela t'intéresse ? Tu peux rejoindre ce [groupe Telegram](https://telegram.me/joinchat/BBEJhwmXEwuRsOvMQsj_Sg)
+où tous les intéressés sont conviés ou directement contacter Clark Winkelmann par email à <clark.winkelmann@gmail.com>.
+
+**Nous sommes également présents certains samedis après-midis à Glovelier.**
+Envoie un mail à <clark.winkelmann@gmail.com> si tu souhaites venir voir / discuter de ce que nous avons à proposer !

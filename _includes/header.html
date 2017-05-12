@@ -1,27 +1,20 @@
-<div id="header">
-    <div id="header-banner">
-        <div class="logo">
-            <a href="/"><img alt="Logo" src="/media/site/logo300.png" /></a>
+<header>
+    <div class="container">
+        <div class="logo brand-inception">
+            <a href="/">Robots-JU</a>
         </div>
-        <div class="motto">
-            La robotique à la jurassienne
-        </div>
-        <div class="login">
-            <div class="loginTitle"><a href="https://membres.robots-ju.ch/">Accès à la partie membres</a></div>
-        </div>
-        
-        <div class="our-activities-banner" data-fromlink="3" data-linkscount="3">Nos activités !</div>
+        <ul class="main-menu">
+            {% for link in site.main_menu %}
+            {% assign current = nil %}
+            {% if page.url == link.url %}{% assign current = 'active' %}{% endif %}
+            {% if page.url == '/index.html' and link.url == '/' %}{% assign current = 'active' %}{% endif %}
+            <li>
+                <a href="{{ link.url }}" class="{{ current }}">{{ link.title }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+        <ul class="member-menu">
+            <li><a href="https://membres.robots-ju.ch/">Espace membres</a></li>
+        </ul>
     </div>
-    <div class="menu-toggle-button js-menu-toggle-button"><span class="text">Menu</span></div>
-    <div class="menu-toggle-group js-menu-toggle-group">
-        <div id="header-menu">
-            <ul class="nav"><!--
-                {% for link in site.main_menu %}
-                --><li>
-                    <a href="{{ link.url }}">{{ link.title }}</a>
-                </li><!--
-                {% endfor %}
-            --></ul>
-        </div>
-    </div>
-</div>
+</header>
