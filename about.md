@@ -89,7 +89,8 @@ Le 21 janvier 2017 nos deux équipes qualifiées *Team Jura 1* et *Les Cubix* pa
 
 En janvier également nous lançons le compte Twitter de la [@CoupeRobotsJU](https://twitter.com/CoupeRobotsJU)
 
-Et l'année n'est pas finie... La seconde [Coupe Robots-JU](https://coupe.robots-ju.ch/) se déroulera en mars et une nouvelle saison FLL commencera en août !
+La seconde [Coupe Robots-JU](https://coupe.robots-ju.ch/) s'est déroulée le 11 mars avec succès.
+9 équipes romandes y ont pris part.
 
 ## Futur
 

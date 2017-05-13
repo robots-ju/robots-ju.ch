@@ -76,12 +76,9 @@ Prérequis pour votre enfants:
 - Être âgé de 10 à 16 ans
 - Avoir suivi le [cours Roberta](http://sps.epfl.ch/CoursRobot)
 
-Robots-JU est organisé en association qui demande une inscription et une cotisation.
-Actuellement, nous demandons 100.- par année.
+Le club Robots-JU est organisé en association.
 
-Vous ne savez pas si cet atelier lui convient ?
-Vous pouvez sans soucis passer quelques samedis afin de vous rendre compte sans engagement.
-
-Vous souhaitez inscrire votre enfant ? Contactez-nous via ce formulaire:
+Vous souhaitez inscrire votre enfant ou obtenir davantage de renseignements ?
+Contactez-nous via ce formulaire:
 
 {% include contact-form.html %}
