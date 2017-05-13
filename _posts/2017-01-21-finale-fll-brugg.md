@@ -7,6 +7,8 @@ Ce samedi a eu lieu la finale FIRST LEGO League Suisse à Brugg-Windisch.
 Nous nous y sommes rendus avec nos deux équipes qualifiées **Team Jura 1** et **Les Cubix**.
 Aucune d'entre elle n'ira malheureusement en finale européenne =(
 
+<!--more-->
+
 **Team Jura 1** a remporté les prix suivants:
 
 - **3e** au classement Robot-Game, après avoir disputé 3 rounds, les quarts de finales, puis demi-finale.

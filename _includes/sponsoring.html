@@ -1,0 +1,13 @@
+<section class="sponsoring">
+    <div class="container">
+        <div class="thanks">
+            <h3>Merci à nos sponsors !</h3>
+            <p><a href="/sponsoring">Devenez sponsor</a></p>
+        </div>
+        <ul class="sponsors">
+            {% for sponsor in site.data.sponsors %}
+            <li><a href="{{ sponsor.url }}" title="{{ sponsor.title }}"><img alt="{{ sponsor.title }}" src="{{ sponsor.img }}"></a></li>
+            {% endfor %}
+        </ul>
+    </div>
+</section>

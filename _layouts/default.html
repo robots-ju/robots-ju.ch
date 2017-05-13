@@ -2,31 +2,9 @@
 <html>
 {% include head.html %}
 <body>
-    <!--[if lte IE 8]>
-    <div id="ienotice">Votre version d'Internet Explorer est obsolète. Mettez votre navigateur à jour pour bénéficier d'un affichage correct de ce site.<br>
-    Consultez <a href="http://browsehappy.com/?locale=fr" target="_blank">BrowseHappy.com</a> pour plus d'informations sur les navigateurs internet</div>
-    <![endif]-->
-    <div id="container">
-        {% include header.html %}
-        <div id="page"><!--
-        --><div id="page-content">
-            {{ content }}
-        </div><!--
-        --><div id="page-sidebar">
-            {% include sidebar.html %}
-        </div><!--
-    --></div>
-        {% include footer.html %}
-    </div>
-    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
-    <script type="text/javascript">
-        $('.js-menu-toggle-group').addClass('js-enabled');
-
-        $('.js-menu-toggle-button').click(function() {
-            $('.js-menu-toggle-group').toggleClass('visible');
-        });
-    </script>
-    <script src="/js/our-activities-banner.js"></script>
+    {% include header.html %}
+    {{ content }}
+    {% include footer.html %}
     {% include analytics.html %}
 </body>
 </html>

@@ -10,6 +10,8 @@ créant pour la première fois une demi-finale et finale 100% jurassienne !
 La **Team Cubix** finit quant à elle 3e au classement général et se qualifie également pour la [finale suisse à Windisch](/events).
 Nos autres équipes ne sont pas qualifiées mais décrochent également de très bons résultats dans les diverses disciplines.
 
+<!--more-->
+
 ![Photo](/media/posts/2016-12-03-club-complet.jpg)
 ![Photo](/media/posts/2016-12-03-affiche.jpg)
 ![Photo](/media/posts/2016-12-03-robot-team1.jpg)
@@ -40,7 +42,7 @@ Le détail des résultats peut être consulté ci-dessous:
 | 12         | Haut-Lac Primaire  | 94     |
 | 13         | ARCADIEN           | 91     |
 | 14         | Trois S∆∆∆pins     | 81     |
-{: class="table-resultats"}
+{: class="table table-striped table-condensed"}
 
 ## Robot Game
 
@@ -60,7 +62,7 @@ Le détail des résultats peut être consulté ci-dessous:
 | 12         | ARCADIEN           | 57               |
 | -          | REBOOTS            | 57               |
 | 14         | Haut-Lac Primaire  | 27               |
-{: class="table-resultats"}
+{: class="table table-striped table-condensed"}
 
 ## Présentation de recherche
 
@@ -80,7 +82,7 @@ Le détail des résultats peut être consulté ci-dessous:
 | 12         | REBOOTS            | 20     |
 | 13         | ARCADIEN           | 12     |
 | 14         | Trois S∆∆∆pins     | 0      |
-{: class="table-resultats"}
+{: class="table table-striped table-condensed"}
 
 ## Travail d'équipe
 
@@ -100,7 +102,7 @@ Le détail des résultats peut être consulté ci-dessous:
 | -          | Roboteens 2.0      | 40     |
 | 13         | ARCADIEN           | 39     |
 | 14         | Trois S∆∆∆pins     | 36     |
-{: class="table-resultats"}
+{: class="table table-striped table-condensed"}
 
 ## Conception du robot
 
@@ -120,4 +122,4 @@ Le détail des résultats peut être consulté ci-dessous:
 | 12         | Trois S∆∆∆pins     | 18     |
 | 13         | REBOOTS            | 12     |
 | 14         | Haut-Lac Primaire  | 7      |
-{: class="table-resultats"}
+{: class="table table-striped table-condensed"}

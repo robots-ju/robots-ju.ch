@@ -1,0 +1,17 @@
+---
+layout: nocontainer
+---
+
+{% assign sections = content | split: '<!-- section -->' %}
+
+<div class="container page">
+    <div class="row">
+        <section class="col-md-6">
+            <h1>{{ page.title }}</h1>
+            {{ sections[0] }}
+        </section>
+        <section class="col-md-6 sidebar">
+            {{ sections[1] }}
+        </section>
+    </div>
+</div>

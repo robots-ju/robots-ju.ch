@@ -1,0 +1,81 @@
+.table-palmares {
+    @media (min-width: $screen-md-min) {
+        .side-title {
+            top: 1em;
+        }
+
+    }
+
+    .year-jump {
+        td {
+            border-top: none;
+        }
+    }
+
+    .competion-title {
+        h3 {
+            font-size: 2em;
+        }
+
+        td {
+            border-top: none;
+            border-bottom: 4px solid #000;
+            padding-top: 1em;
+        }
+
+        p {
+            margin: 0;
+            color: $robotsju-color-darkgrey;
+            font-size: 0.9em;
+        }
+
+        &.type-fll {
+            td {
+                border-bottom-color: #F78B1F;
+            }
+        }
+        &.type-roberta {
+            td {
+                border-bottom-color: #AE0010;
+            }
+        }
+        &.type-robotsju {
+            td {
+                border-bottom-color: $robotsju-color-green;
+            }
+        }
+
+        .logo {
+            float: right;
+            padding-top: 1.2em;
+            filter: grayscale(100%);
+
+            &:hover {
+                filter: initial;
+            }
+        }
+    }
+
+    .competition-headers {
+        font-size: 0.85em;
+
+        th {
+            font-weight: normal;
+        }
+    }
+
+    td.standout {
+        background: $robotsju-color-lightgrey;
+    }
+
+    td:not(:first-child),
+    th:not(:first-child) {
+        text-align: center;
+    }
+
+    .note {
+        background: $robotsju-color-lightgrey;
+        margin: 0 0 0.2em;
+        padding: 1em;
+    }
+}

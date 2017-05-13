@@ -29,7 +29,7 @@ Ci-dessous vous trouverez le résumé des performance de nos équipes dans les d
 | 8          | **Team Jura 2**   | 118    |
 | 9          | SAP Roch          | 99     |
 | 10         | Haut-Lac Primaire | 84     |
-{: class="table-resultats"}
+{: class="table table-striped table-condensed"}
 
 ## Robot Game
 
@@ -45,7 +45,7 @@ Ci-dessous vous trouverez le résumé des performance de nos équipes dans les d
 | 8          | Tobor SAPiens     | 257     |
 | 9          | Haut-Lac Primaire | 145     |
 | 10         | SAP-Roch          | 133     |
-{: class="table-resultats"}
+{: class="table table-striped table-condensed"}
 
 ## Présentation de recherche
 
@@ -61,7 +61,7 @@ Ci-dessous vous trouverez le résumé des performance de nos équipes dans les d
 | 8          | SAP-Roch          | 30     |
 | 9          | **Team Jura 3**   | 29     |
 | 10         | Haut-Lac Primaire | 27     |
-{: class="table-resultats"}
+{: class="table table-striped table-condensed"}
 
 ## Travail d'équipe
 
@@ -77,7 +77,7 @@ Ci-dessous vous trouverez le résumé des performance de nos équipes dans les d
 | 8          | **Team Jura 3**   | 33     |
 | 9          | Haut-Lac Primaire | 32     |
 | 10         | SAP-Roch          | 29     |
-{: class="table-resultats"}
+{: class="table table-striped table-condensed"}
 
 ## Conception du robot
 
@@ -93,4 +93,4 @@ Ci-dessous vous trouverez le résumé des performance de nos équipes dans les d
 | 8          | SAP-Roch          | 30     |
 | 9          | **Team Jura 2**   | 24     |
 | 10         | Haut-Lac Primaire | 14     |
-{: class="table-resultats"}
+{: class="table table-striped table-condensed"}

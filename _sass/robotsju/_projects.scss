@@ -1,0 +1,42 @@
+.project {
+    background: $robotsju-color-lightgrey;
+    padding: $grid-gutter-width / 2;
+    margin-bottom: $grid-gutter-width;
+
+    .screenshot {
+        img {
+            max-width: 100%;
+        }
+
+        a:hover {
+            filter: grayscale(70%);
+        }
+    }
+
+    .links {
+        margin: $grid-gutter-width/2 0 0;
+        padding: $grid-gutter-width/2 $grid-gutter-width 0;
+        list-style: none;
+        border-top: 2px solid rgba($robotsju-color-darkgrey, 0.1);
+
+        li {
+            padding: 0.2em 0;
+
+            a {
+                text-decoration: none;
+                color: $robotsju-color-darkgrey;
+
+                .fa {
+                    display: inline-block;
+                    vertical-align: middle;
+                    margin-right: 10px;
+                    font-size: 25px;
+                }
+
+                &:hover {
+                    color: #333;
+                }
+            }
+        }
+    }
+}

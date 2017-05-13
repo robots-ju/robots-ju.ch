@@ -3,11 +3,12 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<title>Robots-JU{% if page.title %} - {{ page.title }}{% endif %}</title>
+	<title>{% if page.title %}{{ page.title }} - {% endif %}Robots-JU</title>
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-	<!--<link rel="icon" href="/favicon.png">-->
+	<link rel="icon" href="/media/favicon.png">
 	<link rel="stylesheet" href="/css/style.css">
-    <link href="https://fonts.googleapis.com/css?family=Londrina+Solid" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
 </head>

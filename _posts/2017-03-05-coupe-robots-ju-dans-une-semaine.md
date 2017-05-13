@@ -15,6 +15,8 @@ Venez voir nos jeunes talents et leurs robots samedi prochain !
 L'entrée est libre.
 Les matches de robots seront diffusés sur grand écran et commentés en direct.
 
+<!--more-->
+
 [![Affiche de la Coupe Robots-JU 2017](https://coupe.robots-ju.ch/media/2017/affiche_miniature.jpg)](https://coupe.robots-ju.ch/)
 
 Plus d'infos sur le site de la Coupe: <https://coupe.robots-ju.ch/>
