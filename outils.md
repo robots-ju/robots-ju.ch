@@ -23,7 +23,7 @@ Sauf indication contraire ces logiciels sont prévus pour fonctionner avec la de
 Consultez les dépôts GitHub des projets pour les détails.
 
 <div class="row">
-    {% for project in site.projects %}
+    {% for project in site.projects reversed %}
     <section class="col-md-6">
         <div class="project">
             <div class="screenshot">
