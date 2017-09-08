@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Redirection vers {{ page.title }}...</title>
+    {% comment %}
+    Performs a redirect to the given URL, and tracks the visit inside Piwik
+    http://stackoverflow.com/a/36846720/3133038 (GitHub Pages redirect layout)
+    http://stackoverflow.com/a/8692588/3133038 (Redirect with Google Analytics tracking)
+    {% endcomment %}
+    <link rel="canonical" href="{{ page.redirect_url }}"/>
+</head>
+<body>
+<h1>Redirection vers {{ page.title }}...</h1>
+<a href="{{ page.redirect_url }}">Cliquez ici si la redirection ne s'effectue pas automatiquement</a>
+    <script type="text/javascript">
+        var _paq = _paq || [];
+        _paq.push(['setTrackerUrl', 'https://analytics.kilowhat.net/piwik.php']);
+        _paq.push(['setSiteId', 2]);
+        _paq.push(['trackPageView']);
+    </script>
+    <script src="https://analytics.kilowhat.net/piwik.js"></script>
+    <script type="text/javascript">
+        window.location = "{{ page.redirect_url }}";
+    </script>
+</body>
+</html>
