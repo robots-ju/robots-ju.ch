@@ -25,9 +25,7 @@ main_menu:
   - title: Ateliers FLL
     url: /ateliers-fll
   - title: Ateliers Avancés
-    url: /nouveaux-ateliers
-  - title: Ateliers Prog
-    url: /ateliers-prog
+    url: /ateliers-avances
   - title: Événements
     url: /events
   - title: Outils
@@ -44,9 +42,7 @@ sitemap:
     - title: Ateliers FLL
       url: /ateliers-fll
     - title: Ateliers Avancés
-      url: /nouveaux-ateliers
-    - title: Ateliers Prog
-      url: /ateliers-prog
+      url: /ateliers-avances
     - title: Coupe Robots-JU
       url: https://coupe.robots-ju.ch/
     - title: Événements
