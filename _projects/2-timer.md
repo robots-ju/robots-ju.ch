@@ -1,7 +1,7 @@
 ---
 title: FLL Timer
 website: https://fll-timer.robots-ju.ch/
-screenshot: /media/projects/fll-timer.jpg
+screenshot: /media/projects/fll-timer.png
 links:
   - title: fll-timer.robots-ju.ch
     url: https://fll-timer.robots-ju.ch/
