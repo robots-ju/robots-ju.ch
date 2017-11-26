@@ -265,3 +265,46 @@
     scores:
       robotgame: 7
       livechallenge: 9
+- type: fll
+  title: FLL "Hydro Dynamics"
+  step: Sélection régionale EPFL Lausanne
+  date: 2017-11-25
+  teams:
+  - name: Team Juratlantique
+    rank: 1
+    qualified: true
+    scores:
+      robotgame: 3
+      teamwork: 1
+      robotdesign: 2
+      research: 4
+  - name: Team Jur'aqua
+    rank: 5
+    scores:
+      robotgame: 7
+      teamwork: 5
+      robotdesign: 1
+      research: 7
+  - name: Team Jura flaque
+    rank: 7
+    scores:
+      robotgame: 8
+      teamwork: 10
+      robotdesign: 7
+      research: 12
+  - name: Lego riz du Jura
+    rank: 8
+    scores:
+      robotgame: 9
+      teamwork: 3
+      robotdesign: 12
+      research: 8
+  - name: Team Jur-à-l'eau
+    rank: 9
+    scores:
+      robotgame: 10
+      teamwork: 11
+      robotdesign: 4
+      research: 13
+  notes:
+  - "Team Juratlantique a marqué le meilleur match de la journée à 205 points"
