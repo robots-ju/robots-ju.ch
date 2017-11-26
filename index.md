@@ -48,7 +48,7 @@ banner_text: Le club de robotique jurassien
             <h3><i class="fa fa-list"></i> <a href="/tous-les-posts">Tous les posts</a></h3>
         </section>
         <section class="col-md-4">
-            <a class="twitter-timeline" data-height="2000" href="https://twitter.com/RobotsJU">Tweets by RobotsJU</a>
+            <a class="twitter-timeline" data-lang="fr" data-height="2000" href="https://twitter.com/RobotsJU">Tweets by RobotsJU</a>
         </section>
     </div>
 </div>
