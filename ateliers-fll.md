@@ -47,17 +47,11 @@ dans un travail de groupe qui implique généralement de bien se connaître et d
 
 Plus d'informations: <http://www.firstlegoleague.org/> (Site global, EN),
 <https://www.first-lego-league.org/> (Site Europe, DE/EN)
-et <http://sps.epfl.ch/FLL> (Organisation à l'EPFL)
-
-## La Coupe Roberta
-
-La Coupe Roberta est un concours organisé par le centre éponyme de l'EPFL. Il reprend le tapis de jeu du championnat FLL, et consiste en 2 épreuves: les matchs de robots et le travail d'équipe.
-
-Plus d'informations: <http://sps.epfl.ch/CoupeRoberta>
+et <https://sps.epfl.ch/FLL> (Organisation à l'EPFL)
 
 ## La Coupe Robots-JU
 
-La Coupe Robots-JU reprend le concept de la Coupe Roberta, avec une organisation jurassienne.
+La Coupe Robots-JU reprend le concept de la Coupe Roberta précédemment organisée par l'EPFL, avec une organisation jurassienne.
 On y retrouve les matchs de robots (Robot Game), à une cadence bien plus soutenue ainsi
 qu'une mission secrète (Live Challenge) qui doit être accomplie par les équipes sans préparation ni aide extérieure.
 
@@ -74,7 +68,7 @@ L'atelier FLL a lieu le samedi matin dans nos locaux de [Glovelier](https://www.
 Prérequis pour votre enfants:
 
 - Être âgé de 10 à 16 ans
-- Avoir suivi le [cours Roberta](http://sps.epfl.ch/CoursRobot)
+- Avoir suivi le [cours Roberta](https://sps.epfl.ch/CoursRobot)
 
 Le club Robots-JU est organisé en association.
 

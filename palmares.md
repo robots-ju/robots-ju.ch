@@ -22,7 +22,7 @@ banner_text: Nos performances aux différents concours
                 {% if competition.type == 'fll' %}
                 <a class="logo" href="https://www.first-lego-league.org/"><img src="/media/competitions/fll.png"></a>
                 {% elsif competition.type == 'roberta' %}
-                <a class="logo" href="http://sps.epfl.ch/CoupeRoberta"><img src="/media/competitions/roberta.jpg"></a>
+                <a class="logo" href="https://sps.epfl.ch/CoupeRoberta"><img src="/media/competitions/roberta.jpg"></a>
                 {% elsif competition.type == 'robotsju' %}
                 <a class="logo" href="https://coupe.robots-ju.ch/"><img src="/media/competitions/robotsju.png"></a>
                 {% endif %}
