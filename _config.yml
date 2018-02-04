@@ -78,3 +78,5 @@ social_links:
     url: https://github.com/robots-ju
     label: "robots-ju"
     icon: github
+
+contact_form_url: https://forms.robots-ju.ch/forms/site-contact

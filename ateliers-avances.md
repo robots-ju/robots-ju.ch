@@ -59,4 +59,7 @@ Contacte-nous via le formulaire ci-dessous ou rejoins notre [Serveur Discord](ht
 
 [![Rejoins-nous sur Discord](https://discordapp.com/api/guilds/342311372702351371/embed.png)](https://discord.gg/VGraV8Q)
 
-{% include contact-form.html %}
+<form method="post" action="{{ site.contact_form_url }}">
+    <input type="hidden" name="subject" value="Atelier avancé">
+    {% include contact-form-common.html %}
+</form>

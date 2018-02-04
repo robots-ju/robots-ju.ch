@@ -75,4 +75,7 @@ Le club Robots-JU est organisé en association.
 Vous souhaitez inscrire votre enfant ou obtenir davantage de renseignements ?
 Contactez-nous via ce formulaire:
 
-{% include contact-form.html %}
+<form method="post" action="{{ site.contact_form_url }}">
+    <input type="hidden" name="subject" value="Atelier FLL">
+    {% include contact-form-common.html %}
+</form>

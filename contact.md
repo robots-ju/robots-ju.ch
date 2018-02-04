@@ -9,4 +9,15 @@ banner_text: Une question ?
 Vous pouvez entrer en contact avec nous via ce formulaire.
 Nous vous répondrons dans les plus brefs délais.
 
-{% include contact-form.html %}
+<form method="post" action="{{ site.contact_form_url }}">
+    <div class="form-group">
+        <label for="subject">Concerne (requis)</label>
+        <select class="form-control" name="subject" id="subject" required>
+            <option hidden disabled selected>Sélectionnez...</option>
+            <option>Atelier FLL</option>
+            <option>Atelier avancé</option>
+            <option>Autre</option>
+        </select>
+    </div>
+    {% include contact-form-common.html %}
+</form>
