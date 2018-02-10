@@ -308,3 +308,18 @@
       research: 13
   notes:
   - "Team Juratlantique a marqué le meilleur match de la journée à 205 points"
+- type: fll
+  title: Finale FLL "Hydro Dynamics"
+  step: Finale suisse Yverdon
+  date: 2018-02-10
+  teams:
+  - name: Team Juratlantique
+    rank: 3
+    qualified: true
+    scores:
+      robotgame: 5
+      teamwork: 8
+      robotdesign: 3
+      research: 9
+  notes:
+  - "Nous avons terminé 3e au classement des manches du Robot Game et c'est ce résultat qui compte pour le classement général"
