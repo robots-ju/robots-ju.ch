@@ -55,7 +55,7 @@ La Coupe Robots-JU reprend le concept de la Coupe Roberta précédemment organis
 On y retrouve les matchs de robots (Robot Game), à une cadence bien plus soutenue ainsi
 qu'une mission secrète (Live Challenge) qui doit être accomplie par les équipes sans préparation ni aide extérieure.
 
-Elle est organisée par nos soins et ouverte à toutes les équipes suisses. La deuxième édition aura lieu le 11 mars 2017.
+Elle est organisée par nos soins et ouverte à toutes les équipes suisses.
 
 Plus d'informations: <https://coupe.robots-ju.ch/>
 
