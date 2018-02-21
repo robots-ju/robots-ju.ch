@@ -102,7 +102,7 @@ Durant 2017 le club s'agrandit encore et le 25 novembre 2017 nous nous rendons �
 Le 10 février 2018 la *Team Juratlantique* se rend à la finale FLL suisse à Yverdon.
 C'est maintenant la 3e fois que certains de nos membres participent à la finale suisse et ils sont bien décidés à aller plus loin.
 Grâce à ses résultats réguliers dans les différentes disciplines, l'équipe atteint la 3e place du classement général et est qualifiée pour la finale d'Europe centrale.
-C'est la première fois qu'une de nos équipes se rendra en finale européenne.
+C'est même la première fois qu'une équipe romande se qualifie à ce niveau.
 
 À suivre...
 
