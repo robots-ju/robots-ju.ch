@@ -44,7 +44,7 @@ Le nombre de participants augmente, et nous participons cette année avec 2 équ
 
 En février 2014, face à l'augmentation des membres, nous créons officiellement le club Robots-JU afin de faciliter la gestion des participations et finances du groupe de robotique.
 
-Nous proposons des ateliers  de découverte des robots Lego Mindstorms dans le cadre de la semaine sans télé à Delémont.
+Nous proposons des ateliers  de découverte des robots LEGO Mindstorms dans le cadre de la semaine sans télé à Delémont.
 
 Nous participons à nouveau à la Coupe Roberta le 5 avril 2014, cette fois avec 3 équipes.
 
@@ -72,9 +72,9 @@ L'absence de Coupe Roberta cette année nous décide à organiser notre propre c
 
 En mai 2016 également, nous ouvrons notre compte Twitter [@RobotsJU](https://twitter.com/RobotsJU).
 
-Les ateliers de robotiques du passeport vacances sont proposés aux élèves de Delémont et Porrentruy. Une quarantaine de jeunes filles et garçons se retrouvent dans nos locaux pour découvrir les robots Lego.
+Les ateliers de robotiques du passeport vacances sont proposés aux élèves de Delémont et Porrentruy. Une quarantaine de jeunes filles et garçons se retrouvent dans nos locaux pour découvrir les robots LEGO.
 
-Cette année, nous proposons des ateliers de découverte de la robotique Lego dans le cadre de l'[université populaire du Jura UP](http://www.upjurassienne.ch) sous une forme particulière parent-enfant. Ce sont ainsi cinq parents et cinq enfants qui découvrent les robots durant trois après-midi.
+Cette année, nous proposons des ateliers de découverte de la robotique LEGO dans le cadre de l'[université populaire du Jura UP](http://www.upjurassienne.ch) sous une forme particulière parent-enfant. Ce sont ainsi cinq parents et cinq enfants qui découvrent les robots durant trois après-midi.
 
 Nous nous rendons à présent aux sélections régionales à Lausanne avec 4 équipes. Nous tentons un peu d'originalité en optant pour de nouveaux noms d'équipes. En plus de *Team Jura 1* et *2* nous avons à présent *Team JurAllies* et *Les Cubix*. Les équipes restent composées par tranche d'âge, *Team Jura 1* étant les vétérans de la compétition.
 
@@ -91,6 +91,20 @@ En janvier également nous lançons le compte Twitter de la [@CoupeRobotsJU](htt
 
 La seconde [Coupe Robots-JU](https://coupe.robots-ju.ch/) s'est déroulée le 11 mars avec succès.
 9 équipes romandes y ont pris part.
+
+Durant 2017 le club s'agrandit encore et le 25 novembre 2017 nous nous rendons à la sélection régionale FLL de Lausanne avec 5 équipes.
+*Team Juratlantique* se hisse en première place du travail d'équipe et du classement général et décroche sa place pour la finale suisse.
+*Team Jur'aqua* décroche la première place du design de robot, et nos 3 autres équipes obtiennent également de bons résultats.
+
+### 2018
+{: class="side-title"}
+
+Le 10 février 2018 la *Team Juratlantique* se rend à la finale FLL suisse à Yverdon.
+C'est maintenant la 3e fois que certains de nos membres participent à la finale suisse et ils sont bien décidés à aller plus loin.
+Grâce à ses résultats réguliers dans les différentes disciplines, l'équipe atteint la 3e place du classement général et est qualifiée pour la finale d'Europe centrale.
+C'est la première fois qu'une de nos équipes se rendra en finale européenne.
+
+À suivre...
 
 ## Futur
 
