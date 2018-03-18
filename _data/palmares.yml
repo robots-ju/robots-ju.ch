@@ -323,3 +323,15 @@
       research: 9
   notes:
   - "Nous avons terminé 3e au classement des manches du Robot Game et c'est ce résultat qui compte pour le classement général"
+- type: fll
+  title: Finale CE FLL "Hydro Dynamics"
+  step: Finale Central Europe Aachen
+  date: 2018-03-17 - 2018-03-18
+  teams:
+  - name: Team Juratlantique
+    rank: 24
+    scores:
+      robotgame: 21
+      teamwork: 19
+      robotdesign: 19
+      research: 25
