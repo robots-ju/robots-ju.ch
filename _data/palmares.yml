@@ -357,3 +357,34 @@
       teamwork: 19
       robotdesign: 19
       research: 25
+- type: robotsju
+  title: Coupe Robots-JU
+  place: StrateJ Delémont
+  date: 2018-03-24
+  url: https://coupe.robots-ju.ch/resultats/2018
+  teams:
+  - name: Juratlantique
+    rank: 1
+    scores:
+      robotgame: 2
+      livechallenge: 1
+  - name: Jur’Aqua
+    rank: 2
+    scores:
+      robotgame: 6
+      livechallenge: 1
+  - name: Jur-à-l’eau
+    rank: 5
+    scores:
+      robotgame: 3
+      livechallenge: 6
+  - name: Jura flaque
+    rank: 8
+    scores:
+      robotgame: 7
+      livechallenge: 5
+  - name: Lego Riz du Jura
+    rank: 9
+    scores:
+      robotgame: 7
+      livechallenge: 6
