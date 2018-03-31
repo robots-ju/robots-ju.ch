@@ -8,7 +8,7 @@
                         <ul>
                             {% for link in site.sitemap.activities %}
                             <li>
-                                <a href="{{ link.url }}">{{ link.title }}</a>
+                                <a href="{{ link.url }}">{{ link.title }}{% if link.url contains '://' %} <i class="fa fa-external-link"></i>{% endif %}</a>
                             </li>
                             {% endfor %}
                         </ul>
@@ -18,7 +18,7 @@
                         <ul>
                             {% for link in site.sitemap.pages %}
                             <li>
-                                <a href="{{ link.url }}">{{ link.title }}</a>
+                                <a href="{{ link.url }}">{{ link.title }}{% if link.url contains '://' %} <i class="fa fa-external-link"></i>{% endif %}</a>
                             </li>
                             {% endfor %}
                         </ul>

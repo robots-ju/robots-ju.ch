@@ -9,7 +9,7 @@
             {% if page.url == link.url %}{% assign current = 'active' %}{% endif %}
             {% if page.url == '/index.html' and link.url == '/' %}{% assign current = 'active' %}{% endif %}
             <li>
-                <a href="{{ link.url }}" class="{{ current }}">{{ link.title }}</a>
+                <a href="{{ link.url }}" class="{{ current }}">{{ link.title }}{% if link.url contains '://' %} <i class="fa fa-external-link"></i>{% endif %}</a>
             </li>
             {% endfor %}
         </ul>
