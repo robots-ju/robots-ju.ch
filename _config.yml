@@ -78,5 +78,9 @@ social_links:
     url: https://github.com/robots-ju
     label: "robots-ju"
     icon: github
+  - title: Flickr
+    url: https://www.flickr.com/photos/robots-ju/
+    label: "robots-ju"
+    icon: flickr
 
 contact_form_url: https://forms.robots-ju.ch/forms/site-contact
