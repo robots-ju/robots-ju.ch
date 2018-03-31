@@ -27,7 +27,14 @@ banner_text: Nos performances aux différents concours
                 <a class="logo" href="https://coupe.robots-ju.ch/"><img src="/media/competitions/robotsju.png"></a>
                 {% endif %}
                 <h3>{{ competition.title }}</h3>
-                <p>{{ competition.date }}, {{ competition.step }}{{ competition.place }}</p>
+                <p>
+                  {{ competition.date }},
+                  {{ competition.step }}
+                  {{ competition.place }}
+                  {% if competition.url %}
+                  <a href="{{ competition.url }}" title="Classement sur le site de l'organisateur">Classement détaillé</a>
+                  {% endif %}
+                </p>
             </td>
         </tr>
         <tr class="competition-headers">
