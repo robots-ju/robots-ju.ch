@@ -1,0 +1,58 @@
+- name: Smilebots
+  seen_at:
+  - coupe-2018
+  - sf-ch-2018
+  website: https://smilebots.wordpress.com/
+  youtube: https://www.youtube.com/channel/UCtPd-RuZMisMGKcfUA2lmBQ
+- name: NEoboticiens
+  seen_at:
+  - coupe-2018
+  from: Neuchâtel
+  website: http://www.neoboticiens.org/
+- name: Saint Roch
+  seen_at:
+  - coupe-2018
+- name: Les piments d'Espelettes
+  seen_at:
+  - coupe-2018
+- name: Les biennois en force
+  seen_at:
+  - coupe-2018
+- name: Capricorns
+  seen_at:
+  - ce-2018
+  - sf-ch-2018
+  from: Chur
+  website: https://capricornsbks.jimdo.com/
+- name: mindfactory
+  seen_at:
+  - ce-2018
+  - sf-ch-2018
+  from: Baden
+  website: http://jufotec.ch/teammindfactory/
+  youtube: https://www.youtube.com/user/mindfactory4ever
+- name: Robot Destiny
+  seen_at:
+  - sf-ch-2018
+- name: Z'électrons
+  seen_at:
+  - sf-ch-2018
+  from: Yverdon-les-Bains
+  website: http://www.electrons.ch/fll
+- name: SAPHARI
+  seen_at:
+  - ce-2018
+  from: Hockenheim, DE
+  facebook: https://www.facebook.com/Saphari-Forschungsprojekt-1123760487738794/
+- name: CaroAces
+  seen_at:
+  - ce-2018
+  from: Neustrelitz, DE
+  facebook: https://www.facebook.com/CaroAcesNeustrelitz
+  twitter: https://twitter.com/CaroAces
+- name: Goethe RobotX
+  seen_at:
+  - ce-2018
+  from: Bensheim, DE
+  youtube: https://www.youtube.com/channel/UCclPGEHZ5gdrhBO141BcDig
+  facebook: https://www.facebook.com/goetherobotx/
