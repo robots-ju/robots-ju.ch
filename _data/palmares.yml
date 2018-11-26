@@ -38,7 +38,7 @@
   step: Sélection régionale
   place: EPFL Lausanne
   date: 2013-11-09
-  url: http://et.hands-on-technology.de/index.php?id=22&tx_hotet_hotetergebnisse[tournament]=1
+  url: https://et.hands-on-technology.de/index.php?id=22&tx_hotet_hotetergebnisse[tournament]=1
   teams:
   - name: Team Jura Senior
     rank: 5
@@ -72,7 +72,7 @@
   step: Sélection régionale
   place: EPFL Lausanne
   date: 2014-11-29
-  url: http://et.hands-on-technology.de/index.php?id=22&tx_hotet_hotetergebnisse[tournament]=97
+  url: https://et.hands-on-technology.de/index.php?id=22&tx_hotet_hotetergebnisse[tournament]=97
   teams:
   - name: Team Jura 2
     rank: 4
@@ -123,7 +123,7 @@
   step: Sélection régionale
   place: EPFL Lausanne
   date: 2015-12-12
-  url: http://et.hands-on-technology.de/index.php?id=22&tx_hotet_hotetergebnisse[tournament]=193
+  url: https://et.hands-on-technology.de/index.php?id=22&tx_hotet_hotetergebnisse[tournament]=193
   teams:
   - name: Team Jura 1
     rank: 3
@@ -152,7 +152,7 @@
   step: Finale suisse
   place: EPFL Lausanne
   date: 2016-02-13
-  url: http://et.hands-on-technology.de/index.php?id=22&tx_hotet_hotetergebnisse[tournament]=238
+  url: https://et.hands-on-technology.de/index.php?id=22&tx_hotet_hotetergebnisse[tournament]=238
   teams:
   - name: Team Jura 1
     rank: 7
@@ -194,7 +194,7 @@
   step: Sélection régionale
   place: EPFL Lausanne
   date: 2016-12-03
-  url: http://et.hands-on-technology.de/index.php?id=22&tx_hotet_hotetergebnisse[tournament]=265
+  url: https://et.hands-on-technology.de/index.php?id=22&tx_hotet_hotetergebnisse[tournament]=265
   teams:
   - name: Team Jura 1
     rank: 2
@@ -233,7 +233,7 @@
   step: Finale suisse
   place: Brugg-Windisch
   date: 2017-02-21
-  url: http://et.hands-on-technology.de/index.php?id=22&tx_hotet_hotetergebnisse[tournament]=325
+  url: https://et.hands-on-technology.de/index.php?id=22&tx_hotet_hotetergebnisse[tournament]=325
   teams:
   - name: Team Jura 1
     rank: 4
@@ -286,7 +286,7 @@
   step: Sélection régionale
   place: EPFL Lausanne
   date: 2017-11-25
-  url: http://et.hands-on-technology.de/index.php?id=22&tx_hotet_hotetergebnisse[tournament]=339
+  url: https://et.hands-on-technology.de/index.php?id=22&tx_hotet_hotetergebnisse[tournament]=339
   teams:
   - name: Team Juratlantique
     rank: 1
@@ -331,7 +331,7 @@
   step: Finale suisse
   place: Yverdon
   date: 2018-02-10
-  url: http://et.hands-on-technology.de/index.php?id=22&tx_hotet_hotetergebnisse[tournament]=417
+  url: https://et.hands-on-technology.de/index.php?id=22&tx_hotet_hotetergebnisse[tournament]=417
   teams:
   - name: Team Juratlantique
     rank: 3
@@ -348,7 +348,7 @@
   step: Finale Europe Centrale
   place: Aachen
   date: 2018-03-17 - 2018-03-18
-  url: http://et.hands-on-technology.de/index.php?id=22&tx_hotet_hotetergebnisse%5Btournament%5D=420
+  url: https://et.hands-on-technology.de/index.php?id=22&tx_hotet_hotetergebnisse%5Btournament%5D=420
   teams:
   - name: Team Juratlantique
     rank: 24
