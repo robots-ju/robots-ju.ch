@@ -388,3 +388,39 @@
     scores:
       robotgame: 7
       livechallenge: 6
+- type: fll
+  title: FLL "Into Orbit"
+  step: Sélection régionale
+  place: EPFL Lausanne
+  date: 2018-11-24
+  url: https://et.hands-on-technology.de/index.php?id=22&tx_hotet_hotetergebnisse[tournament]=433
+  teams:
+  - name: Jur’apollo 18
+    rank: 3
+    qualified: true
+    scores:
+      robotgame: 8
+      teamwork: 4
+      robotdesign: 1
+      research: 4
+  - name: Jurapiter
+    rank: 7
+    scores:
+      robotgame: 6
+      teamwork: 10
+      robotdesign: 5
+      research: 6
+  - name: Falcon 9
+    rank: 9
+    scores:
+      robotgame: 11
+      teamwork: 8
+      robotdesign: 7
+      research: 10
+  - name: Jurastronaute
+    rank: 10
+    scores:
+      robotgame: 7
+      teamwork: 12
+      robotdesign: 4
+      research: 10
