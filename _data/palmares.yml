@@ -388,6 +388,17 @@
     scores:
       robotgame: 7
       livechallenge: 6
+- type: driveit
+  title: Drive-it
+  place: LemanMake, Renens VD
+  date: 2018-09-29 - 2018-09-30
+  teams:
+  - name: JuraScript
+    rank: 4
+  - name: JuraTurle
+    rank: 7
+  - name: Jurafe
+    rank: 9
 - type: fll
   title: FLL "Into Orbit"
   step: Sélection régionale
