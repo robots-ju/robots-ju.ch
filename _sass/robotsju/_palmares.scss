@@ -44,6 +44,11 @@
                 border-bottom-color: $robotsju-color-green;
             }
         }
+        &.type-driveit {
+            td {
+                border-bottom-color: #5276f8;
+            }
+        }
 
         .logo {
             float: right;

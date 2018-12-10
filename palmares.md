@@ -25,6 +25,8 @@ banner_text: Nos performances aux différents concours
                 <a class="logo" href="https://sps.epfl.ch/CoupeRoberta"><img src="/media/competitions/roberta.jpg"></a>
                 {% elsif competition.type == 'robotsju' %}
                 <a class="logo" href="https://coupe.robots-ju.ch/"><img src="/media/competitions/robotsju.png"></a>
+                {% elsif competition.type == 'driveit' %}
+                <span class="logo"><img src="/media/competitions/driveit.png"></span>
                 {% endif %}
                 <h3>{{ competition.title }}</h3>
                 <p>
@@ -63,7 +65,9 @@ banner_text: Nos performances aux différents concours
                 {% endif %}
             </td>
             <td class="standout">{{ team.rank }}</td>
+            {% if competition.type == 'fll' or competition.type == 'roberta' or competition.type == 'robotsju' %}
             <td{% if team.scores.robotgame <= 4 %} class="standout"{% endif %}>{{ team.scores.robotgame   }}</td>
+            {% endif %}
             {% if competition.type == 'fll' %}
             <td{% if team.scores.teamwork    == 1 %} class="standout"{% endif %}>{{ team.scores.teamwork    }}</td>
             <td{% if team.scores.robotdesign == 1 %} class="standout"{% endif %}>{{ team.scores.robotdesign }}</td>
