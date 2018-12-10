@@ -8,15 +8,12 @@ banner_text: Notre agenda robotique
 
 Différents événements à venir auxquels participe le club ou organisés par le club.
 
-2018
-{:class="side-title"}
-
-## Sélection FLL régionale
-
-Robots-JU participera à la sélection régionale de la FIRST LEGO League à Lausanne le samedi 24 novembre 2018 avec 4 équipes.
-
 2019
 {:class="side-title"}
+
+## Finale suisse FLL
+
+Notre équipe *Jur'apollo 18* participera à la finale suisse de la FIRST LEGO League à Coire le samedi 2 février 2019.
 
 ## Coupe Robots-JU 2019
 
