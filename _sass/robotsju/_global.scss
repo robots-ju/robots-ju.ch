@@ -36,3 +36,14 @@ body {
 article img {
     max-width: 100%;
 }
+
+.events-later {
+    &::before {
+        content: '...';
+    }
+
+    color: $robotsju-color-lightgrey;
+    font-size: 20em;
+    line-height: 1em;
+    margin: -0.5em 0 0.1em 0;
+}
