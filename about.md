@@ -102,7 +102,26 @@ Durant 2017 le club s'agrandit encore et le 25 novembre 2017 nous nous rendons �
 Le 10 février 2018 la *Team Juratlantique* se rend à la finale FLL suisse à Yverdon.
 C'est maintenant la 3e fois que certains de nos membres participent à la finale suisse et ils sont bien décidés à aller plus loin.
 Grâce à ses résultats réguliers dans les différentes disciplines, l'équipe atteint la 3e place du classement général et est qualifiée pour la finale d'Europe centrale.
-C'est même la première fois qu'une équipe romande se qualifie à ce niveau.
+C'est la première fois qu'une équipe romande se qualifie à ce niveau.
+
+2 coachs et les 6 membres de l'équipe *Team Juratlantique* passent 3 nuits à Aix-La-Chapelle pour participer à la finale d'Europe centrale qui a eu lieu les 17 et 18 mars 2018.
+Durant les 2 jours de compétition nous avons pu observer (et nous mesurer !) aux meilleures équipes d’Allemagne, Autriche, Slovakie, Hongrie, Pologne, Tchéquie et bien sûr Suisse.
+Le résultat correspond à nos attentes. 24èmes au classement général.
+Il est intéressant de constater que nous avions également finis avant-avant-derniers lors de notre toute première participation en finale suisse.
+
+Le 24 mars 2018 nous avons organisé la troisième édition de la Coupe Robots-JU dans les locaux de StrateJ à Delémont.
+10 équipes y ont pris part, venant de Suisse romande et du Tessin.
+Nos 5 équipes jurassiennes ont très bien performé, en particulier *Juratlantique* et *Jur-à-l'eau* qui finissent dans le top 3 au Robot Game et *Jur'Aqua* qui finit 1er à égalité avec *Juratlantique* au Live Challenge.
+Depuis cette année nous gérons les inscriptions via internet.
+La technique est également améliorée avec une projection des deux compétiteurs en même temps sur le grand écran ainsi qu'un streaming live sur internet.
+
+Les 29 et 30 septembre, le *Groupe avancé* participe avec 3 équipes au concours Drive-it organisé par le club milliWatt dans le cadre de LemanMake à Renens.
+
+Le 24 novembre nous nous rendons à la sélection régionale FLL de Lausanne avec 4 équipes.
+Notre équipe la plus âgée, *Jur'Apollo 18* remporte le prix du design du robot et est sélectionnée pour la finale suisse qui aura lieu le 2 février 2019 à Coire.
+
+### 2019
+{: class="side-title"}
 
 À suivre...
 
