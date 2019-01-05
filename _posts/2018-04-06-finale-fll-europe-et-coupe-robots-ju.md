@@ -7,7 +7,7 @@ Durant le mois de mars deux événements se sont succédés.
 Tout d’abord la [finale FLL Central Europa](https://www.first-lego-league.org/de/fll/regionen.html?s=FLL+2017%2F18&c=FLL+Finale+Zentraleuropa+2018&m=21714536378080) à Aachen les 17 et 18 mars où notre équipe Juratlantique s’est qualifiée suite à la finale FLL suisse à Yverdon.
 C’était la première fois qu’une équipe romande atteignait ce niveau de la compétition.
 
-Durant les 2 jours de compétition nous avons pu observer (et nous mesurer !) aux meilleures équipes d’Allemagne, Autriche, Slovakie, Hongrie, Pologne, Tchéquie et bien sûr Suisse.
+Durant les 2 jours de compétition nous avons pu observer (et nous mesurer !) aux meilleures équipes d’Allemagne, Autriche, Slovaquie, Hongrie, Pologne, Tchéquie et bien sûr Suisse.
 
 Le résultat correspond à nos attentes.
 24èmes au classement général.
