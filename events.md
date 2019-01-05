@@ -19,7 +19,7 @@ Notre équipe *Jur'apollo 18* participera à la finale suisse de la FIRST LEGO L
 
 ## 24 heures de robotique
 
-<i class="fa fa-calendar"></i> Weekend des 23 et 24 mars 2019, Coire
+<i class="fa fa-calendar"></i> Weekend des 23 et 24 février 2019, Coire
 
 Des équipes formées de membres de nos ateliers [FLL](/ateliers-fll) et [avancés](/ateliers-avances) participeront aux 24h de robotique à Coire.
 
