@@ -11,12 +11,6 @@ Différents événements à venir auxquels participe le club ou organisés par l
 février 2019
 {:class="side-title"}
 
-## Finale suisse FLL
-
-<i class="fa fa-calendar"></i> Samedi 2 février 2019, Coire
-
-Notre équipe *Jur'apollo 18* participera à la finale suisse de la FIRST LEGO League à Coire le samedi 2 février 2019.
-
 ## 24 heures de robotique
 
 <i class="fa fa-calendar"></i> Weekend des 23 et 24 février 2019, Coire
