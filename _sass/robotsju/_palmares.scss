@@ -29,25 +29,17 @@
             font-size: 0.9em;
         }
 
-        &.type-fll {
-            td {
-                border-bottom-color: #F78B1F;
-            }
+        &.type-fll td {
+            border-bottom-color: #F78B1F;
         }
-        &.type-roberta {
-            td {
-                border-bottom-color: #AE0010;
-            }
+        &.type-roberta td {
+            border-bottom-color: #AE0010;
         }
-        &.type-robotsju {
-            td {
-                border-bottom-color: $robotsju-color-green;
-            }
+        &.type-robotsju td {
+            border-bottom-color: $robotsju-color-green;
         }
-        &.type-driveit {
-            td {
-                border-bottom-color: #5276f8;
-            }
+        &.type-driveit td {
+            border-bottom-color: #5276f8;
         }
 
         .logo {

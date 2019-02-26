@@ -442,10 +442,10 @@
   date: 2019-02-02
   url: https://et.hands-on-technology.de/index.php?id=22&tx_hotet_hotetergebnisse%5Btournament%5D=504
   teams:
-      - name: Jur’apollo 18
-        rank: 6
-        scores:
-            robotgame: 8
-            teamwork: 11
-            robotdesign: 3
-            research: 11
+  - name: Jur’apollo 18
+    rank: 6
+    scores:
+      robotgame: 8
+      teamwork: 11
+      robotdesign: 3
+      research: 11
