@@ -41,6 +41,9 @@
         &.type-driveit td {
             border-bottom-color: #5276f8;
         }
+        &.type-24stunden td {
+            border-bottom-color: #008c9e;
+        }
 
         .logo {
             float: right;
@@ -49,6 +52,10 @@
 
             &:hover {
                 filter: initial;
+            }
+
+            .fa {
+                margin-top: 0.9em;
             }
         }
     }

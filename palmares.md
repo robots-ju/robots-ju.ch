@@ -27,6 +27,8 @@ banner_text: Nos performances aux différents concours
                 <a class="logo" href="https://coupe.robots-ju.ch/"><img src="/media/competitions/robotsju.png"></a>
                 {% elsif competition.type == 'driveit' %}
                 <span class="logo"><img src="/media/competitions/driveit.png"></span>
+                {% elsif competition.type == '24stunden' %}
+                <a class="logo" href="https://24h.helveticrobot.ch/"><i class="fa fa-external-link"></i></a>
                 {% endif %}
                 <h3>{{ competition.title }}</h3>
                 <p>
@@ -62,6 +64,9 @@ banner_text: Nos performances aux différents concours
                 {% endif %}
                 {% if team.juryaward %}
                 <i class="fa fa-star" title="Jury Award"></i>
+                {% endif %}
+                {% if team.comment %}
+                <br><em class="text-muted">{{ team.comment }}</em>
                 {% endif %}
             </td>
             <td class="standout">{{ team.rank }}</td>

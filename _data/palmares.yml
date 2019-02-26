@@ -449,3 +449,15 @@
       teamwork: 11
       robotdesign: 3
       research: 11
+- type: 24stunden
+  title: 24 Stunden Wettbewerb
+  place: Coire
+  date: 2019-02-23 - 2019-02-24
+  teams:
+  - name: Large Academic Langoustines
+    comment: (anciens du club)
+    rank: 1
+  - name: Kensaki
+    rank: 4
+  - name: Jur'ASCII
+    rank: 5
