@@ -8,17 +8,6 @@ banner_text: Notre agenda robotique
 
 Différents événements à venir auxquels participe le club ou organisés par le club.
 
-février 2019
-{:class="side-title"}
-
-## 24 heures de robotique
-
-<i class="fa fa-calendar"></i> Weekend des 23 et 24 février 2019, Coire
-
-Des équipes formées de membres de nos ateliers [FLL](/ateliers-fll) et [avancés](/ateliers-avances) participeront aux 24h de robotique à Coire.
-
-Plus de détails sur la compétition sur <https://24h.helveticrobot.ch/> (en allemand).
-
 mars 2019
 {:class="side-title"}
 
@@ -33,13 +22,15 @@ L'entrée est gratuite.
 
 Tous les détails sur [Coupe.Robots-JU.ch](https://coupe.robots-ju.ch/).
 
-## Finale FLL Central Europe ?
+## Journée Cité de l'énergie
 
-<i class="fa fa-calendar"></i> Vendredi 29 et samedi 30 mars 2019, Bregenz
+<i class="fa fa-calendar"></i> Samedi 30 mars 2019, Develier
 
-Les [29 et 30 mars 2019](https://www.first-lego-league.org/en/season/tournaments.html?s=FLL+2018%2F19&c=FLL+Finale+Zentraleuropa+2019&m=21714536378080) à Bregenz en Autriche.
+Robots-JU sera présent lors de la journée organisée à l'occasion de la réception du label "Cité de l'énergie" de l'agglomération de Delémont.
 
-Croisons les doigts pour que notre équipe se qualifie 🤞
+Le [Groupe avancé](/ateliers-avances) y présentera notamment sa dernière création, un robot distributeur de boissons.
+
+Infos sur la journée: <http://www.develier.ch/fr/Agenda/Journee-Cite-de-l-energie.html>
 
 <div class="events-later"></div>
 
