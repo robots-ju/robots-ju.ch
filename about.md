@@ -2,7 +2,7 @@
 title: À propos
 layout: page
 permalink: /about
-banner_image: /media/banners/club-2016.jpg
+banner_image: /media/banners/club-2017.jpg
 banner_text: Programmeurs de robots depuis 2011
 ---
 
