@@ -461,3 +461,34 @@
       rank: 4
     - name: Jur'ASCII
       rank: 5
+- type: robotsju
+  title: Coupe Robots-JU
+  place: StrateJ Delémont
+  date: 2019-03-23
+  url: https://coupe.robots-ju.ch/resultats/2019
+  teams:
+    - name: Jur'apollo 18
+      rank: 1
+      scores:
+        robotgame: 2
+        livechallenge: 1
+    - name: Jurapiter
+      rank: 4
+      scores:
+        robotgame: 4
+        livechallenge: 7
+    - name: Jurastronaute
+      rank: 6
+      scores:
+        robotgame: 7
+        livechallenge: 4
+    - name: Falcon 9
+      rank: 8
+      scores:
+        robotgame: 5
+        livechallenge: 8
+    - name: La 5
+      rank: 9
+      scores:
+        robotgame: 6
+        livechallenge: 8
