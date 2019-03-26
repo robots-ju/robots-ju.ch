@@ -4,35 +4,35 @@
   place: EPFL Lausanne
   date: 2011-11-01
   teams:
-  - name: Team Jura
-    rank: 3
-    qualified: true
-    scores:
-      research: 1
+    - name: Team Jura
+      rank: 3
+      qualified: true
+      scores:
+        research: 1
 - type: fll
   title: Finale FLL "Food Factor"
   step: Finale suisse Brugg-Windisch
   date: 2011-12-03
   teams:
-  - name: Team Jura
-    rank: 17
+    - name: Team Jura
+      rank: 17
 - type: fll
   title: FLL "Senior Solutions"
   step: Sélection régionale
   place: EPFL Lausanne
   date: 2012-11-10
   teams:
-  - name: Team Jura
-    rank: 7
-    scores:
-      teamwork: 1
+    - name: Team Jura
+      rank: 7
+      scores:
+        teamwork: 1
 - type: roberta
   title: Coupe Roberta
   place: EPFL Lausanne
   date: 2013-04-20
   teams:
-  - name: Team Jura
-    rank: 7
+    - name: Team Jura
+      rank: 7
 - type: fll
   title: FLL "Nature’s Fury"
   step: Sélection régionale
@@ -40,33 +40,33 @@
   date: 2013-11-09
   url: https://et.hands-on-technology.de/index.php?id=22&tx_hotet_hotetergebnisse[tournament]=1
   teams:
-  - name: Team Jura Senior
-    rank: 5
-    scores:
-      robotdesign: 2
-      teamwork: 10
-      research: 4
-      robotgame: 8
-  - name: Team Jura Junior
-    rank: 8
-    scores:
-      robotdesign: 6
-      teamwork: 3
-      research: 11
-      robotgame: 10
+    - name: Team Jura Senior
+      rank: 5
+      scores:
+        robotdesign: 2
+        teamwork: 10
+        research: 4
+        robotgame: 8
+    - name: Team Jura Junior
+      rank: 8
+      scores:
+        robotdesign: 6
+        teamwork: 3
+        research: 11
+        robotgame: 10
 - type: roberta
   title: Coupe Roberta
   place: EPFL Lausanne
   date: 2014-04-05
   teams:
-  - name: Team Jura 2
-    rank: 3
-    scores:
-      robotgame: 2
-  - name: Team Jura 3
-    rank: 5
-  - name: Team Jura 1
-    rank: 13
+    - name: Team Jura 2
+      rank: 3
+      scores:
+        robotgame: 2
+    - name: Team Jura 3
+      rank: 5
+    - name: Team Jura 1
+      rank: 13
 - type: fll
   title: FLL "World Class"
   step: Sélection régionale
@@ -74,50 +74,50 @@
   date: 2014-11-29
   url: https://et.hands-on-technology.de/index.php?id=22&tx_hotet_hotetergebnisse[tournament]=97
   teams:
-  - name: Team Jura 2
-    rank: 4
-    juryaward: true
-    scores:
-      robotgame: 3
-      teamwork: 5
-      robotdesign: 2
-      research: 7
-  - name: Team Jura 1
-    rank: 5
-    scores:
-      robotgame: 7
-      teamwork: 2
-      robotdesign: 6
-      research: 5
-  - name: Team Jura 3
-    rank: 6
-    scores:
-      robotgame: 5
-      teamwork: 4
-      robotdesign: 6
-      research: 9
+    - name: Team Jura 2
+      rank: 4
+      juryaward: true
+      scores:
+        robotgame: 3
+        teamwork: 5
+        robotdesign: 2
+        research: 7
+    - name: Team Jura 1
+      rank: 5
+      scores:
+        robotgame: 7
+        teamwork: 2
+        robotdesign: 6
+        research: 5
+    - name: Team Jura 3
+      rank: 6
+      scores:
+        robotgame: 5
+        teamwork: 4
+        robotdesign: 6
+        research: 9
 - type: roberta
   title: Coupe Roberta
   place: EPFL Lausanne
   date: 2015-03-28
   teams:
-  - name: Team Jura 1
-    rank: 2
-    scores:
-      robotgame: 2
-      livechallenge: 3
-  - name: Team Jura 2
-    rank: 3
-    scores:
-      robotgame: 1
-      livechallenge: 4
-  - name: Team Jura 3
-    rank: 6
-    scores:
-      robotgame: 6
-      livechallenge: 10
+    - name: Team Jura 1
+      rank: 2
+      scores:
+        robotgame: 2
+        livechallenge: 3
+    - name: Team Jura 2
+      rank: 3
+      scores:
+        robotgame: 1
+        livechallenge: 4
+    - name: Team Jura 3
+      rank: 6
+      scores:
+        robotgame: 6
+        livechallenge: 10
   notes:
-  - "Une équipe meilleur score des match de qualification"
+    - "Une équipe meilleur score des match de qualification"
 - type: fll
   title: FLL "Trash Trek"
   step: Sélection régionale
@@ -125,28 +125,28 @@
   date: 2015-12-12
   url: https://et.hands-on-technology.de/index.php?id=22&tx_hotet_hotetergebnisse[tournament]=193
   teams:
-  - name: Team Jura 1
-    rank: 3
-    qualified: true
-    scores:
-      robotgame: 2
-      teamwork: 1
-      robotdesign: 5
-      research: 6
-  - name: Team Jura 3
-    rank: 7
-    scores:
-      robotgame: 4
-      teamwork: 8
-      robotdesign: 5
-      research: 9
-  - name: Team Jura 2
-    rank: 8
-    scores:
-      robotgame: 4
-      teamwork: 5
-      robotdesign: 9
-      research: 6
+    - name: Team Jura 1
+      rank: 3
+      qualified: true
+      scores:
+        robotgame: 2
+        teamwork: 1
+        robotdesign: 5
+        research: 6
+    - name: Team Jura 3
+      rank: 7
+      scores:
+        robotgame: 4
+        teamwork: 8
+        robotdesign: 5
+        research: 9
+    - name: Team Jura 2
+      rank: 8
+      scores:
+        robotgame: 4
+        teamwork: 5
+        robotdesign: 9
+        research: 6
 - type: fll
   title: Finale FLL "Trash Trek"
   step: Finale suisse
@@ -154,41 +154,41 @@
   date: 2016-02-13
   url: https://et.hands-on-technology.de/index.php?id=22&tx_hotet_hotetergebnisse[tournament]=238
   teams:
-  - name: Team Jura 1
-    rank: 7
-    scores:
-      robotgame: 4
-      teamwork: 11
-      robotdesign: 6
-      research: 13
+    - name: Team Jura 1
+      rank: 7
+      scores:
+        robotgame: 4
+        teamwork: 11
+        robotdesign: 6
+        research: 13
 - type: robotsju
   title: Coupe Robots-JU
   place: Cinemont Delémont
   date: 2016-05-21
   url: https://coupe.robots-ju.ch/resultats/2016
   teams:
-  - name: Team Jura 1
-    rank: 2
-    scores:
-      robotgame: 3
-      livechallenge: 4
-  - name: Team Jura 3
-    rank: 5
-    scores:
-      robotgame: 2
-      livechallenge: 4
-  - name: Team Jura 4
-    rank: 8
-    scores:
-      robotgame: 8
-      livechallenge: 4
-  - name: Team Jura 2
-    rank: 9
-    scores:
-      robotgame: 9
-      livechallenge: 4
+    - name: Team Jura 1
+      rank: 2
+      scores:
+        robotgame: 3
+        livechallenge: 4
+    - name: Team Jura 3
+      rank: 5
+      scores:
+        robotgame: 2
+        livechallenge: 4
+    - name: Team Jura 4
+      rank: 8
+      scores:
+        robotgame: 8
+        livechallenge: 4
+    - name: Team Jura 2
+      rank: 9
+      scores:
+        robotgame: 9
+        livechallenge: 4
   notes:
-  - "Une équipe meilleur score de match"
+    - "Une équipe meilleur score de match"
 - type: fll
   title: FLL "Animal Allies"
   step: Sélection régionale
@@ -196,38 +196,38 @@
   date: 2016-12-03
   url: https://et.hands-on-technology.de/index.php?id=22&tx_hotet_hotetergebnisse[tournament]=265
   teams:
-  - name: Team Jura 1
-    rank: 2
-    qualified: true
-    scores:
-      robotgame: 1
-      teamwork: 5
-      robotdesign: 3
-      research: 11
-  - name: Les Cubix
-    rank: 3
-    qualified: true
-    scores:
-      robotgame: 3
-      teamwork: 5
-      robotdesign: 5
-      research: 4
-  - name: Team Jura 2
-    rank: 4
-    scores:
-      robotgame: 2
-      teamwork: 5
-      robotdesign: 10
-      research: 4
-  - name: Team JurAllies
-    rank: 8
-    scores:
-      robotgame: 4
-      teamwork: 10
-      robotdesign: 6
-      research: 4
+    - name: Team Jura 1
+      rank: 2
+      qualified: true
+      scores:
+        robotgame: 1
+        teamwork: 5
+        robotdesign: 3
+        research: 11
+    - name: Les Cubix
+      rank: 3
+      qualified: true
+      scores:
+        robotgame: 3
+        teamwork: 5
+        robotdesign: 5
+        research: 4
+    - name: Team Jura 2
+      rank: 4
+      scores:
+        robotgame: 2
+        teamwork: 5
+        robotdesign: 10
+        research: 4
+    - name: Team JurAllies
+      rank: 8
+      scores:
+        robotgame: 4
+        teamwork: 10
+        robotdesign: 6
+        research: 4
   notes:
-  - "Nos 4 équipes ont disputé les demi-finales du Robot Game !"
+    - "Nos 4 équipes ont disputé les demi-finales du Robot Game !"
 - type: fll
   title: Finale FLL "Animal Allies"
   step: Finale suisse
@@ -235,52 +235,52 @@
   date: 2017-02-21
   url: https://et.hands-on-technology.de/index.php?id=22&tx_hotet_hotetergebnisse[tournament]=325
   teams:
-  - name: Team Jura 1
-    rank: 4
-    juryaward: true
-    scores:
-      robotgame: 3
-      teamwork: 3
-      robotdesign: 7
-      research: 6
-  - name: Les Cubix
-    rank: 13
-    scores:
-      robotgame: 9
-      teamwork: 11
-      robotdesign: 12
-      research: 14
+    - name: Team Jura 1
+      rank: 4
+      juryaward: true
+      scores:
+        robotgame: 3
+        teamwork: 3
+        robotdesign: 7
+        research: 6
+    - name: Les Cubix
+      rank: 13
+      scores:
+        robotgame: 9
+        teamwork: 11
+        robotdesign: 12
+        research: 14
 - type: robotsju
   title: Coupe Robots-JU
   place: StrateJ Delémont
   date: 2017-03-11
   url: https://coupe.robots-ju.ch/resultats/2017
   teams:
-  - name: MADAORPLULA
-    rank: 1
-    scores:
-      robotgame: 1
-      livechallenge: 2
-  - name: Team Jur’Allies
-    rank: 2
-    scores:
-      robotgame: 6
-      livechallenge: 1
-  - name: Team Jura 2
-    rank: 4
-    scores:
-      robotgame: 4
-      livechallenge: 4
-  - name: CUB-X
-    rank: 8
-    scores:
-      robotgame: 9
-      livechallenge: 5
-  - name: RHINO
-    rank: 9
-    scores:
-      robotgame: 7
-      livechallenge: 9
+    - name: MADAORPLULA
+      rank: 1
+      scores:
+        robotgame: 1
+        livechallenge: 2
+    - name: Team Jur’Allies
+      rank: 2
+      scores:
+        robotgame: 6
+        livechallenge: 1
+    - name: Team Jura 2
+      rank: 4
+      scores:
+        robotgame: 4
+        livechallenge: 4
+    - name: CUB-X
+      rank: 8
+      scores:
+        robotgame: 9
+        livechallenge: 5
+    - name: RHINO
+      rank: 9
+      scores:
+        robotgame: 7
+        livechallenge: 9
 - type: fll
   title: FLL "Hydro Dynamics"
   step: Sélection régionale
@@ -288,44 +288,44 @@
   date: 2017-11-25
   url: https://et.hands-on-technology.de/index.php?id=22&tx_hotet_hotetergebnisse[tournament]=339
   teams:
-  - name: Team Juratlantique
-    rank: 1
-    qualified: true
-    scores:
-      robotgame: 3
-      teamwork: 1
-      robotdesign: 2
-      research: 4
-  - name: Team Jur'aqua
-    rank: 5
-    scores:
-      robotgame: 7
-      teamwork: 5
-      robotdesign: 1
-      research: 7
-  - name: Team Jura flaque
-    rank: 7
-    scores:
-      robotgame: 8
-      teamwork: 10
-      robotdesign: 7
-      research: 12
-  - name: Lego riz du Jura
-    rank: 8
-    scores:
-      robotgame: 9
-      teamwork: 3
-      robotdesign: 12
-      research: 8
-  - name: Team Jur-à-l'eau
-    rank: 9
-    scores:
-      robotgame: 10
-      teamwork: 11
-      robotdesign: 4
-      research: 13
+    - name: Team Juratlantique
+      rank: 1
+      qualified: true
+      scores:
+        robotgame: 3
+        teamwork: 1
+        robotdesign: 2
+        research: 4
+    - name: Team Jur'aqua
+      rank: 5
+      scores:
+        robotgame: 7
+        teamwork: 5
+        robotdesign: 1
+        research: 7
+    - name: Team Jura flaque
+      rank: 7
+      scores:
+        robotgame: 8
+        teamwork: 10
+        robotdesign: 7
+        research: 12
+    - name: Lego riz du Jura
+      rank: 8
+      scores:
+        robotgame: 9
+        teamwork: 3
+        robotdesign: 12
+        research: 8
+    - name: Team Jur-à-l'eau
+      rank: 9
+      scores:
+        robotgame: 10
+        teamwork: 11
+        robotdesign: 4
+        research: 13
   notes:
-  - "Team Juratlantique a marqué le meilleur match de la journée à 205 points"
+    - "Team Juratlantique a marqué le meilleur match de la journée à 205 points"
 - type: fll
   title: Finale FLL "Hydro Dynamics"
   step: Finale suisse
@@ -333,16 +333,16 @@
   date: 2018-02-10
   url: https://et.hands-on-technology.de/index.php?id=22&tx_hotet_hotetergebnisse[tournament]=417
   teams:
-  - name: Team Juratlantique
-    rank: 3
-    qualified: true
-    scores:
-      robotgame: 5
-      teamwork: 8
-      robotdesign: 3
-      research: 9
+    - name: Team Juratlantique
+      rank: 3
+      qualified: true
+      scores:
+        robotgame: 5
+        teamwork: 8
+        robotdesign: 3
+        research: 9
   notes:
-  - "Nous avons terminé 3e au classement des manches du Robot Game et c'est ce résultat qui compte pour le classement général"
+    - "Nous avons terminé 3e au classement des manches du Robot Game et c'est ce résultat qui compte pour le classement général"
 - type: fll
   title: Finale CE FLL "Hydro Dynamics"
   step: Finale Europe Centrale
@@ -350,55 +350,55 @@
   date: 2018-03-17 - 2018-03-18
   url: https://et.hands-on-technology.de/index.php?id=22&tx_hotet_hotetergebnisse%5Btournament%5D=420
   teams:
-  - name: Team Juratlantique
-    rank: 24
-    scores:
-      robotgame: 21
-      teamwork: 19
-      robotdesign: 19
-      research: 25
+    - name: Team Juratlantique
+      rank: 24
+      scores:
+        robotgame: 21
+        teamwork: 19
+        robotdesign: 19
+        research: 25
 - type: robotsju
   title: Coupe Robots-JU
   place: StrateJ Delémont
   date: 2018-03-24
   url: https://coupe.robots-ju.ch/resultats/2018
   teams:
-  - name: Juratlantique
-    rank: 1
-    scores:
-      robotgame: 2
-      livechallenge: 1
-  - name: Jur’Aqua
-    rank: 2
-    scores:
-      robotgame: 6
-      livechallenge: 1
-  - name: Jur-à-l’eau
-    rank: 5
-    scores:
-      robotgame: 3
-      livechallenge: 6
-  - name: Jura flaque
-    rank: 8
-    scores:
-      robotgame: 7
-      livechallenge: 5
-  - name: Lego Riz du Jura
-    rank: 9
-    scores:
-      robotgame: 7
-      livechallenge: 6
+    - name: Juratlantique
+      rank: 1
+      scores:
+        robotgame: 2
+        livechallenge: 1
+    - name: Jur’Aqua
+      rank: 2
+      scores:
+        robotgame: 6
+        livechallenge: 1
+    - name: Jur-à-l’eau
+      rank: 5
+      scores:
+        robotgame: 3
+        livechallenge: 6
+    - name: Jura flaque
+      rank: 8
+      scores:
+        robotgame: 7
+        livechallenge: 5
+    - name: Lego Riz du Jura
+      rank: 9
+      scores:
+        robotgame: 7
+        livechallenge: 6
 - type: driveit
   title: Drive-it
   place: LemanMake, Renens VD
   date: 2018-09-29 - 2018-09-30
   teams:
-  - name: JuraScript
-    rank: 4
-  - name: JuraTurle
-    rank: 7
-  - name: Jurafe
-    rank: 9
+    - name: JuraScript
+      rank: 4
+    - name: JuraTurle
+      rank: 7
+    - name: Jurafe
+      rank: 9
 - type: fll
   title: FLL "Into Orbit"
   step: Sélection régionale
@@ -406,35 +406,35 @@
   date: 2018-11-24
   url: https://et.hands-on-technology.de/index.php?id=22&tx_hotet_hotetergebnisse[tournament]=433
   teams:
-  - name: Jur’apollo 18
-    rank: 3
-    qualified: true
-    scores:
-      robotgame: 8
-      teamwork: 4
-      robotdesign: 1
-      research: 4
-  - name: Jurapiter
-    rank: 7
-    scores:
-      robotgame: 6
-      teamwork: 10
-      robotdesign: 5
-      research: 6
-  - name: Falcon 9
-    rank: 9
-    scores:
-      robotgame: 11
-      teamwork: 8
-      robotdesign: 7
-      research: 10
-  - name: Jurastronaute
-    rank: 10
-    scores:
-      robotgame: 7
-      teamwork: 12
-      robotdesign: 4
-      research: 10
+    - name: Jur’apollo 18
+      rank: 3
+      qualified: true
+      scores:
+        robotgame: 8
+        teamwork: 4
+        robotdesign: 1
+        research: 4
+    - name: Jurapiter
+      rank: 7
+      scores:
+        robotgame: 6
+        teamwork: 10
+        robotdesign: 5
+        research: 6
+    - name: Falcon 9
+      rank: 9
+      scores:
+        robotgame: 11
+        teamwork: 8
+        robotdesign: 7
+        research: 10
+    - name: Jurastronaute
+      rank: 10
+      scores:
+        robotgame: 7
+        teamwork: 12
+        robotdesign: 4
+        research: 10
 - type: fll
   title: Finale FLL "Into Orbit"
   step: Finale suisse
@@ -442,22 +442,22 @@
   date: 2019-02-02
   url: https://et.hands-on-technology.de/index.php?id=22&tx_hotet_hotetergebnisse%5Btournament%5D=504
   teams:
-  - name: Jur’apollo 18
-    rank: 6
-    scores:
-      robotgame: 8
-      teamwork: 11
-      robotdesign: 3
-      research: 11
+    - name: Jur’apollo 18
+      rank: 6
+      scores:
+        robotgame: 8
+        teamwork: 11
+        robotdesign: 3
+        research: 11
 - type: 24stunden
   title: 24 Stunden Wettbewerb
   place: Coire
   date: 2019-02-23 - 2019-02-24
   teams:
-  - name: Large Academic Langoustines
-    comment: (anciens du club)
-    rank: 1
-  - name: Kensaki
-    rank: 4
-  - name: Jur'ASCII
-    rank: 5
+    - name: Large Academic Langoustines
+      comment: (anciens du club)
+      rank: 1
+    - name: Kensaki
+      rank: 4
+    - name: Jur'ASCII
+      rank: 5
