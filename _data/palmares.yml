@@ -492,3 +492,24 @@
       scores:
         robotgame: 6
         livechallenge: 8
+- type: crushtheflag
+  title: Crush The Flag
+  place: Mulhouse
+  date: 2019-04-13
+  teams:
+    - name: Jurapiter
+      rank: 2
+    - name: Jura-Bot-Time's
+      rank: 6
+- type: robopoly
+  title: Grand Concours Robopoly "Robolympiques"
+  place: EPFL, Lausanne
+  date: 2019-04-28
+  url: https://robopoly.epfl.ch/evenements-2/gc2019/
+  teams:
+    - name: Ju.rar
+      rank: 2
+    - name: Jur'ASCII
+      rank: 3
+  notes:
+    - "Nos 2 équipes participaient dans la catégorie Mindstorms"

@@ -29,6 +29,10 @@ banner_text: Nos performances aux différents concours
                 <span class="logo"><img src="/media/competitions/driveit.png"></span>
                 {% elsif competition.type == '24stunden' %}
                 <a class="logo" href="https://24h.helveticrobot.ch/"><i class="fa fa-external-link"></i></a>
+                {% elsif competition.type == 'crushtheflag' %}
+                <a class="logo" href="http://kidslab.education/crush-the-flag/"><img src="/media/competitions/crushtheflag.png"></a>
+                {% elsif competition.type == 'robopoly' %}
+                <a class="logo" href="https://robopoly.epfl.ch/"><img src="/media/competitions/robopoly.png"></a>
                 {% endif %}
                 <h3>{{ competition.title }}</h3>
                 <p>
