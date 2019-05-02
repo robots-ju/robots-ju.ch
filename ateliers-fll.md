@@ -55,7 +55,7 @@ La Coupe Robots-JU reprend le concept de la Coupe Roberta précédemment organis
 On y retrouve les matchs de robots (Robot Game), à une cadence bien plus soutenue ainsi
 qu'une mission secrète (Live Challenge) qui doit être accomplie par les équipes sans préparation ni aide extérieure.
 
-Elle est organisée par nos soins et ouverte à toutes les équipes suisses.
+Elle est organisée par nos soins et ouverte pour les équipes externes également.
 
 Plus d'informations: <https://coupe.robots-ju.ch/>
 
@@ -65,7 +65,7 @@ Plus d'informations: <https://coupe.robots-ju.ch/>
 
 L'atelier FLL a lieu le samedi matin dans nos locaux de [Glovelier](https://www.google.ch/maps/place/Rue+des+Places+7,+2855+Glovelier/@47.3390915,7.2066171,17z/data=!3m1!4b1!4m5!3m4!1s0x4791e4df12d571d5:0xfc3cb407ccf2c65f!8m2!3d47.3390879!4d7.2088058?hl=fr).
 
-Prérequis pour votre enfants:
+Prérequis pour votre enfant:
 
 - Être âgé de 10 à 16 ans
 - Avoir suivi le [cours Roberta](https://sps.epfl.ch/CoursRobot)
