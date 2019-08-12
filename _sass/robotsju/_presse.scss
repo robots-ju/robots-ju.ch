@@ -1,0 +1,56 @@
+.presse-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.presse-item {
+    width: calc(50% - 5px);
+    border: 2px dashed #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+
+    &:hover {
+        border-color: $robotsju-color-green;
+        text-decoration: none;
+    }
+
+    img {
+        width: 100%;
+    }
+
+    h3 {
+        font-size: 1.2em;
+        flex-grow: 1;
+    }
+
+    .presse-source {
+        color: #888;
+    }
+
+    .presse-head {
+        margin: 0 0 5px;
+        font-size: 0.9em;
+    }
+
+    .presse-tag {
+        display: inline-block;
+        background: #f0f0f0;
+        color: #888;
+        border-radius: 5px;
+        padding: 0.2em 0.4em;
+    }
+
+    .presse-link {
+        float: right;
+        color: #aaa;
+    }
+
+    h3:hover, .presse-link:hover {
+        text-decoration: underline;
+    }
+}

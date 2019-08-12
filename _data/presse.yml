@@ -1,0 +1,291 @@
+- date: 2011-11-29
+  media: lqj
+  tag: fll
+  title: Une équipe jurassienne qualifiée en finale à la "First Lego League"
+  file: 20111129_LQJ.pdf
+- date: 2011-12-03
+  media: rfj
+  tag: fll
+  title: La robotique a ses as dans le Jura
+  url: https://www.rfj.ch/rfj/Actualites/Regionale/20111203-La-robotique-a-ses-as-dans-le-Jura.html
+- date: 2011-12-04
+  media: rfj
+  tag: fll
+  title: Pas de finale européenne de robotique pour les Jurassiens
+  url: https://www.rfj.ch/rfj/Actualites/Regionale/20111204-Pas-de-finale-europeenne-de-robotique-pour-les-Jurassiens.html
+- date: 2012-11-11 # date exacte inconnue
+  media: lqj
+  tag: fll
+  title: Le robot en Lego jurassien se distingue à l'EPFL
+  file: 20120000_LQJ.pdf
+- date: 2013-09-10
+  media: rfj
+  title: Thierry Barth lauréat d’un prix pour l’égalité
+  url: https://www.rfj.ch/rfj/Actualites/Regionale/20130910-Thierry-Barth-laureat-d-un-prix-pour-l-egalite.html
+- date: 2013-09-20
+  media: lqj
+  title: Thierry Barth reçoit le prix "Un pas vers l'égalité" pour son investissement dans le Team Jura Lego
+  file: 20130920_LQJ.pdf
+- date: 2013-11-15
+  media: lqj
+  tag: fll
+  title: Les robots en Lego jurassiens s'illustrent à Lausanne
+  file: 20131115_LQJ.pdf
+- date: 2014-04-06 # date exacte inconnue
+  media: lqj
+  tag: roberta
+  title: Podium pour les jeunes roboticiens jurassiens
+  file: 20140400_LQJ.pdf
+- date: 2014-11-29
+  media: lqj
+  tag: fll
+  title: Les robots jurassiens en compétition à l'EPFL
+  file: 20141129_LQJ.pdf
+- date: 2014-11-30
+  media: lematindimanche
+  tag: fll
+  title: La bataille des jeunes cerveaux à l'EPFL
+  file: 20141130_LeMatinDimanche.pdf
+- date: 2015-04-01
+  media: lqj
+  tag: fll
+  title: Les robots du Jura montent sur le podium de l'EPFL
+  file: 20150401_LQJ.pdf
+  scan_bottom: no #lqj strange
+- date: 2015-12-11
+  media: lqj
+  tag: fll
+  title: Des robots et des jurassiens
+  file: 20151211_LQJ.pdf
+- date: 2015-12-18
+  media: lqj
+  tag: fll
+  title: La réussite du club de robotique
+  file: 20151218_LQJ.pdf
+  scan_bottom: no #lqj strange
+# 2016-01-30 "Interview sur RFJ à 18h"
+- date: 2016-02-06
+  media: rfj
+  tag: fll
+  title: Les robots prennent le pouvoir
+  url: https://www.rfj.ch/rfj/Actualite/Region/20160206-Les-robots-prennent-le-pouvoir.html
+- date: 2016-02-16
+  media: lqj
+  title: Jurassiens sur la 7e marche
+  file: 20160216_LQJ.pdf
+- date: 2016-04-18
+  media: couleurslocales
+  title: Des jeunes se retrouvent pour construire et programmer des robots
+  url: https://www.rts.ch/play/tv/couleurs-locales/video/ju-des-jeunes-se-retrouvent-pour-construire-et-programmer-des-robots?id=7658019
+- date: 2016-05-01
+  media: agglo
+  tag: coupe
+  title: Robots dans l'arène samedi à Cinémont
+  file: 252-2016-5-page-22.pdf
+  scan_bottom: no # l'article est exactement au milieu
+- date: 2016-05-05
+  media: rfj
+  tag: coupe
+  title: Des enfants et des robots
+  url: https://www.rfj.ch/rfj/Actualite/Region/20160505-Des-enfants-et-des-robots.html
+- date: 2016-05-06
+  media: lqj
+  tag: coupe
+  title: Des jeunes roboticiens prêts à hisser haut les couleurs jurassiennes
+  file: 20160506_LQJ.pdf
+- date: 2016-05-21
+  media: rfj
+  tag: coupe
+  title: Gladiateurs 2.0 à Delémont
+  url: https://www.rfj.ch/rfj/Actualite/Region/20160521-Gladiateurs-2-0-a-Delemont.html
+- date: 2016-12-05
+  media: rfj
+  tag: fll
+  title: Deux équipes jurassiennes de robotique en finale suisse
+  url: https://www.rfj.ch/rfj/Actualite/Region/20161205-Deux-equipes-jurassiennes-de-robotique-en-finale-suisse.html
+- date: 2016-12-06
+  media: lqj
+  tag: fll
+  title: Les robots jurassiens trustent le podium
+  file: 20161206_LQJ.pdf
+- date: 2016-12-14
+  media: lagazette
+  tag: fll
+  title: Deux équipes jurassiennes de robotique en finale suisse
+  url: http://epaper.la-gazette.ch/ee/laga/_main_/2016/12/14/018/
+  file: 20161214_gazette.pdf
+- date: 2017-01-24
+  media: lqj
+  tag: fll
+  title: Les jeunes roboticiens juste au pied du podium
+  file: 20170124_LQJ.pdf
+- date: 2017-02-01
+  media: canalalpha
+  title: La robotique botte aussi les jeunes Jurassiennes
+  url: http://www.canalalpha.ch/actu/la-robotique-botte-aussi-les-jeunes-jurassiennes/
+- date: 2017-02-04
+  media: rfj
+  title: La robotique n'a pas de secret pour les écoliers
+  url: https://www.rfj.ch/rfj/Actualite/Region/20170205-La-robotique-n-a-pas-de-secret-pour-les-ecoliers.html
+- date: 2017-02-12
+  media: echodelarche
+  title: Ils n'ont pas l'air de robots mais ça les connaît
+  file: 20170212_echo_arche.pdf
+- date: 2017-02-14
+  media: rfj
+  tag: 24h
+  title: Des Jurassiens s'illustrent aux 24h de robotique
+  url: https://www.rfj.ch/rfj/Actualite/Region/20170214-Des-Jurassiens-s-illustrent-aux-24h-de-robotique.html
+- date: 2017-02-15
+  media: lqj
+  tag: 24h
+  title: Les roboticiens marathoniens jurassiens brillent à Coire
+  file: 20170215_LQJ.pdf
+- date: 2017-03-08
+  media: rfj
+  tag: coupe
+  title: Des roboticiens en herbe réunis à Delémont
+  url: https://www.rfj.ch/rfj/Actualite/Region/20170308-Des-roboticiens-en-herbe-reunis-a-Delemont.html
+- date: 2017-03-08
+  media: rfj
+  tag: coupe
+  title: Journal de 18h28 dès 00:06:15
+  url: https://bnj.blob.core.windows.net/assets/Podcasts/1/RFJ-18H00/DGA372124.137.mp3
+- date: 2017-03-09
+  media: lqj
+  tag: coupe
+  title: Neuf équipes romandes de constructeurs et programmeurs de robots s'affronteront samedi
+  file: 20170309_LQJ.pdf
+- date: 2017-03-12
+  media: rfj
+  tag: coupe
+  title: Des robots en Lego s'affrontent à Delémont
+  url: https://www.rfj.ch/rfj/Actualite/Region/20170312-Des-robots-en-Lego-s-affrontent-a-Delemont.html
+- date: 2017-03-13
+  media: lqj
+  tag: coupe
+  title: La Coupe Robots-JU remportée par une équipe féminine jurassienne
+  file: 20170313_LQJ.pdf
+- date: 2017-03-09
+  media: lqj
+  title:
+  file: à télécharger
+- date: 2017-03-16
+  media: canalalpha
+  tag: coupe
+  title: Mission lait ou requin
+  url: http://www.canalalpha.ch/emissions/90secondes/90-secondes-mission-lait-ou-requin/
+- date: 2017-11-27
+  media: rfj
+  tag: fll
+  title: Magnifiques résultats pour les Jurassiens à la First Lego League
+  url: https://www.rfj.ch/rfj/Actualite/Region/20171127-Magnifiques-resultats-pour-les-Jurassiens-a-la-First-Lego-League.html
+- date: 2017-11-28
+  media: lqj
+  tag: fll
+  title: Les Jurassiens champions de robotique
+  file: 20171128_LQJ.pdf
+- date: 2018-02-12
+  media: rfj
+  tag: fll
+  title: Une finale européenne pour des Jurassiens
+  url: https://www.rfj.ch/rfj/Actualite/Region/20180212-Une-finale-europeenne-pour-des-Jurassiens.html
+- date: 2018-02-12
+  media: canalalpha
+  tag: fll
+  title: Les fans de robots Lego s’affrontaient à Yverdon
+  url: http://www.canalalpha.ch/actu/les-fans-de-robots-lego-saffrontaient-a-yverdon/
+- date: 2018-02-13
+  media: lqj
+  tag: fll
+  title: Qualifiés en finale européenne
+  file: 20180213_LQJ.pdf
+- date: 2018-03-10
+  media: rfj
+  tag: fll
+  title: Un bel aboutissement pour le club Robots-JU
+  url: https://www.rfj.ch/rfj/Actualite/Region/20180310-Un-bel-aboutissement-pour-le-club-Robots-JU.html
+- date: 2018-03-12
+  media: lqj
+  tag: fll
+  title: Les génies de robotique qualifiés pour une finale européenne
+  file: 20180312_LQJ.pdf
+- date: 2018-03-25
+  media: lqj
+  tag: coupe
+  title: Résultats des championnats de mathématiques et de robotique
+  file: 20180325_LQJ.pdf
+- date: 2018-03-26
+  media: lqj
+  tag: coupe
+  title: StratèJes en robotique et mathématiques
+  file: 20180326_LQJ.pdf
+- date: 2018-11-24
+  media: lqj
+  tag: fll
+  title: Jeunes roboticiens jurassiens à l’EPFL
+  file: 20181124_LQJ.pdf
+- date: 2018-11-26
+  media: lqj
+  tag: fll
+  title: Les roboticiens ont brillé samedi à Lausanne
+  file: 20181126_LQJ.pdf
+- date: 2019-02-03
+  media: lqj
+  title: Des étudiants défient leurs robots
+  file: 20190203_LQJ.pdf
+- date: 2019-02-03
+  media: rfj
+  tag: fll
+  title: Une belle performance pour l’équipe jurassienne à la First Lego League
+  url: https://www.rfj.ch/rfj/Actualite/Region/20190203-Une-belle-performance-pour-l-equipe-jurassienne-a-la-First-Lego-League.html
+- date: 2019-02-05
+  media: lqj
+  tag: fll
+  title: Bon résultat pour Jur'Apollo 18
+  file: 20190205_LQJ.pdf
+  scan_bottom: yes
+- date: 2019-03-01
+  media: lqj
+  tag: 24h
+  title: Roboticiens jurassiens dans le top 5 à Coire
+  file: 20190301_LQJ.pdf
+# https://bnj.blob.core.windows.net/assets/Podcasts/1/Chez-nous/DGA956150.137.mp3
+- date: 2019-03-20
+  media: rfj
+  tag: coupe
+  title: Jeunes et déjà roboticiens
+  url: https://www.rfj.ch/rfj/Actualite/Region/20190320-Jeunes-et-deja-roboticiens.html
+- date: 2019-03-21
+  media: lqj
+  tag: coupe
+  title: Dix équipes s'élanceront samedi
+  file: 20190321_LQJ.pdf
+- date: 2019-03-25
+  media: canalalpha
+  tag: coupe
+  title: Les Wall-E jurassiens
+  url: http://www.canalalpha.ch/emissions/90secondes/90-secondes-les-wall-e-jurassiens/
+- date: 2019-03-25
+  media: lqj
+  tag: coupe
+  title: Les Jurassiens raflent tout avec leur robot
+  file: 20190325_LQJ.pdf
+  scan_bottom: yes
+- date: 2019-04-01
+  media: agglo
+  title: Fête du label Cité de l’énergie à Develier
+  file: 281-2019-4-page-27.pdf
+  scan_bottom: yes
+- date: 2019-04-16
+  media: lqj
+  title: Les roboticiennes jurassiennes montent sur le podium alsacien
+  file: 20190416_LQJ.pdf
+- date: 2019-04-29
+  media: rfj
+  title: Des Jurassiens sur le podium de Robolympiques
+  url: https://www.rfj.ch/rfj/Actualite/Region/20190429-Des-Jurassiens-sur-le-podium-de-Robolympiques.html
+- date: 2019-04-30
+  media: lqj
+  title: Jurassiens sur le podium
+  file: 20190430_LQJ.pdf
