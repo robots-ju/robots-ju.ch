@@ -54,6 +54,8 @@ sitemap:
       url: /outils
     - title: Palmarès
       url: /palmares
+    - title: On parle de nous
+      url: /presse
     - title: À propos
       url: /about
     - title: Sponsoring

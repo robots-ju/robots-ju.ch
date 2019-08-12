@@ -49,6 +49,19 @@
         float: right;
         color: #aaa;
     }
+    
+    .presse-icon {
+        text-align: center;
+        color: #aaa;
+        font-size: 50px;
+        // The proportional padding gives the icon the same 2/3 ratio as images
+        padding-top: 33%;
+        padding-bottom: 33%;
+
+        &, .fa {
+            line-height: 0;
+        }
+    }
 
     h3:hover, .presse-link:hover {
         text-decoration: underline;

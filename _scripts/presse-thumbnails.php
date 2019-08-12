@@ -26,6 +26,11 @@ function printInfo(string $text)
 }
 
 foreach ($entries as $index => $entryRawYaml) {
+    // There will be a first empty section before the first one due to splitting
+    if (empty($entryRawYaml)) {
+        continue;
+    }
+
     printHead("Reading entry #$index");
 
     if (preg_match('~date:\s([0-9]{4}-[0-9]{2}-[0-9]{2})\s~', $entryRawYaml, $matches) === 0) {
@@ -47,6 +52,11 @@ foreach ($entries as $index => $entryRawYaml) {
 
     if (preg_match('~url:\s(.+?)\s~', $entryRawYaml, $matches) > 0) {
         $url = $matches[1];
+
+        if (substr($url, -4) === '.mp3') {
+            printInfo('Skipping sound file');
+            continue;
+        }
     }
 
     if (preg_match('~file:\s(.+?)\s~', $entryRawYaml, $matches) > 0) {
@@ -82,6 +92,7 @@ foreach ($entries as $index => $entryRawYaml) {
         // Based on https://stackoverflow.com/a/32666225/3133038
         // Requires updating Imagick config to allow PDF https://stackoverflow.com/a/52677573
         $imagick = new Imagick($sourcepath . '[0]');
+        $imagick->setImageAlphaChannel(Imagick::ALPHACHANNEL_REMOVE); // Prevents black backgrounds
     } else if ($url) {
         printInfo("Capturing $url via headless Chrome...");
         $tmpFile = tempnam('/tmp', 'robotsju');

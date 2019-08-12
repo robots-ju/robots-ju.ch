@@ -38,12 +38,17 @@ banner_text: Robots-JU dans les médias
       {% elsif article.tag == 'coupe' %}Coupe Robots-JU
       {% elsif article.tag == 'roberta' %}Coupe Roberta
       {% elsif article.tag == '24h' %}24h de robotique
+      {% elsif article.tag == 'arcobot' %}Arcobot
       {% else %}<span class="text-danger">Unknown {{ article.tag }}</span>
       {% endif %}
     </span>
     {% endif %}
   </p>
-  <img src="/media/presse-thumbnails/{{ article.date }}-{{ article.media }}.jpg" alt="Capture">
+  {% if article.url contains '.mp3' %}
+  <div class="presse-icon"><i class="fa fa-volume-up"></i></div>
+  {% else %}
+  <img src="/media/presse-thumbnails/{{ article.date }}-{{ article.media }}.jpg" alt="Aperçu de l'article du {{ article.date }}">
+  {% endif %}
   <h3>{{ article.title }}</h3>
   <p class="presse-source">
     {% if article.media == 'lqj' %}Le Quotidien Jurassien

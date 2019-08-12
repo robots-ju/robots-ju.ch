@@ -63,7 +63,11 @@
   title: La réussite du club de robotique
   file: 20151218_LQJ.pdf
   scan_bottom: no #lqj strange
-# 2016-01-30 "Interview sur RFJ à 18h"
+- date: 2016-01-30
+  media: rfj
+  tag: arcobot
+  title: Journal de 18h00 dès 00:02:15
+  url: https://bnj.blob.core.windows.net/assets/Podcasts/1/RFJ-18H00/30.01.16_894948_2016-01-30T18-35-19.000.mp3
 - date: 2016-02-06
   media: rfj
   tag: fll
@@ -71,6 +75,7 @@
   url: https://www.rfj.ch/rfj/Actualite/Region/20160206-Les-robots-prennent-le-pouvoir.html
 - date: 2016-02-16
   media: lqj
+  tag: fll
   title: Jurassiens sur la 7e marche
   file: 20160216_LQJ.pdf
 - date: 2016-04-18
@@ -121,14 +126,17 @@
   file: 20170124_LQJ.pdf
 - date: 2017-02-01
   media: canalalpha
+  tag: coupe
   title: La robotique botte aussi les jeunes Jurassiennes
   url: http://www.canalalpha.ch/actu/la-robotique-botte-aussi-les-jeunes-jurassiennes/
 - date: 2017-02-04
   media: rfj
+  tag: arcobot
   title: La robotique n'a pas de secret pour les écoliers
   url: https://www.rfj.ch/rfj/Actualite/Region/20170205-La-robotique-n-a-pas-de-secret-pour-les-ecoliers.html
 - date: 2017-02-12
   media: echodelarche
+  tag: fll
   title: Ils n'ont pas l'air de robots mais ça les connaît
   file: 20170212_echo_arche.pdf
 - date: 2017-02-14
@@ -156,6 +164,7 @@
   tag: coupe
   title: Neuf équipes romandes de constructeurs et programmeurs de robots s'affronteront samedi
   file: 20170309_LQJ.pdf
+  scan_bottom: no #lqj middle
 - date: 2017-03-12
   media: rfj
   tag: coupe
@@ -166,10 +175,6 @@
   tag: coupe
   title: La Coupe Robots-JU remportée par une équipe féminine jurassienne
   file: 20170313_LQJ.pdf
-- date: 2017-03-09
-  media: lqj
-  title:
-  file: à télécharger
 - date: 2017-03-16
   media: canalalpha
   tag: coupe
@@ -244,13 +249,16 @@
   tag: fll
   title: Bon résultat pour Jur'Apollo 18
   file: 20190205_LQJ.pdf
-  scan_bottom: yes
 - date: 2019-03-01
   media: lqj
   tag: 24h
   title: Roboticiens jurassiens dans le top 5 à Coire
   file: 20190301_LQJ.pdf
-# https://bnj.blob.core.windows.net/assets/Podcasts/1/Chez-nous/DGA956150.137.mp3
+- date: 2019-03-13
+  media: rfj
+  tag: coupe
+  title: Podcast Chez nous
+  url: https://bnj.blob.core.windows.net/assets/Podcasts/1/Chez-nous/DGA956150.137.mp3
 - date: 2019-03-20
   media: rfj
   tag: coupe
