@@ -68,3 +68,5 @@ banner_text: Robots-JU dans les médias
 {% endfor %}
 
 </div>
+
+© Les articles PDF sont reproduits avec l’autorisation des Editions D+P SA, société éditrice du Quotidien Jurassien
