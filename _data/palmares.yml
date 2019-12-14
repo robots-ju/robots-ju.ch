@@ -513,3 +513,21 @@
       rank: 3
   notes:
     - "Nos 2 équipes participaient dans la catégorie Mindstorms"
+- type: fll
+  title: FLL "City Shaper"
+  step: Sélection régionale
+  place: EPFL Lausanne
+  date: 2019-12-14
+  teams:
+    - name: Juracity
+      rank: 2
+      qualified: true
+    - name: Jurarchitecte
+      rank: 3
+      qualified: true
+    - name: Juravenir
+      rank: 4
+    - name: Rauracity
+      rank: 10
+  notes:
+    - "Les détails des épreuves sera ajouté dès qu'il sera connu"
