@@ -8,19 +8,22 @@ banner_text: Notre agenda robotique
 
 Différents événements à venir auxquels participe le club ou organisés par le club.
 
-fin 2019
-{:class="side-title"}
-
-## Sélection FLL régionale
-
-Robots-JU participera à la saison 2019-2020 de la FIRST LEGO League.
-
 2020
 {:class="side-title"}
 
+## Finale FLL suisse
+
+<i class="fa fa-calendar"></i> 15 février 2020, FHNW Brugg-Windisch
+
+## 24h de robotique
+
+<i class="fa fa-calendar"></i> 15-16 février 2020, Coire
+
+Détails sur le concours <https://24h.helveticrobot.ch/>
+
 ## Semaine de robotique
 
-<i class="fa fa-calendar"></i> 1-5 avril 2020, Delémont
+<i class="fa fa-calendar"></i> 1-5 avril 2020, Comptoir, Delémont
 
 Robots-JU organise des concours de robotique au salon de la formation au Comptoir à Delémont.
 
