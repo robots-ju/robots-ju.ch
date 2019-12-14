@@ -24,13 +24,13 @@ Robots-JU participera à la saison 2019-2020 de la FIRST LEGO League.
 
 Robots-JU organise des concours de robotique au salon de la formation au Comptoir à Delémont.
 
-- mercredi 1er avril: classes 9H
-- jeudi 2 avril: classes 10H
-- vendredi 3 avril: classes 11H
+- mercredi 1er avril: Marathon classes 9H
+- jeudi 2 avril: Marathon classes 10H
+- vendredi 3 avril: Marathon classes 11H
 - samedi 4 avril: Coupe Robots-JU (voir ci-après)
-- dimanche 5 avril: tout public
+- dimanche 5 avril: Marathon tout public
 
-Détails et inscriptions à venir.
+[Détails sur la semaine de robotique ici](/semaine-robotique-2020)
 
 ## Coupe Robots-JU 2020
 
