@@ -518,16 +518,35 @@
   step: Sélection régionale
   place: EPFL Lausanne
   date: 2019-12-14
+  url: https://et.hands-on-technology.de/index.php?id=22&tx_hotet_hotetergebnisse[tournament]=548
   teams:
     - name: Juracity
       rank: 2
       qualified: true
+      scores:
+        robotgame: 3
+        teamwork: 3
+        robotdesign: 3
+        research: 7
     - name: Jurarchitecte
       rank: 3
       qualified: true
+      scores:
+        robotgame: 2
+        teamwork: 6
+        robotdesign: 2
+        research: 7
     - name: Juravenir
       rank: 4
+      scores:
+        robotgame: 8
+        teamwork: 5
+        robotdesign: 5
+        research: 5
     - name: Rauracity
-      rank: 10
-  notes:
-    - "Les détails des épreuves seront ajouté dès qu'ils seront connus"
+      rank: 9
+      scores:
+        robotgame: 10
+        teamwork: 9
+        robotdesign: 4
+        research: 11
