@@ -34,12 +34,18 @@ Dans le cadre du salon de la formation 2020, Robots-JU organise un concours de r
 
 ## Inscription :
 
--  Les inscriptions s’effectueront sur robots-ju.ch dès janvier 2020
--  Une finance d’inscription sera demandée
+-  Les inscriptions s'effectuent en ligne sur robots-ju.ch.
+-  Une équipe est composée de 3 à 5 personnes.
+-  Pour la catégorie tout public, le coach doit avoir 18 ans le jour de la compétition. Il peut être un membre de l'équipe.
+-  Une finance d’inscription de 10CHF par équipe sera demandée.
+
+<a class="btn btn-default" href="https://events.robots-ju.ch/">Cliquez ici</a> pour inscrire votre équipe.
 
 ## À gagner :
 
 -  Les 3 meilleures équipes de chaque jour recevront de chouettes prix
 -  Chaque participant recevra un souvenir
 
-D’autres détails suivront.
+## Photos et vidéos
+
+Des photos seront prises durant cette journée et certaines seront publiées sur nos sites (robots-ju.ch, coupe.robots-ju.ch) et/ou nos réseaux sociaux (Twitter, Facebook, YouTube, Instagram ...).

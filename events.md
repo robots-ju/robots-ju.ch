@@ -39,4 +39,6 @@ Robots-JU organise des concours de robotique au salon de la formation au Comptoi
 
 <i class="fa fa-calendar"></i> 4 avril 2020, Comptoir, Delémont
 
-La Coupe jurassienne 2020 se déroulera dans le cadre du salon de la formation. Informations à suivre !
+La Coupe jurassienne 2020 se déroulera dans le cadre du salon de la formation.
+
+Détails et inscription sur <https://coupe.robots-ju.ch/>.
