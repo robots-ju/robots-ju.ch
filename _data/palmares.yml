@@ -550,3 +550,33 @@
         teamwork: 9
         robotdesign: 4
         research: 11
+- type: fll
+  title: Finale FLL "City Shaper"
+  step: Finale suisse
+  place: Brugg-Windisch
+  date: 2020-02-15
+  url: https://et.hands-on-technology.de/index.php?id=22&tx_hotet_hotetergebnisse%5Btournament%5D=600
+  teams:
+    - name: Juracity
+      rank: 7
+      scores:
+        robotgame: 5
+        teamwork: 4
+        robotdesign: 6
+        research: 9
+    - name: Jurarchitecte
+      rank: 14
+      scores:
+        robotgame: 4
+        teamwork: 15
+        robotdesign: 15
+        research: 16
+- type: 24stunden
+  title: 24 Stunden Wettbewerb
+  place: Coire
+  date: 2020-02-15 - 2020-02-16
+  teams:
+    - name: Juracolytes
+      rank: 2
+    - name: Jur'Aérogénérateur
+      rank: 8
