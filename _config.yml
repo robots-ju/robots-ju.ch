@@ -84,5 +84,9 @@ social_links:
     url: https://www.flickr.com/photos/robots-ju/
     label: "robots-ju"
     icon: flickr
+  - title: Instagram
+    url: https://www.instagram.com/robotsju/
+    label: "robotsju"
+    icon: instagram
 
 contact_form_url: https://forms.robots-ju.ch/forms/site-contact
