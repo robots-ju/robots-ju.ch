@@ -7,14 +7,15 @@ banner_image: /media/banners/24hcoire2019.jpg
 banner_text: Découvrir. Construire. Programmer.
 ---
 
-Dans le cadre du salon de la formation 2020, Robots-JU organise un concours de robotique à l’intention des écoles.
+Dans le cadre du [salon interjurassien de la formation 2020](https://www.salon-formation.ch/), Robots-JU organise un concours de robotique à l’intention des écoles du Jura et Jura bernois.
 
 ## Programme de la semaine :
 
-|---|---|---|---|---|
+|---|
 | Mercredi<br>1er avril | Jeudi<br>2 avril | Vendredi<br>3 avril | Samedi<br>4 avril | Dimanche<br>5 avril |
-|---|---|---|---|---|
-| Marathon<br>classes 9e H | Marathon<br>classes 10e H | Marathon<br>classes 11e H | [Coupe Robots-JU](https://coupe.robots-ju.ch/) | Marathon<br>Tout public |
+|---|
+| Marathon<br>classes 9e H | Marathon<br>classes 10e H | Marathon<br>classes 11e H | Coupe Robots-JU | Marathon<br>Tout public |
+| [Inscription](https://events.robots-ju.ch/forms/marathon-9h) | [Inscription](https://events.robots-ju.ch/forms/marathon-10h) | [Inscription](https://events.robots-ju.ch/forms/marathon-11h) | [Détails et inscriptions](https://coupe.robots-ju.ch/) | [Inscription](https://events.robots-ju.ch/forms/marathon-tout-public) |
 {:class="table text-center"}
 
 ## Programme du marathon :
