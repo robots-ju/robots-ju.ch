@@ -580,3 +580,13 @@
       rank: 2
     - name: Jur'Aérogénérateur
       rank: 8
+- type: arcobot
+  title: arcObot
+  place: Bienne
+  date: 2020-03-07
+  url: https://www.arcobot.ch/?page_id=145
+  teams:
+    - name: Jur'asymptote
+      rank: 3
+    - name: Juradéadhésif
+      rank: 5
