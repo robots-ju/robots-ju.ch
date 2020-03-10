@@ -5,6 +5,35 @@ banner_image: /media/banners/club-2017.jpg
 banner_text: Le club de robotique jurassien
 ---
 
+<section class="events-banner">
+  <div class="container">
+    <h2>Derniers délais pour les inscriptions !</h2>
+    <div class="row">
+      <div class="col-md-6">
+        <a href="/semaine-robotique" class="event-block" style="background-image: url(/media/events-banner/marathon.jpg?v=dbfe283e520cc5a237d936d25c946eef)">
+          <div class="legend">
+            <h3>Marathon de robotique</h3>
+            <p>Des épreuves de robotiques à découvrir sur place</p>
+            <p><i class="fa fa-calendar"></i> 1-2-3 avril: écoliers</p>
+            <p><i class="fa fa-calendar"></i> Dimanche 5 avril: tout public</p>
+            <div class="button">Détails et inscriptions</div>
+          </div>
+        </a>
+      </div>
+      <div class="col-md-6">
+        <a href="https://coupe.robots-ju.ch/" class="event-block" style="background-image: url(/media/events-banner/coupe.jpg?v=f60c0e974c9751ec7f30767b4b43f6ce)">
+          <div class="legend">
+            <h3>Coupe Robots-JU</h3>
+            <p>Le concours jurassien basé sur les épreuves de la FIRST LEGO League</p>
+            <p><i class="fa fa-calendar"></i> Samedi 4 avril</p>
+            <div class="button">Détails et inscriptions</div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
 <section class="banner-image banner-home" style="background-image: url({{ page.banner_image }})">
     <div class="banner-text">
         <div class="container">
