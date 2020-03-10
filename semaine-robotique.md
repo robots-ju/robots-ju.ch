@@ -18,29 +18,76 @@ Dans le cadre du [salon interjurassien de la formation 2020](https://www.salon-f
 | [Inscription](https://events.robots-ju.ch/forms/marathon-9h) | [Inscription](https://events.robots-ju.ch/forms/marathon-10h) | [Inscription](https://events.robots-ju.ch/forms/marathon-11h) | [Détails et inscriptions](https://coupe.robots-ju.ch/) | [Inscription](https://events.robots-ju.ch/forms/marathon-tout-public) |
 {:class="table text-center"}
 
-## Programme du marathon :
+## À qui s'adresse le concours
 
--  9h : Arrivée des équipes
--  9h-10h : attribution des robots, découverte des épreuves
--  10h-15h : marathon, tentes de marquer un maximum de points
--  dès 15h : rangements et résultats
+**Aucune préparation n'est nécessaire**.
+Le concours est prévu pour tous les niveaux.
+Avant le début des épreuves, une introduction sera faite pour les participants qui découvrent le kit LEGO Mindstorms.
 
-## Participation :
+Les concours du mercredi, jeudi et vendredi sont réservés aux classes d'écoles du Jura et Jura bernois inscrites par leur enseignant.
 
--  Participe contre d’autres classes de ton année (mercredi pour 9 Harmos, jeudi 10H et vendredi 11H).
--  Une boîte LEGO Mindstorms sera mise à ta disposition sur place pour relever les défis.
--  Les missions se réalisent par étape. Une fois une mission réussie, tes points sont comptabilisés et tu peux passer à la suivante.
--  L’équipe qui termine le plus grand nombre de missions gagne
--  Tu auras 5 heures à disposition. Organise ta stratégie et tes pauses comme tu le souhaites.
+Le concours du dimanche est ouvert à tout public.
 
-## Inscription :
+## Inscription requise
 
--  Les inscriptions s'effectuent en ligne sur robots-ju.ch.
+Les inscriptions s'effectuent en ligne sur robots-ju.ch.
+<a class="btn btn-default" href="https://events.robots-ju.ch/">Cliquez ici</a> pour inscrire votre équipe.
+
 -  Une équipe est composée de 3 à 5 personnes.
 -  Pour la catégorie tout public, le coach doit avoir 18 ans le jour de la compétition. Il peut être un membre de l'équipe.
 -  Une finance d’inscription de 10CHF par équipe sera demandée.
 
-<a class="btn btn-default" href="https://events.robots-ju.ch/">Cliquez ici</a> pour inscrire votre équipe.
+## Entraînement
+
+Aucune préparation n'est nécessaire.
+
+## À prendre avec vous
+
+Veuillez amener **votre propre ordinateur** portable Windows ou Mac OS.
+
+Sur l'ordinateur veuillez installer le logiciel de programmation LEGO téléchargeable à cette adresse <https://www.lego.com/fr-fr/themes/mindstorms/downloads> (choisir *Logiciel de bureau*)
+
+Une boîte LEGO Mindstorms EV3 vous sera mise à disposition sur place.
+
+## Programme de la journée
+
+**9h**: Arrivée des équipes.
+
+**9h à 10h**: attribution des robots et introduction à la programmation du robot.
+
+**10h à 15h**: Une série de missions vous seront proposées sur 3 plateaux.
+Tentez de réaliser un maximum de points avec votre robot.
+
+**dès 15h**: Rangements et résultats
+
+## Les missions
+
+Vous découvrirez sur place 3 plateaux de jeu (1m x 1m) avec différentes missions.
+Toutes ces missions peuvent être réalisées avec le kit LEGO Mindstorms mis à votre disposition.
+
+Il y aura entre autres:
+
+- Un labyrinthe à traverser
+- Un pont à franchir
+- Une ligne à suivre
+- Une balle à pousser
+
+Sur chaque plateau, les missions se réalisent par étape.
+Une fois une mission réussie, tes points sont comptabilisés et tu peux passer à la suivante.
+
+Tu auras 5 heures à disposition.
+Organise ta stratégie et tes pauses comme tu le souhaites.
+
+## Conditions de participation
+
+- Le concours du mercredi est ouvert aux classes de 9e Harmos des écoles du canton du Jura et Jura bernois.
+- Le concours du jeudi est ouvert aux classes de 10e Harmos des écoles du canton du Jura et Jura bernois.
+- Le concours du vendredi est ouvert aux classes de 11e Harmos des écoles du canton du Jura et Jura bernois.
+- Le concours du dimanche est ouvert à tout public.
+- Une équipe est composée de 3 à 5 personnes.
+- Pour les écoles, l'équipe doit être inscrite et accompagnée par l'enseignant.
+- Pour la catégorie tout public, le coach doit avoir 18 ans le jour de la compétition. Il peut être un membre de l'équipe.
+- Une finance d’inscription de 10CHF par équipe sera demandée.
 
 ## À gagner :
 
