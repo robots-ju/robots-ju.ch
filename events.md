@@ -11,19 +11,11 @@ Différents événements à venir auxquels participe le club ou organisés par l
 2020
 {:class="side-title"}
 
-## arcObot
-
-<i class="fa fa-calendar"></i> 7 mars 2020, Bienne
-
-2 équipes de l'association participeront à arcObot.
-
-[Site de l'organisateur](https://www.arcobot.ch/)
-
-## Crush The Flag
+## Crush The Flag - annulé
 
 <i class="fa fa-calendar"></i> 22 mars 2020, Mulhouse
 
-3 équipes de l'association participeront à Crush the Flag.
+3 équipes de l'association auraient dû participer à Crush the Flag.
 
 [Site de l'organisateur](https://kidslab.education/evenements-challenges/crush-the-flag/)
 
