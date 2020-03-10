@@ -10,7 +10,7 @@ banner_text: Le club de robotique jurassien
     <h2>Derniers délais pour les inscriptions !</h2>
     <div class="row">
       <div class="col-md-6">
-        <a href="/semaine-robotique" class="event-block" style="background-image: url(/media/events-banner/marathon.jpg?v=dbfe283e520cc5a237d936d25c946eef)">
+        <a href="/semaine-robotique-2020" class="event-block" style="background-image: url(/media/events-banner/marathon.jpg?v=dbfe283e520cc5a237d936d25c946eef)">
           <div class="legend">
             <h3>Marathon de robotique</h3>
             <p>Des épreuves de robotiques à découvrir sur place</p>
