@@ -7,16 +7,19 @@ banner_image: /media/banners/24hcoire2019.jpg
 banner_text: Découvrir. Construire. Programmer.
 ---
 
+<div class="alert alert-danger" markdown="1">
+
+## Concours annulé
+
+Face aux risques grandissants de l’épidémie de Coronavirus, le comité du Salon a pris la décision d’annuler le Salon 2020.
+
+Par conséquent le marathon de robotique est également annulé.
+
+Les informations sur le concours sont conservées ci-dessous à titre indicatif.
+
+</div>
+
 Dans le cadre du [salon interjurassien de la formation 2020](https://www.salon-formation.ch/), Robots-JU organise un concours de robotique à l’intention des écoles du Jura et Jura bernois.
-
-## Programme de la semaine :
-
-|---|
-| Mercredi<br>1er avril | Jeudi<br>2 avril | Vendredi<br>3 avril | Samedi<br>4 avril | Dimanche<br>5 avril |
-|---|
-| Marathon<br>classes 9e H | Marathon<br>classes 10e H | Marathon<br>classes 11e H | Coupe Robots-JU | Marathon<br>Tout public |
-| [Inscription](https://events.robots-ju.ch/forms/marathon-9h) | [Inscription](https://events.robots-ju.ch/forms/marathon-10h) | [Inscription](https://events.robots-ju.ch/forms/marathon-11h) | [Détails et inscriptions](https://coupe.robots-ju.ch/) | [Inscription](https://events.robots-ju.ch/forms/marathon-tout-public) |
-{:class="table text-center"}
 
 ## À qui s'adresse le concours
 
@@ -30,8 +33,7 @@ Le concours du dimanche est ouvert à tout public.
 
 ## Inscription requise
 
-Les inscriptions s'effectuent en ligne sur robots-ju.ch.
-<a class="btn btn-default" href="https://events.robots-ju.ch/">Cliquez ici</a> pour inscrire votre équipe.
+**Le concours est annulé.**
 
 -  Une équipe est composée de 3 à 5 personnes.
 -  Pour la catégorie tout public, le coach doit avoir 18 ans le jour de la compétition. Il peut être un membre de l'équipe.

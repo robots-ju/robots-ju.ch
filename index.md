@@ -7,16 +7,16 @@ banner_text: Le club de robotique jurassien
 
 <section class="events-banner">
   <div class="container">
-    <h2>Derniers délais pour les inscriptions !</h2>
+    <h2>Nos événements du mois de mars sont annulés !</h2>
     <div class="row">
       <div class="col-md-6">
         <a href="/semaine-robotique-2020" class="event-block" style="background-image: url(/media/events-banner/marathon.jpg?v=dbfe283e520cc5a237d936d25c946eef)">
           <div class="legend">
             <h3>Marathon de robotique</h3>
             <p>Des épreuves de robotiques à découvrir sur place</p>
-            <p><i class="fa fa-calendar"></i> 1-2-3 avril: écoliers</p>
-            <p><i class="fa fa-calendar"></i> Dimanche 5 avril: tout public</p>
-            <div class="button">Détails et inscriptions</div>
+            <p><i class="fa fa-calendar"></i> <del>1-2-3 avril: écoliers</del> <strong>ANNULÉ</strong></p>
+            <p><i class="fa fa-calendar"></i> <del>Dimanche 5 avril: tout public</del> <strong>ANNULÉ</strong></p>
+            <div class="button">Détails</div>
           </div>
         </a>
       </div>
@@ -25,8 +25,8 @@ banner_text: Le club de robotique jurassien
           <div class="legend">
             <h3>Coupe Robots-JU</h3>
             <p>Le concours jurassien basé sur les épreuves de la FIRST LEGO League</p>
-            <p><i class="fa fa-calendar"></i> Samedi 4 avril</p>
-            <div class="button">Détails et inscriptions</div>
+            <p><i class="fa fa-calendar"></i> <del>Samedi 4 avril</del> <strong>ANNULÉ</strong></p>
+            <div class="button">Détails</div>
           </div>
         </a>
       </div>
