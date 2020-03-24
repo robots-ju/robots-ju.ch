@@ -7,7 +7,7 @@ banner_text: Le club de robotique jurassien
 
 <section class="events-banner">
   <div class="container">
-    <h2>Nos événements du mois de mars sont annulés !</h2>
+    <h2>Nos événements du mois d'avril sont annulés !</h2>
     <div class="row">
       <div class="col-md-6">
         <a href="/semaine-robotique-2020" class="event-block" style="background-image: url(/media/events-banner/marathon.jpg?v=dbfe283e520cc5a237d936d25c946eef)">
