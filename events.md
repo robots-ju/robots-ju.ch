@@ -11,26 +11,8 @@ Différents événements à venir auxquels participe le club ou organisés par l
 2020
 {:class="side-title"}
 
-## Crush The Flag - annulé
+## FIRST LEGO League
 
-<i class="fa fa-calendar"></i> 22 mars 2020, Mulhouse
+<i class="fa fa-calendar"></i> Fin 2020 ou début 2021
 
-3 équipes de l'association auraient dû participer à Crush the Flag.
-
-[Site de l'organisateur](https://kidslab.education/evenements-challenges/crush-the-flag/)
-
-## Semaine de robotique - annulé
-
-<i class="fa fa-calendar"></i> 1-5 avril 2020, Comptoir, Delémont
-
-Robots-JU aurait dû organiser des concours de robotique au salon interjurassien de la formation au Comptoir à Delémont.
-
-Détails sur [robots-ju.ch/semaine-robotique](/semaine-robotique-2020)
-
-## Coupe Robots-JU 2020 - annulé
-
-<i class="fa fa-calendar"></i> 4 avril 2020, Comptoir, Delémont
-
-La Coupe jurassienne 2020 aurait dû se dérouler dans le cadre du salon interjurassien de la formation.
-
-Détails sur [coupe.robots-ju.ch](https://coupe.robots-ju.ch/).
+Robots-JU participera à l'édition 2020/21 du FIRST LEGO League Challenge
