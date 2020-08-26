@@ -12,7 +12,6 @@ links:
 ---
 
 Version 2019 du scoreboard non-officiel pour le Robot Game FLL.
-Il s'agit du scoreboard officiel pour la [Coupe Robots-JU](https://coupe.robots-ju.ch/).
 
 Contient la description des missions en français et anglais.
 
