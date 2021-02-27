@@ -590,3 +590,42 @@
       rank: 3
     - name: Juradéadhésif
       rank: 5
+- type: fll
+  teamwork_is_core_values: 1
+  title: FLL Challenge "rePLAY"
+  step: Sélection régionale
+  place: EPFL Lausanne (virtuel)
+  date: 2021-02-13
+  url: https://evaluation.hands-on-technology.org/en/score/fll-challenge-2020-21-lausanne.html
+  teams:
+    - name: Jura.py
+      rank: 2
+      scores:
+        robotgame: 5
+        teamwork: 3
+        robotdesign: 1
+        research: 3
+    - name: Jur'actif
+      rank: 2
+      scores:
+        robotgame: 3
+        teamwork: 3
+        robotdesign: 2
+        research: 4
+    - name: Jur'athlétique
+      rank: 5
+      scores:
+        robotgame: 2
+        teamwork: 3
+        robotdesign: 4
+        research: 7
+    - name: Jura EV5
+      rank: 6
+      scores:
+        robotgame: 6
+        teamwork: 6
+        robotdesign: 3
+        research: 5
+  notes:
+    - "Jur'actif a remporté le prix du meilleur match de robot live"
+    - "Les organisateurs de l'association ont reçu le prix du coaching"

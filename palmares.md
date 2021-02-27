@@ -50,7 +50,7 @@ banner_text: Nos performances aux différents concours
             <th>Rang</th>
             {% if competition.type == 'fll' %}
             <th>Robot-Game</th>
-            <th>Travail d'équipe</th>
+            <th>{% if competition.teamwork_is_core_values %}Valeurs FLL{% else %}Travail d'équipe{% endif %}</th>
             <th>Design du robot</th>
             <th>Travail de recherche</th>
             {% endif %}
