@@ -53,3 +53,14 @@ th {
     // So we can center a whole table with just .text-center
     text-align: inherit;
 }
+
+.posts-home article {
+    border-bottom: 1px solid #eee;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+
+    // Lien vers posts plus anciens
+    & + p {
+        margin-top: 20px;
+    }
+}
