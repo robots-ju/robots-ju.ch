@@ -34,7 +34,7 @@ banner_text: Le club de robotique jurassien
             <h3>Blog</h3>
             {% for post in site.posts limit:3 %}
             {% capture post_year %}{{ post.date | date: '%Y' | plus: 0 }}{% endcapture %}
-            {% if post_year > '2019' %}
+            {% if post_year > '2022' %}
             <article class="mb-3">
                 <h3><a href="{{ post.url }}">{{ post.title | escape }}</a></h3>
                 <p>Posté le {{ post.date | date: "%-d %b %Y" }}</p>
@@ -43,7 +43,7 @@ banner_text: Le club de robotique jurassien
             </article>
             {% endif %}
             {% endfor %}
-            <p><i class="fa fa-list"></i> <a href="/tous-les-posts">Posts plus anciens</a></p>
+            <p><i class="fa fa-list"></i> <a href="/tous-les-posts">Posts 2022 et plus anciens</a></p>
         </section>
     </div>
 </div>
