@@ -72,21 +72,25 @@ social_links:
     url: https://www.facebook.com/RobotsJU/
     label: "@RobotsJU"
     icon: facebook
-  - title: YouTube
-    url: https://www.youtube.com/user/robotsju
-    label: /robotsju
-    icon: youtube-play
-  - title: GitHub
-    url: https://github.com/robots-ju
-    label: "robots-ju"
-    icon: github
-  - title: Flickr
-    url: https://www.flickr.com/photos/robots-ju/
-    label: "robots-ju"
-    icon: flickr
   - title: Instagram
     url: https://www.instagram.com/robotsju/
     label: "robotsju"
     icon: instagram
+  - title: YouTube
+    url: https://www.youtube.com/user/robotsju
+    label: /robotsju
+    icon: youtube-play
+  - title: Flickr
+    url: https://www.flickr.com/photos/robots-ju/
+    label: "robots-ju"
+    icon: flickr
+  - title: GitHub
+    url: https://github.com/robots-ju
+    label: "robots-ju"
+    icon: github
+  - title: LinkedIn
+    url: https://www.linkedin.com/company/robots-ju/
+    label: "robots-ju"
+    icon: linkedin
 
 contact_form_url: https://forms.robots-ju.ch/forms/site-contact

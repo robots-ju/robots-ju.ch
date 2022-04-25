@@ -11,7 +11,7 @@ banner_text: Le club de robotique jurassien
             <h2>Le club de robotique jurassien</h2>
             <ul class="social">
                 {% for link in site.social_links %}
-                <li><a href="{{ link.url }}" title="{{ link.title }}"><span class="fa fa-{{ link.icon }}"></span> {{ link.label }}</a></li>
+                <li><a href="{{ link.url }}" title="{{ link.title }}"><span class="fa fa-{{ link.icon }}"></span></a></li>
                 {% endfor %}
             </ul>
         </div>

@@ -25,7 +25,7 @@ $banner-extended-height: 700px;
     &.banner-home {
         .banner-text {
             background: rgba(black, 0.4);
-            padding-top: $banner-extended-height/2.5;
+            padding-top: $banner-extended-height/2.3;
             text-shadow: 0 0 20px rgba(black, 0.9);
 
             @media (min-width: $screen-md-min) {
@@ -39,17 +39,21 @@ $banner-extended-height: 700px;
 
         .social {
             list-style: none;
-            margin: 0;
+            margin: 40px 0 0;
             padding: 0;
-            font-size: 0.7em;
+            font-size: 1.2em;
 
             li {
                 display: inline-block;
-                padding: 0 10px;
 
                 a {
                     display: block;
+                    padding: 0 25px;
                     color: inherit;
+
+                    &:hover {
+                        color: $robotsju-color-green;
+                    }
                 }
             }
         }
