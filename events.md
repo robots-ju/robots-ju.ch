@@ -11,24 +11,18 @@ Différents événements à venir auxquels participe le club ou organisés par l
 2022
 {:class="side-title"}
 
-## Robots-JU Open Day
+## Passport Vacances
 
-<i class="fa fa-calendar"></i> Samedi 12 mars 2022
+<i class="fa fa-calendar"></i> 3-5 août 2022
 
-<i class="fa fa-youtube-play"></i> [Live Stream](https://www.youtube.com/watch?v=-QDIugxRiuk)
+<i class="fa fa-map-marker"></i> Glovelier
 
-Les membres du club Robots-JU vous présentent leurs accomplissements de la dernière saison FLL au travers d'une compétition amicale interne.
+Robots-JU organise des ateliers dans le cadre du Passeport Vacances dans ses locaux à Glovelier.
+Les inscriptions sont gérées par le centre culturel du district.
 
-Le matin, ils présenteront leur travail de recherche et la conception de leur robot.
-Durant l'après-midi, ils disputeront 3 manches de matches de robots.
-La journée sera cloturée par une remise des prix.
-
-Des juges externes évalueront les équipes selon des critères similaires à la FIRST LEGO League.
-
-Cette compétition interne remplace notre participation à la FIRST LEGO League à laquelle nous n'avons pas pu nous rendre fin 2021 en raison des mesures sanitaires en vigueur.
-
-Les parents ont reçu les informations pour assister aux matches sur place.
-Les autres intéressés peuvent suivre la journée via le [live YouTube](https://www.youtube.com/watch?v=-QDIugxRiuk).
+- 3 août: [Informations Saignelégier](https://www.passeportvacances-saignelegier.ch/index.php?buttonid=1028)
+- 4 août: [Informations Delémont](https://passeport-vacances.ccrd.ch/programme/detail/1364/date/)
+- 5 août: [Informations Porrentruy](https://passeport-vacances.cultureporrentruy.ch/)
 
 ## FIRST LEGO League
 
