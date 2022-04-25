@@ -16,7 +16,7 @@ En participant régulièrement au concours de la FIRST LEGO League, entre autres
 
 ## Concours FIRST LEGO League (FLL)
 
-La [Coupe FLL](http://www.firstlegoleague.org/) est une compétition organisée par l'association FIRST.
+La [Coupe FLL](https://www.firstlegoleague.org/) est une compétition organisée par l'association FIRST.
 Elle se découpe en 4 parties: Matchs de robots, Design du robot, recherche scientifique et travail d'équipe.
 
 ### Matchs de robots
@@ -45,9 +45,9 @@ sous la forme de leur choix: exposé, pièce de théâtre, chanson, etc...
 Les membres sont testés sur leur capacité à travailler ensemble,
 dans un travail de groupe qui implique généralement de bien se connaître et de savoir s'organiser.
 
-Plus d'informations: <http://www.firstlegoleague.org/> (Site global, EN),
+Plus d'informations: <https://www.firstlegoleague.org/> (Site global, EN),
 <https://www.first-lego-league.org/> (Site Europe, DE/EN)
-et <https://sps.epfl.ch/FLL> (Organisation à l'EPFL)
+et <https://www.epfl.ch/education/education-and-science-outreach/fr/jeunepublic/fll/> (Organisation à l'EPFL)
 
 ## La Coupe Robots-JU
 
@@ -68,7 +68,7 @@ L'atelier FLL a lieu le samedi matin dans nos locaux de [Glovelier](https://www.
 Prérequis pour votre enfant:
 
 - Être âgé de 10 à 16 ans
-- Avoir suivi le [cours Roberta](https://sps.epfl.ch/CoursRobot)
+- Avoir suivi le [cours Roberta](https://www.epfl.ch/education/education-and-science-outreach/fr/jeunepublic/ateliers-semestriels/)
 
 Le club Robots-JU est organisé en association.
 
