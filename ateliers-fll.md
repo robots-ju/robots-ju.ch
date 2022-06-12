@@ -6,13 +6,22 @@ banner_image: /media/banners/table-animalallies.jpg
 banner_text: Le groupe de robotique LEGO pour les 10-16 ans
 ---
 
-Le groupe FLL réunit chaque semaine des jeunes filles et garçons de 10 à 16 ans.
+Le groupe FLL réunit chaque semaine des jeunes filles et garçons de 9 à 16 ans.
 
-Ils ont suivi le cours Roberta dans lequel ils ont acquis les bases de la programmation sur les Robots LEGO Mindstorms.
+Ils ont suivi le [cours Roberta de l'EPFL](https://www.epfl.ch/education/education-and-science-outreach/fr/jeunepublic/ateliers-semestriels/) ou notre cours Introbots (voir plus bas) pour apprendre les bases de la programmation et robotique.
 
 Le groupe FLL leur donne la possibilité de mettre en pratique leurs connaissances dans ce domaine et leur permet de les développer.
 
 En participant régulièrement au concours de la FIRST LEGO League, entre autres, ils travaillent également d'autres compétences dans des domaines variés.
+
+## Cours Introbots
+
+Le cours Introbots est organisé par Robots-JU dans ses locaux de Glovelier.
+
+Il enseigne les bases de la programmation sur les Robots LEGO Mindstorms.
+Aucune connaissance préalable n'est nécessaire !
+
+Le cours est organisé selon la demande.
 
 ## Concours FIRST LEGO League (FLL)
 
@@ -67,8 +76,8 @@ L'atelier FLL a lieu le samedi matin dans nos locaux de [Glovelier](https://www.
 
 Prérequis pour votre enfant:
 
-- Être âgé de 10 à 16 ans
-- Avoir suivi le [cours Roberta](https://www.epfl.ch/education/education-and-science-outreach/fr/jeunepublic/ateliers-semestriels/)
+- Être âgé de 9 à 16 ans
+- Avoir suivi le cours Introbots organisé par Robots-JU
 
 Le club Robots-JU est organisé en association.
 
@@ -76,6 +85,14 @@ Vous souhaitez inscrire votre enfant ou obtenir davantage de renseignements ?
 Contactez-nous via ce formulaire:
 
 <form method="post" action="{{ site.contact_form_url }}">
-    <input type="hidden" name="subject" value="Atelier FLL">
+    <div class="form-group">
+        <label for="subject">Concerne (requis)</label>
+        <select class="form-control" name="subject" id="subject" required>
+            <option hidden disabled selected>Sélectionnez...</option>
+            <option>Cours Introbots</option>
+            <option>Atelier FLL</option>
+            <option>Autre</option>
+        </select>
+    </div>
     {% include contact-form-common.html %}
 </form>

@@ -14,6 +14,7 @@ Nous vous répondrons dans les plus brefs délais.
         <label for="subject">Concerne (requis)</label>
         <select class="form-control" name="subject" id="subject" required>
             <option hidden disabled selected>Sélectionnez...</option>
+            <option>Cours Introbots</option>
             <option>Atelier FLL</option>
             <option>Atelier avancé</option>
             <option>Autre</option>
