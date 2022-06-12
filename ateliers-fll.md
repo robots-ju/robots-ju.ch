@@ -3,7 +3,7 @@ title: Ateliers FLL
 layout: sidebar
 permalink: /ateliers-fll
 banner_image: /media/banners/table-animalallies.jpg
-banner_text: Le groupe de robotique LEGO pour les 10-16 ans
+banner_text: Le groupe de robotique LEGO pour les 9-16 ans
 ---
 
 Le groupe FLL réunit chaque semaine des jeunes filles et garçons de 9 à 16 ans.
