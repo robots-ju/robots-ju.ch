@@ -395,7 +395,7 @@
   teams:
     - name: JuraScript
       rank: 4
-    - name: JuraTurle
+    - name: JuraTurtle
       rank: 7
     - name: Jurafe
       rank: 9
@@ -629,3 +629,52 @@
   notes:
     - "Jur'athlétique a remporté le prix du meilleur match de robot live"
     - "Les organisateurs de l'association ont reçu le prix du coaching"
+- type: openday
+  teamwork_is_core_values: 1
+  title: Concours interne "CargoConnect"
+  place: Glovelier
+  date: 2022-03-12
+  teams:
+    - name: Team Jura 2
+      rank: 1
+      scores:
+        robotgame: 1
+        teamwork: 1
+        robotdesign: 2
+        research: 2
+    - name: Team Jura 3
+      rank: 2
+      scores:
+        robotgame: 3
+        teamwork: 2
+        robotdesign: 3
+        research: 1
+    - name: Team Jura 1
+      rank: 3
+      scores:
+        robotgame: 2
+        teamwork: 3
+        robotdesign: 1
+        research: 2
+  notes:
+    - "Cette compétition interne remplace notre participation à la FIRST LEGO League à laquelle nous n'avons pas pu nous rendre en raison des mesures sanitaires en vigueur"
+    - "Prix du coaching attribué à Sam"
+- type: fll
+  teamwork_is_core_values: 1
+  title: FLL Challenge "SuperPowered"
+  step: Sélection régionale
+  place: EPFL Lausanne
+  date: 2022-12-17
+  url: https://evaluation.hands-on-technology.org/en/score/challenge-2022-23-lausanne
+  teams:
+    - name: Jur'arc électrique
+      scores:
+        robotdesign: 1
+    - name: thorium_power.ju
+      scores:
+        robotdesign: Finaliste
+    - name: Les Patates jurassiennes
+      scores:
+        research: Finaliste
+  notes:
+    - "Hands-on Technology ne publie plus les classements détaillés"

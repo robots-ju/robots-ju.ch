@@ -35,8 +35,10 @@
         &.type-roberta td {
             border-bottom-color: #AE0010;
         }
-        &.type-robotsju td {
-            border-bottom-color: $robotsju-color-green;
+        &.type-robotsju, &.type-openday {
+            td {
+                border-bottom-color: $robotsju-color-green;
+            }
         }
         &.type-driveit td {
             border-bottom-color: #5276f8;
