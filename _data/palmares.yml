@@ -588,7 +588,7 @@
   teams:
     - name: Jur'asymptote
       rank: 3
-    - name: Juradéadhésif
+    - name: Juradhésif
       rank: 5
 - type: fll
   teamwork_is_core_values: 1
