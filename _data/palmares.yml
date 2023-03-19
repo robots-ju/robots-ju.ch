@@ -678,3 +678,24 @@
         research: Finaliste
   notes:
     - "Hands-on Technology ne publie plus les classements détaillés"
+- type: robotsju
+  title: Coupe Robots-JU
+  place: StrateJ Delémont
+  date: 2023-03-18
+  url: https://coupe.robots-ju.ch/resultats/2023
+  teams:
+    - name: Ultra_powered.ju
+      rank: 1
+      scores:
+        robotgame: 5
+        livechallenge: 1
+    - name: Jur’arc électrique
+      rank: 2
+      scores:
+        robotgame: 6
+        livechallenge: 2
+    - name: Les Patates jurassiennes
+      rank: 8
+      scores:
+        robotgame: 8
+        livechallenge: 6
