@@ -11,16 +11,13 @@ Différents événements à venir auxquels participe le club ou organisés par l
 2023
 {:class="side-title"}
 
-## Coupe Robots-JU 2023
+## WRO
 
-<i class="fa fa-calendar"></i> Samedi 18 mars 2023, Delémont
+<i class="fa fa-calendar"></i> Samedi 13 mai 2023, Rotkreuz
 
-La 5e édition de la Coupe Robots-JU aura lieu le samedi 18 mars 2023 dans les locaux de StrateJ à Delémont.
+Robots-JU participera aux World Robot Olympiad à Rotkreuz.
 
-Venez voir de jeunes roboticiens venus de toute la suisse relever des défis avec leurs robots LEGO Mindstorms.
-L'entrée est gratuite.
-
-Tous les détails sur [Coupe.Robots-JU.ch](https://coupe.robots-ju.ch/).
+<https://wro.swiss/termine/>
 
 ## FIRST LEGO League
 
