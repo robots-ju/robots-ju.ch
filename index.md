@@ -22,15 +22,11 @@ banner_text: Le club de robotique jurassien
 
 <div class="container page">
     <div class="row">
-        <section class="col-md-4">
-           <h3>Twitter</h3>
-            <a class="twitter-timeline" data-lang="fr" data-height="1000" href="https://twitter.com/RobotsJU">Tweets by RobotsJU</a>
-        </section>
-        <section class="col-md-4">
+        <section class="col-md-4 col-md-push-2">
            <h3>Facebook</h3>
             <div class="fb-page" data-href="https://www.facebook.com/RobotsJU/" data-tabs="timeline" data-width="" data-height="1000" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/RobotsJU/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/RobotsJU/">Robots-JU</a></blockquote></div>
         </section>
-        <section class="col-md-4 posts-home">
+        <section class="col-md-4 col-md-push-2 posts-home">
             <h3>Blog</h3>
             {% for post in site.posts limit:3 %}
             {% capture post_year %}{{ post.date | date: '%Y' | plus: 0 }}{% endcapture %}
@@ -48,6 +44,5 @@ banner_text: Le club de robotique jurassien
     </div>
 </div>
 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v6.0"></script>
