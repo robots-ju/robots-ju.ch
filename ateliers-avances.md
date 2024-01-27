@@ -16,7 +16,7 @@ Tu souhaites réaliser des projets de plus grande envergure ou simplement travai
 
 *Nous avons quelque chose qui pourrait t'intéresser !*
 
-Notre atelier "avancé" est organisé en général le samedi après-midi à Glovelier.
+Notre atelier "avancé" est organisé en général le samedi matin à Glovelier.
 Tous les quelques mois le groupe sélectionne un nouveau projet qui sera réalisé durant les ateliers.
 
 Ces ateliers ont été mis en place lors de la rentrée d'août 2017 et sont donc tout récents.

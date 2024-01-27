@@ -8,7 +8,7 @@ banner_text: Le groupe de robotique LEGO pour les 9-16 ans
 
 Le groupe FLL réunit chaque semaine des jeunes filles et garçons de 9 à 16 ans.
 
-Ils ont suivi le [cours Roberta de l'EPFL](https://www.epfl.ch/education/education-and-science-outreach/fr/jeunepublic/ateliers-semestriels/) ou notre cours Introbots (voir plus bas) pour apprendre les bases de la programmation et robotique.
+Ils ont suivi notre cours Introbots (voir plus bas) pour apprendre les bases de la programmation et robotique.
 
 Le groupe FLL leur donne la possibilité de mettre en pratique leurs connaissances dans ce domaine et leur permet de les développer.
 
