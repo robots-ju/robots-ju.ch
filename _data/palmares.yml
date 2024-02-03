@@ -726,3 +726,25 @@
         robotgame: 16
   notes:
     - "Sam Houser a reçu le prix du coaching pour son travail avec l'équipe Master Pare-Chocs.JU"
+- type: arcobot
+  title: arcObot Junior
+  place: Bienne
+  date: 2024-02-03
+  teams:
+    - name: Les patatartiner jurassiennes
+      rank: 3
+    - name: Jurartiste
+      rank: 3
+- type: arcobot
+  title: arcObot Senior
+  place: Bienne
+  date: 2024-02-03
+  teams:
+    - name: Jur'AA
+      rank: 1
+    - name: Les rochers jurassiens
+      rank: 2
+    - name: Prachtige-Jura_Stoel
+      rank: 3
+    - name: French Takos
+      rank: 6
