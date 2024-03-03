@@ -748,3 +748,38 @@
       rank: 3
     - name: French Takos
       rank: 6
+- type: robotsju
+  title: Coupe Robots-JU
+  place: Forum de l'Arc Moutier
+  date: 2024-03-02
+  url: https://coupe.robots-ju.ch/resultats/2024
+  teams:
+    - name: Master Pare_chocs.JU
+      rank: 3
+      scores:
+        robotgame: 5
+        livechallenge: 1
+    - name: Jurartiste
+      rank: 6
+      scores:
+        robotgame: 6
+        livechallenge: 5
+    - name: Les Patates jurassiennes
+      rank: 7
+      scores:
+        robotgame: 7
+        livechallenge: 5
+- type: fll
+  teamwork_is_core_values: 1
+  title: FLL Challenge "MasterPiece"
+  step: Finale suisse
+  place: Lausanne
+  date: 2024-03-02
+  teams:
+    - name: L'équi-pain Jurassien
+      rank: 3
+      qualified: true
+      scores:
+        robotgame: 3
+        teamwork: 1
+        robotdesign: Demi-finaliste
