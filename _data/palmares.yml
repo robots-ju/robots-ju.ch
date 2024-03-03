@@ -780,6 +780,8 @@
       rank: 3
       qualified: true
       scores:
-        robotgame: 3
+        robotgame: 4
         teamwork: 1
-        robotdesign: Demi-finaliste
+        robotdesign: Finaliste
+  notes:
+    - "Meilleur match de qualification au Robot Game"
