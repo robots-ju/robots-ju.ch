@@ -53,7 +53,7 @@ banner_text: Nos performances aux différents concours
             {% if competition.type == 'fll' or competition.type == 'openday' %}
             <th>Robot-Game</th>
             <th>{% if competition.teamwork_is_core_values %}Valeurs FLL{% else %}Travail d'équipe{% endif %}</th>
-            <th>Design du robot</th>
+            <th>{% if competition.robotdesign_is_extra_challenge %}Extra Challenge{% else %}Design du robot{% endif %}</th>
             <th>Travail de recherche</th>
             {% endif %}
             {% if competition.type == 'roberta' or competition.type == 'robotsju' %}

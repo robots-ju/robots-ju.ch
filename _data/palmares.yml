@@ -785,3 +785,32 @@
         robotdesign: Finaliste
   notes:
     - "Meilleur match de qualification au Robot Game"
+- type: fll
+  teamwork_is_core_values: 1
+  robotdesign_is_extra_challenge: 1
+  title: Hors compétition FLL "MasterPiece"
+  step: FLL Open Alsace
+  place: Altkirch
+  date: 2024-03-16
+  teams:
+    - name: Team Jura 2
+      rank: 1
+      scores:
+        robotgame: 1
+        teamwork: 2
+        robotdesign: 3
+        research: 2
+    - name: Team Jura 3
+      rank: 2
+      scores:
+        robotgame: 2
+        teamwork: 3
+        robotdesign: 2
+        research: 4
+    - name: Team Jura 4
+      rank: 5
+      scores:
+        robotgame: 5
+        teamwork: 4
+        robotdesign: 5
+        research: 6
