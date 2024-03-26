@@ -806,7 +806,7 @@
         robotgame: 2
         teamwork: 3
         robotdesign: 2
-        research: 4
+        research: 3
     - name: Team Jura 4
       rank: 5
       scores:
