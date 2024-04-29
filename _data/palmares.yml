@@ -814,3 +814,17 @@
         teamwork: 4
         robotdesign: 5
         research: 6
+- type: fll
+  teamwork_is_core_values: 1
+  title: FLL Challenge "MasterPiece"
+  step: Finale Europe Centrale
+  place: Davos
+  date: 2024-03-14
+  teams:
+    - name: L'équi-pain Jurassien
+      qualified: true
+      scores:
+        robotgame: 5
+  notes:
+    - "L'équipe se qualifie pour le concours FLL Open European Championship"
+    - "Les classements détaillés ne sont pas publiés par les organisateurs"
