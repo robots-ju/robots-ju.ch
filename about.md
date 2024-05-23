@@ -10,7 +10,7 @@ banner_text: Programmeurs de robots depuis 2011
 
 ## Présentation rapide
 
-Robot-JU est un club de robotique qui entraîne de jeunes jurassiennes et jurassiens pour participer aux championnats de la FIRST LEGO League et d'autres concours similaires.
+Robots-JU est un club de robotique qui entraîne de jeunes jurassiennes et jurassiens pour participer aux championnats de la FIRST LEGO League et d'autres concours similaires.
 
 Le club a officiellement été créé en 2014 par un groupe de participants à la FLL depuis 2011.
 
