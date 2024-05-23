@@ -9,7 +9,11 @@
             {% if page.url == link.url %}{% assign current = 'active' %}{% endif %}
             {% if page.url == '/index.html' and link.url == '/' %}{% assign current = 'active' %}{% endif %}
             <li>
-                <a href="{{ link.url }}" class="{{ current }}">{{ link.title }}{% if link.url contains '://' %} <i class="fa fa-external-link"></i>{% endif %}</a>
+                <a href="{{ link.url }}" class="{{ current }}{% if link.atelier %} atelier{% endif %}">
+                    {% if link.atelier %}<span class="atelier-text">Ateliers</span>{% endif %}
+                    {{ link.title }}
+                    {% if link.url contains '://' %}<i class="fa fa-external-link"></i>{% endif %}
+                </a>
             </li>
             {% endfor %}
         </ul>

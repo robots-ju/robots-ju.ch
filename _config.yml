@@ -22,10 +22,15 @@ exclude:
   - Gemfile.lock
 
 main_menu:
-  - title: Ateliers FLL
+  - title: FLL Challenge
     url: /ateliers-fll
-  - title: Ateliers Avancés
+    atelier: 1
+  - title: FLL Explore
+    url: /ateliers-fll-explore
+    atelier: 1
+  - title: Avancés
     url: /ateliers-avances
+    atelier: 1
   - title: Événements
     url: /events
   - title: Outils
@@ -39,8 +44,10 @@ main_menu:
 
 sitemap:
   activities:
-    - title: Ateliers FLL
+    - title: Ateliers FLL Challenge
       url: /ateliers-fll
+    - title: Ateliers FLL Explore
+      url: /ateliers-fll-explore
     - title: Ateliers Avancés
       url: /ateliers-avances
     - title: Coupe Robots-JU

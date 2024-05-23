@@ -15,7 +15,8 @@ Nous vous répondrons dans les plus brefs délais.
         <select class="form-control" name="subject" id="subject" required>
             <option hidden disabled selected>Sélectionnez...</option>
             <option>Cours Introbots</option>
-            <option>Atelier FLL</option>
+            <option>Atelier FLL Challenge</option>
+            <option>Atelier FLL Explore</option>
             <option>Atelier avancé</option>
             <option>Autre</option>
         </select>

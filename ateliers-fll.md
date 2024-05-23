@@ -1,18 +1,20 @@
 ---
-title: Ateliers FLL
+title: Ateliers FLL Challenge
 layout: sidebar
 permalink: /ateliers-fll
 banner_image: /media/banners/table-animalallies.jpg
 banner_text: Le groupe de robotique LEGO pour les 9-16 ans
 ---
 
-Le groupe FLL réunit chaque semaine des jeunes filles et garçons de 9 à 16 ans.
+Le groupe FLL Challenge réunit chaque semaine des jeunes filles et garçons de 9 à 16 ans.
 
 Ils ont suivi notre cours Introbots (voir plus bas) pour apprendre les bases de la programmation et robotique.
 
-Le groupe FLL leur donne la possibilité de mettre en pratique leurs connaissances dans ce domaine et leur permet de les développer.
+Le groupe FLL Challenge leur donne la possibilité de mettre en pratique leurs connaissances dans ce domaine et leur permet de les développer.
 
 En participant régulièrement au concours de la FIRST LEGO League, entre autres, ils travaillent également d'autres compétences dans des domaines variés.
+
+Pour les jeunes de 6 à 10 ans, nous proposons un autre atelier [FLL Explore](/ateliers-fll-explore).
 
 ## Cours Introbots
 
@@ -72,7 +74,7 @@ Plus d'informations: <https://coupe.robots-ju.ch/>
 
 ## Rejoindre l'atelier
 
-L'atelier FLL a lieu le samedi matin dans nos locaux de [Glovelier](https://www.google.ch/maps/place/Rue+des+Places+7,+2855+Glovelier/@47.3390915,7.2066171,17z/data=!3m1!4b1!4m5!3m4!1s0x4791e4df12d571d5:0xfc3cb407ccf2c65f!8m2!3d47.3390879!4d7.2088058?hl=fr).
+L'atelier FLL Challenge a lieu le samedi matin dans nos locaux de [Glovelier](https://www.google.ch/maps/place/Rue+des+Places+7,+2855+Glovelier/@47.3390915,7.2066171,17z/data=!3m1!4b1!4m5!3m4!1s0x4791e4df12d571d5:0xfc3cb407ccf2c65f!8m2!3d47.3390879!4d7.2088058?hl=fr).
 
 Prérequis pour votre enfant:
 
@@ -90,7 +92,8 @@ Contactez-nous via ce formulaire:
         <select class="form-control" name="subject" id="subject" required>
             <option hidden disabled selected>Sélectionnez...</option>
             <option>Cours Introbots</option>
-            <option>Atelier FLL</option>
+            <option>Atelier FLL Challenge</option>
+            <option>Atelier FLL Explore</option>
             <option>Autre</option>
         </select>
     </div>
