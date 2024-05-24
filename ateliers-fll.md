@@ -12,7 +12,7 @@ Ils ont suivi notre cours Introbots (voir plus bas) pour apprendre les bases de 
 
 Lors des ateliers, ils peuvent mettre en pratique leurs connaissances dans les domaines technologiques et scientifiques et les développer.
 
-ELes membres des équipes apprennent à travailler en équipe, à partager leurs idées de manière respectueuse et à développer leur esprit critique.
+Les membres des équipes apprennent à travailler en équipe, à partager leurs idées de manière respectueuse et à développer leur esprit critique.
 
 Ils développent également leur confiance en soi et leurs connaissances technologiques et scientifiques.
 
