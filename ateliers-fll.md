@@ -20,12 +20,11 @@ Pour les jeunes de 6 à 10 ans, nous proposons un autre atelier [FLL Explore](/a
 
 ## Cours Introbots
 
-Le cours Introbots est organisé par Robots-JU dans ses locaux de Glovelier.
+Le cours Introbots enseigne les bases de la construction et de la programmation d’un robot Lego Spike. Aucune connaissance préalable n’est nécessaire !
 
-Il enseigne les bases de la programmation sur les Robots LEGO Mindstorms.
-Aucune connaissance préalable n'est nécessaire !
+Le cours est destiné aux filles et garçons qui ont 9 ans au 1er janvier de l’année en cours. Il est organisé selon la demande pendant 4 demi-journées (le samedi). Le prix est de CHF 5.00 par demi-journée.
 
-Le cours est organisé selon la demande.
+Les jeunes qui ont suivi le cours peuvent ensuite s’inscrire aux ateliers FLL Challenge du Club.
 
 ## Concours FIRST LEGO League (FLL)
 
