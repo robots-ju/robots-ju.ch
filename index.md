@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: default
-banner_image: /media/banners/club-2017.jpg
+banner_image: /media/banners/club-2023.jpg
 banner_text: Le club de robotique jurassien
 ---
 

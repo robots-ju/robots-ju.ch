@@ -2,7 +2,7 @@
 title: Ateliers FLL Explore
 layout: sidebar
 permalink: /ateliers-fll-explore
-banner_image: /media/banners/table-animalallies.jpg
+banner_image: /media/banners/maquette.jpg
 banner_text: Introduction à la robotique pour les 6-10 ans
 ---
 
