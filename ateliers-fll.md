@@ -6,13 +6,15 @@ banner_image: /media/banners/table-animalallies.jpg
 banner_text: Le groupe de robotique LEGO pour les 9-16 ans
 ---
 
-Le groupe FLL Challenge réunit chaque semaine des jeunes filles et garçons de 9 à 16 ans.
+Les ateliers FLL Challenge réunissent chaque samedi des filles et garçons qui ont entre 9 et 16 ans au 1er janvier de l’année en cours.
 
 Ils ont suivi notre cours Introbots (voir plus bas) pour apprendre les bases de la programmation et robotique.
 
-Le groupe FLL Challenge leur donne la possibilité de mettre en pratique leurs connaissances dans ce domaine et leur permet de les développer.
+Lors des ateliers, ils peuvent mettre en pratique leurs connaissances dans les domaines technologiques et scientifiques et les développer.
 
-En participant régulièrement au concours de la FIRST LEGO League, entre autres, ils travaillent également d'autres compétences dans des domaines variés.
+ELes membres des équipes apprennent à travailler en équipe, à partager leurs idées de manière respectueuse et à développer leur esprit critique.
+
+Ils développent également leur confiance en soi et leurs connaissances technologiques et scientifiques.
 
 Pour les jeunes de 6 à 10 ans, nous proposons un autre atelier [FLL Explore](/ateliers-fll-explore).
 
@@ -27,34 +29,29 @@ Le cours est organisé selon la demande.
 
 ## Concours FIRST LEGO League (FLL)
 
-La [Coupe FLL](https://www.firstlegoleague.org/) est une compétition organisée par l'association FIRST.
-Elle se découpe en 4 parties: Matchs de robots, Design du robot, recherche scientifique et travail d'équipe.
+Le [concours FLL](https://www.firstlegoleague.org/) est une compétition organisée par l’association FIRST. Les équipes se rencontrent autour de 4 catégories (Matchs de robots, Design du robot, recherche scientifique et travail d'équipe) lors d’un concours régional (Delémont).
+
+Les meilleures équipes se qualifient pour les étapes suivantes du concours (Finale Suisse, Finale Europe, Finale Monde).
 
 ### Matchs de robots
 
-Chaque année, un tapis de match, constitué d'obstacles en LEGO est distribué aux équipes.
-Elles devront, à l'aide d'un robot en LEGO qu'elles auront construit et programmé,
-réaliser différentes missions sur le tapis afin d'amasser un maximum de points.
+Chaque équipe construit et programme un robot autonome capable de résoudre des missions sur un tapis de jeu en LEGO.
 
-Un match dure 2:30 (oui, deux minutes et demi).
-Il y a toujours 2 équipes qui concourent en même temps,
-sur deux tables liées entre elles par un élément commun (un des obstacles).
+Chaque équipe dispute 3 matchs de 2:30 le jour du concours et essaie de marquer un maximum de points.
 
 ### Design du robot
 
-Un jury examine comment le robot a été conçu et programmé,
-et pose des questions aux membres de l'équipe.
+Le trophée de cette catégorie est attribué à l’équipe qui a conçu un robot innovant et robuste, et qui a présenté le processus de développement le plus cohérent au jury.
 
 ### Recherche scientifique
 
-Chaque année, le concours porte un thème.
-Les équipes doivent présenter un travail de recherche qui répond aux problèmes du thème,
-sous la forme de leur choix: exposé, pièce de théâtre, chanson, etc...
+Chaque année, les équipes travaillent scientifiquement sur un thème d’importance mondiale. Elles cherchent un problème approprié et explorent de nouvelles idées de solutions.
+
+Les membres contactent des experts dans le domaine concerné et discutent de leur travail avec eux. Le jour du concours, elles présentent les résultats de leurs recherches à un jury sous la forme de leur choix : exposé, pièce de théâtre, chanson, etc…
 
 ### Travail d'équipe
 
-Les membres sont testés sur leur capacité à travailler ensemble,
-dans un travail de groupe qui implique généralement de bien se connaître et de savoir s'organiser.
+Les équipes sont observées durant toute la durée du concours sur leur respect des valeurs de la FLL : enthousiasme, grand esprit sportif, respect exceptionnel, inclusion, soutien aux autres.
 
 Plus d'informations: <https://www.firstlegoleague.org/> (Site global, EN),
 <https://www.first-lego-league.org/> (Site Europe, DE/EN)
