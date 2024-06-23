@@ -13,14 +13,17 @@ Différents événements à venir auxquels participe le club ou organisés par l
 
 ## Sélection FLL Jura
 
-<i class="fa fa-calendar"></i> Samedi 18 janvier 2025, Delémont
+<i class="fa fa-calendar"></i> Samedi 18 janvier 2025, Campus StrateJ, Route de Moutier 14, 2800 Delémont
 
-Pour la première fois, nous organiserons une sélection régionale FIRST LEGO League Challenge et Explore dans le Jura! Informations à suivre.
+<b>NOUVEAU :</b> Robots-JU organise la première sélection régionale FIRST LEGO League Jura en 2025.
+Le concours est ouvert à toutes les équipes de la région Mitteland et de la région du Nord-Ouest de la Suisse.
 
-Nous cherchons des bénévoles! N'hésitez pas à nous contacter si vous êtes intéressé.
+2 catégories sont proposées : Explore (6-10 ans) et Challenge (9-16 ans). Les inscriptions sont possibles ici :
+- FIRST LEGO League Explore : <a href="https://www.first-lego-league.org/en/explore-2024-25/jura"></a>
+- FIRST LEGO League Challenge : <a href="https://www.first-lego-league.org/en/challenge-2024-25/jura"></a>
 
 ## Coupe Robots-JU 2025
 
-<i class="fa fa-calendar"></i> Samedi 15 mars 2025, Delémont
+<i class="fa fa-calendar"></i> Samedi 15 mars 2025, Campus StrateJ, Route de Moutier 14, 2800 Delémont
 
 Détails à venir.
