@@ -8,15 +8,6 @@ banner_text: Notre agenda robotique
 
 Différents événements à venir auxquels participe le club ou organisés par le club.
 
-2024
-{:class="side-title"}
-
-## WRO Suisse
-
-<i class="fa fa-calendar"></i> Samedi 22 juin 2024, Hausen
-
-Nous attendons la fin des concours régionaux pour savoir si nos équipes se qualifient pour la finale.
-
 2025
 {:class="side-title"}
 
