@@ -19,8 +19,8 @@ Différents événements à venir auxquels participe le club ou organisés par l
 Le concours est ouvert à toutes les équipes de la région Mitteland et de la région du Nord-Ouest de la Suisse.
 
 2 catégories sont proposées : Explore (6-10 ans) et Challenge (9-16 ans). Les inscriptions sont possibles ici :
-- FIRST LEGO League Explore : <a href="https://www.first-lego-league.org/en/explore-2024-25/jura"></a>
-- FIRST LEGO League Challenge : <a href="https://www.first-lego-league.org/en/challenge-2024-25/jura"></a>
+-  <a href="https://www.first-lego-league.org/en/explore-2024-25/jura">FIRST LEGO League Explore</a>
+-  <a href="https://www.first-lego-league.org/en/challenge-2024-25/jura">FIRST LEGO League Challenge</a>
 
 ## Coupe Robots-JU 2025
 
