@@ -22,6 +22,8 @@ Le concours est ouvert à toutes les équipes de la région Mitteland et de la r
 -  <a href="https://www.first-lego-league.org/en/explore-2024-25/jura">FIRST LEGO League Explore</a>
 -  <a href="https://www.first-lego-league.org/en/challenge-2024-25/jura">FIRST LEGO League Challenge</a>
 
+N'hésitez pas à nous contacter si vous avez des questions, si vous souhaitez participer ou inscrire une équipe !
+
 ## Coupe Robots-JU 2025
 
 <i class="fa fa-calendar"></i> Samedi 15 mars 2025, Campus StrateJ, Route de Moutier 14, 2800 Delémont
