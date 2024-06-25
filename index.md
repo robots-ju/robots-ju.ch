@@ -22,10 +22,22 @@ banner_text: Le club de robotique jurassien
 
 <div class="container page">
     <div class="row">
-        <section class="col-md-6 col-md-push-3">
+        <section class="col-md-4 col-md-push-1">
            <h3>Facebook</h3>
             <div class="fb-page" data-href="https://www.facebook.com/RobotsJU/" data-tabs="timeline" data-width="" data-height="1000" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/RobotsJU/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/RobotsJU/">Robots-JU</a></blockquote></div>
-            <p><i class="fa fa-list"></i> <a href="/tous-les-posts">Posts 2022 et plus anciens</a></p>
+        </section>
+        <section class="col-md-6 col-md-push-1 posts-home">
+            <h3>Blog</h3>
+            {% for post in site.posts limit:5 %}
+            {% capture post_year %}{{ post.date | date: '%Y' | plus: 0 }}{% endcapture %}
+            <article class="mb-3">
+                <h3><a href="{{ post.url }}">{{ post.title | escape }}</a></h3>
+                <p>Posté le {{ post.date | date: "%-d %b %Y" }}</p>
+                {{ post.excerpt }}
+                <p><a href="{{ post.url }}">Lire le message complet <i class="fa fa-arrow-right"></i></a></p>
+            </article>
+            {% endfor %}
+            <p><i class="fa fa-list"></i> <a href="/tous-les-posts">Posts plus anciens</a></p>
         </section>
     </div>
 </div>

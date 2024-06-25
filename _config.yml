@@ -11,6 +11,8 @@ defaults:
     values:
       layout: post
 
+future: true
+
 collections:
   - projects
 
