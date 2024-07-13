@@ -70,9 +70,7 @@ Plus d'informations: <https://coupe.robots-ju.ch/>
 
 ## Rejoindre l'atelier
 
-**Le nombre de places restantes est limité. Le délai d'inscription pour la reprise d'août est fixé au 14 juillet 2024, dans la limite des places disponibles.**
-
-**La prochaine session du cours d'introduction à la robotique (Introbots) aura lieu en août, selon la demande.**
+**La prochaine session du cours d'introduction à la robotique a lieu les 24 août, 31 août et 7 septembre. Il reste 5 places disponibles. Le délai d'inscription est fixé au vendredi 16 août 2024.**
 
 L'atelier FLL Challenge a lieu le samedi matin ou après-midi dans nos locaux de [Glovelier](https://www.google.ch/maps/place/Rue+des+Places+7,+2855+Glovelier/@47.3390915,7.2066171,17z/data=!3m1!4b1!4m5!3m4!1s0x4791e4df12d571d5:0xfc3cb407ccf2c65f!8m2!3d47.3390879!4d7.2088058?hl=fr).
 
