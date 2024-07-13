@@ -11,8 +11,11 @@ banner_text: Introduction à la robotique pour les 6-10 ans
 Les Ateliers FLL Explore sont organisés pour les filles et garçons qui ont entre 6 et 10 ans au 1er janvier de l’année en cours.
 Aucune connaissance préalable n’est nécessaire pour s’inscrire.
 
-Les Ateliers auront lieu selon la demande.
-Les inscriptions sont possibles dès le mois d’avril 2024 pour débuter en août 2024.
+Lors des ateliers, ils peuvent mettre en pratique leurs connaissances dans les domaines technologiques et scientifiques et les développer.
+
+Les membres des équipes apprennent à travailler en équipe, à partager leurs idées de manière respectueuse et à développer leur esprit critique.
+
+Ils développent également leur confiance en soi et leurs connaissances technologiques et scientifiques.
 
 Pour les plus âgés de 9 à 16 ans, nous proposons un autre atelier [FLL Challenge](/ateliers-fll).
 
@@ -42,7 +45,7 @@ Ils développent également leur confiance en soi et leurs connaissances technol
 
 ## Rejoindre l'atelier
 
-**Les places disponibles pour la reprise en août sont limitées. Les prochaines demandes d'adhésion seront placées en liste d'attente.**
+**Il reste 1 place  le mercredi après-midi et 2 places le samedi matin.**
 
 L'atelier FLL Explore a lieu le mercredi après-midi ou le samedi matin dans nos locaux de [Glovelier](https://www.google.ch/maps/place/Rue+des+Places+7,+2855+Glovelier/@47.3390915,7.2066171,17z/data=!3m1!4b1!4m5!3m4!1s0x4791e4df12d571d5:0xfc3cb407ccf2c65f!8m2!3d47.3390879!4d7.2088058?hl=fr).
 
