@@ -45,7 +45,7 @@ Ils développent également leur confiance en soi et leurs connaissances technol
 
 ## Rejoindre l'atelier
 
-**Il reste 1 place  le mercredi après-midi et 2 places le samedi matin.**
+**Il reste 1 place  le mercredi après-midi et 1 place le samedi matin.**
 
 L'atelier FLL Explore a lieu le mercredi après-midi ou le samedi matin dans nos locaux de [Glovelier](https://www.google.ch/maps/place/Rue+des+Places+7,+2855+Glovelier/@47.3390915,7.2066171,17z/data=!3m1!4b1!4m5!3m4!1s0x4791e4df12d571d5:0xfc3cb407ccf2c65f!8m2!3d47.3390879!4d7.2088058?hl=fr).
 
