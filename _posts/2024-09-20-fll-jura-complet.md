@@ -2,7 +2,7 @@
 title: La FLL Jura est complet !
 ---
 
-12 équipes participeront à la 1re édition de la FIRST LEGO League Jura le 18 janvier 2025 à Delémont.
+15 équipes participeront à la 1re édition de la FIRST LEGO League Jura le 18 janvier 2025 à Delémont.
 
 <!--more-->
 
