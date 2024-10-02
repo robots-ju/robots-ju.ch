@@ -6,7 +6,7 @@ title: La FLL Jura est complet !
 
 <!--more-->
 
-En catégorie Challenge (9-16 ans), 6 équipes de Robots-JU, 2 équipes de Bassecourt, 1 équipe de Porrentruy, 1 équipe de Genève et 1 équipe de Roggwil (BE) participeront.
+En catégorie Challenge (9-16 ans), 6 équipes de Robots-JU, 2 équipes de Bassecourt, 1 équipe de Porrentruy, 1 équipe de Genève, 1 équipe de Hombrechtikon et 1 équipe de Roggwil (BE) participeront.
 3 d'entre elles seront qualifiées pour la finale Suisse début mars.
 
 En catégorie Explore (6-10 ans), 3 équipes de Robots-JU participeront et certaines d'entre elles auront la chance de représenter le Jura au niveau européen fin mars à Siegen (D).
