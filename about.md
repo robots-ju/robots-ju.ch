@@ -50,90 +50,85 @@ Les équipes sont à présent nommées *Team Jura 1*, *Team Jura 2* et *Team Jur
 
 Le site Internet [robots-ju.ch](https://robots-ju.ch/). est mis en ligne en août 2014.
 
-Nous proposons des ateliers de robotique dans le cadre du passeport vacances de Delémont. Une quarantaine de jeunes filles et garçons construisent et programment un robots Mindstorms EV3 durant une journée.
+Nous participons pour la première fois au Passeport-Vacances du district de Delémont ! Plus de 40 filles et garçons ont découvert la robotique durant une journée.
 
 Lors de la sélection régionale FLL (catégorie Challenge) le 29 novembre 2014 à Lausanne, *Team Jura 2* se classe au 4e rang du concours et obtient la 3e place des matches de robots et la 2e place de la meilleure conception de robot. *Team Jura 1* se classe 5e et obtient la 2e place du travail d'équipe. *Team Jura 3* se classe à la 6e place.
 
-### 2015
+### Saison 2015-2016
 {: class="side-title"}
 
-Toujours avec 3 équipes, nous participons à nouveau à la Coupe Roberta le 28 mars 2015 ainsi qu'à la sélection régionale FLL à Lausanne le 12 décembre 2015. L'équipe *Team Jura 1* est qualifiée pour les finales suisses qui ont lieu en début 2016.
+Nous participons à nouveau au Passeport-Vacances cette année et nous accueillons aussi des enfants du district de Porrentruy.
 
-Nous proposons à nouveau des ateliers de robotique dans le cadre du passeport vacances. Cette année, les places disponibles sont proposés aux écoliers de Delémont et Porrentruy.
+En septembre 2015, Robots-JU créé un atelier de programmation Java pour les membres plus âgés (*Ateliers Avancés*).
 
-En septembre 2015 nous lançons un nouvel atelier dédié à la programmation de robots en java.
+Lors de la sélection régionale FLL (catégorie Challenge) le 12 décembre 2015 à Lausanne, *Team Jura 1* se qualifie pour la finale Suisse en obtenant la 3e place du classement général, la deuxième place des matches de robots et la 1re place en travail d'équipe. *Team Jura 3* se classe à la 7e place et *Team Jura 2* à la 8 place. Ces deux équipes obtiennent la 4e place ex-aequo des matches de robots.
 
-### 2016
+*Team Jura 1* se déplace à Lausanne le 13 février 2016 pour la finale Suisse FLL. Soutenue par un nombre important de supporters, l'équipe dispute les demi-finales des matches de robots (4e place) et obtiennent la 7e place du classement général.
+
+La Coupe Roberta n'a pas lieu cette saison. Pour pallier cette absence, nous organisons une nouvelle compétition. 10 équipes romandes, dont 4 jurassiennes, ont participé à la première [Coupe Robots-JU](https://coupe.robots-ju.ch/) le 21 mai 2016 à Delémont. *Team Jura 1* obtient la deuxième place du classement général et la 3e place des matches de robots. *Team Jura 3* obtient la deuxième place des matches de robots.
+
+Notre compte Twitter/X [@RobotsJU](https://twitter.com/RobotsJU) est ouvert en mai 2016.
+
+### Saison 2016-2017
 {: class="side-title"}
 
-L'équipe Team Jura 1 se rend à la finale suisse qui a lieu cette année à Lausanne le 13 février 2016, avec un fan-club important composé des autres membres du club. Ils y disputent les demi-finales du Robot-Game et finissent 7e au classement général.
+40 enfants de Delémotn et Porrentruy participent à notre journée de découverte de la robotique.
 
-L'absence de Coupe Roberta cette année nous décide à organiser notre propre compétition au Jura. Le 21 mai 2016 nous organisons donc la première [Coupe Robots-JU](https://coupe.robots-ju.ch/) à laquelle ont participé 10 équipes romandes, dont 4 jurassiennes.
+Nous proposons également une découverte de la robotique dans le cadre de l'offre de l'[université populaire du Jura UP](http://www.upjurassienne.ch) sous la forme d'ateliers parents-enfants.
 
-En mai 2016 également, nous ouvrons notre compte Twitter [@RobotsJU](https://twitter.com/RobotsJU).
+Une quatrième équipe est créée pour la sélection régionale FLL (catégorie Challenge) à Lausanne le 3 décembre 2016. Nos équipes ont obtenu les quatre meilleures places des matches de robots et elles ont disputé des demi-finales et finales 100 % jurassiennes ! *Team Jura 1* termine à la 2e place du classement général et *Les Cubix* à la 3e place, ce qui leur permet de se qualifier pour la finale Suisse.
 
-Les ateliers de robotiques du passeport vacances sont proposés aux élèves de Delémont et Porrentruy. Une quarantaine de jeunes filles et garçons se retrouvent dans nos locaux pour découvrir les robots LEGO.
+A l'occasion de la finale Suisse FLL, *Team Jura 1* obtient la 3e place des matches de robots et se place 4e du classement général. *Les Cubix* sont 13e du classement général.
 
-Cette année, nous proposons des ateliers de découverte de la robotique LEGO dans le cadre de l'[université populaire du Jura UP](http://www.upjurassienne.ch) sous une forme particulière parent-enfant. Ce sont ainsi cinq parents et cinq enfants qui découvrent les robots durant trois après-midi.
+Le compte Twitter/X de la [@CoupeRobotsJU](https://twitter.com/CoupeRobotsJU) est créé en janvier 2017.
 
-Nous nous rendons à présent aux sélections régionales à Lausanne avec 4 équipes. Nous tentons un peu d'originalité en optant pour de nouveaux noms d'équipes. En plus de *Team Jura 1* et *2* nous avons à présent *Team JurAllies* et *Les Cubix*. Les équipes restent composées par tranche d'âge, *Team Jura 1* étant les vétérans de la compétition.
+La deuxième édition de la Coupe Robots-JU a lieu le 11 mars 2017 à Delémont. *MADAORPLULA* gagne cette édition et obtient la 1re place des matches de robots et la deuxième place du Live Challenge. *Team Jur'Allies* se classe 2e et remporte le Live Challenge. *Team Jura 2* est 4e, *CUB-X 8e et *RHINO* 9e.
 
-D'excellents résultats cette année, puisque nous dominons le classement du Robot-Game et disputons les demi-finales avec nos 4 équipes, et occupons donc les 4 meilleures places ! *Team Jura 1* et *Les Cubix* finissent respectivement 2e et 3e du classement général, gagnant leur place en finale suisse.
-
-Tout comme l'équipe *Team Jura* en 2011, *Les Cubix* décrochent leur place en finale lors de leur toute première participation.
-
-### 2017
+### Saison 2017 - 2018
 {: class="side-title"}
 
-Le 21 janvier 2017 nos deux équipes qualifiées *Team Jura 1* et *Les Cubix* participent à la finale suisse qui à lieu à Brugg-Windisch, comme 5 ans auparavant. Encore une fois, superbes résultats, tout particulièrement pour *Team Jura 1* qui finit 3e aux matchs de robots et 4e au classement général.
+L'Association Robots-JU s'agrandit encore et se rend avec 5 équipes à la sélection régionale FLL (catégorie Challenge) de Lausanne, qui a lieu le 25 novembre 2017. *Team Juratlantique* remporte le trophée du travail d'équipe, la 3e place des matches de robots et se qualifie pour la finale Suisse grâce à sa première place au classement général. *Team Jur'aqua" se classe 7e et obtient le prix de la meilleure conception du robot.
 
-En janvier également nous lançons le compte Twitter de la [@CoupeRobotsJU](https://twitter.com/CoupeRobotsJU)
+*Team Juratlantique* participe à la finale Suisse FLL à Yverdon le 10 février 2018. L'équipe se classe à la 3e place du classement général et se qualifie pour la finale Europe de la FLL ! C'est la première fois qu'une équipe romande se qualifie à ce niveau.
 
-La seconde [Coupe Robots-JU](https://coupe.robots-ju.ch/) s'est déroulée le 11 mars avec succès.
-9 équipes romandes y ont pris part.
+La finale Europe a lieu le week-end du 17 au 18 mars 2018 à Aix-la-Chappelle. *Team Juratlantique* y rencontre d'autres équipes d'Allemagne, d'Autriche, de Slovaquie, d'Hongrie, de Pologne, de République Tchèque et de Suisse. Elle se classe à la 24e place du classement général.
 
-Durant 2017 le club s'agrandit encore et le 25 novembre 2017 nous nous rendons à la sélection régionale FLL de Lausanne avec 5 équipes.
-*Team Juratlantique* se hisse en première place du travail d'équipe et du classement général et décroche sa place pour la finale suisse.
-*Team Jur'aqua* décroche la première place du design de robot, et nos 3 autres équipes obtiennent également de bons résultats.
+La troisième édition de la Coupe Robots-JU a lieu le 24 mars 2018 à Delémont. 10 équipes romandes et du Tessin y ont participé. *Jur'atlantique* gagne le Live Challenge et obtient la deuxième place des matches de robots, ce qui lui permet de remporter cette édition. *Jur'Aqua* remporte le Live Challenge ex-aequo avec les champions et se classe 2e au classement général. *Jur-à-l'eau* prend la 3e place des matches de robots.
 
-### 2018
+### Saison 2018-2019
 {: class="side-title"}
 
-Le 10 février 2018 la *Team Juratlantique* se rend à la finale FLL suisse à Yverdon.
-C'est maintenant la 3e fois que certains de nos membres participent à la finale suisse et ils sont bien décidés à aller plus loin.
-Grâce à ses résultats réguliers dans les différentes disciplines, l'équipe atteint la 3e place du classement général et est qualifiée pour la finale d'Europe centrale.
-C'est la première fois qu'une équipe romande se qualifie à ce niveau.
+Les trois équipes des *Ateliers Avancés* se rendent à Renens pour le concours Drive-It le week-end des 29 et 30 septembre 2018. Les équipes se classent aux 4e, 7e et 9e places.
 
-2 coachs et les 6 membres de l'équipe *Team Juratlantique* passent 3 nuits à Aix-La-Chapelle pour participer à la finale d'Europe centrale qui a eu lieu les 17 et 18 mars 2018.
-Durant les 2 jours de compétition nous avons pu observer (et nous mesurer !) aux meilleures équipes d’Allemagne, Autriche, Slovakie, Hongrie, Pologne, Tchéquie et bien sûr Suisse.
-Le résultat correspond à nos attentes. 24èmes au classement général.
-Il est intéressant de constater que nous avions également finis avant-avant-derniers lors de notre toute première participation en finale suisse.
+4 équipes *Team Jura* partiicpent à la sélection régionale FLL (catégorie Challenge) le 24 novembre 2018 à Lausanne. *Jur'Apollo 18* obtient le trophée de la meilleure conception de robot et se classe 3e au classement général, ce qui lui permet de se qualifier pour la finale Suisse !
 
-Le 24 mars 2018 nous avons organisé la troisième édition de la Coupe Robots-JU dans les locaux de StrateJ à Delémont.
-10 équipes y ont pris part, venant de Suisse romande et du Tessin.
-Nos 5 équipes jurassiennes ont très bien performé, en particulier *Juratlantique* et *Jur-à-l'eau* qui finissent dans le top 3 au Robot Game et *Jur'Aqua* qui finit 1er à égalité avec *Juratlantique* au Live Challenge.
-Depuis cette année nous gérons les inscriptions via internet.
-La technique est également améliorée avec une projection des deux compétiteurs en même temps sur le grand écran ainsi qu'un streaming live sur internet.
+Le 2 février 2019 a lieu la finale Suisse FLL à Coire. *Jur'Apollo 18* se classe à la 6e place et obtient le 3e rang de la meilleure conception de robot.
 
-Les 29 et 30 septembre, le *Groupe avancé* participe avec 3 équipes au concours Drive-it organisé par le club milliWatt dans le cadre de LemanMake à Renens.
+Lors des 24 Heures, qui ont eu lieu le week-end des 23 et 24 février 2019 également à Coire, nos deux équipes se sont placées aux 4e et 5 places du classement général. Une équipe composée d'anciens de Robots-JU remporte cette édition.
 
-Le 24 novembre nous nous rendons à la sélection régionale FLL de Lausanne avec 4 équipes.
-Notre équipe la plus âgée, *Jur'Apollo 18* remporte le prix du design du robot et est sélectionnée pour la finale suisse qui aura lieu le 2 février 2019 à Coire.
+La Coupe Robots-JU 2019 a lieu le 23 mars. *Jur'Apollo 18* remporte le Live Challenge et la deuxième place des matches de robots, ce qui lui assure la 1re place du classement général. *Jurapiter* remporte la 4e place des matches de robots et la 4e place du classement général. *Jurastronaute* termine 6e, *Falcon 9* 8e et *La 5* 9e.
 
-### 2019
+Deux équipes de Robots-JU se rendent pour la première fois à Mulhouse (France) pour le concours Crush the Flag. *Jurapiter* finit 2e et *Jura-Bot-Time's* 6e.
+
+Les membres des *Ateliers Avancés* se rendent à Lausanne le 28 avril 2019 pour le concours Robolympiques. Ils terminent aux 2e et 3e places, dans la catégorie Mindstorms.
+
+### Saison 2019-2020
 {: class="side-title"}
 
-- Finale Suisse FLL : *Jur'Apollo 18* se classe 6e au classement général et obtient la 3e place en conception du robot.
-- 24 Heures de Coire : *Kensaki* prend la 4e place et *Jur'ASCII* la 5e place.
-- Coupe Robots-JU : *Jur'Apollo 18* se classe 1re (1re place en Live Challenge et 2e place en matches de robots), *Jurapiter* 4e (4e place en matches de robots), *Jurastronaute* 6e, *Falcon 9* 8e et *La 5* 9e.
-- Crush the Flag : *Jurapiter* obtient la 2e place et *Jura-Bot-Time's* la 6e place.
-- Robopolympiques : *Ju.rar* se classe 2e et *Jur'ASCII* 3e.
-- Sélection régionale FLL : *Juracity* (2e place) et *Jur'architecte* (3e) se qualifient en finale Suisse. *Jur'Avenir* se classe 4e et *Rauracity* 9e.
+4 équipes se déplacent à Lausanne pour la sélection régionale FLL (catégorie Challenge) le 14 décembre 2019. *Juracity* obtient les 3e places en matches de robots, en travail d'équipe et en conception du robot, ce qui lui permet de décrocher son ticket en finale Suisse grâce à sa 2e place générale. *Jurarchitecte* se qualifie aussi pour la finale Suisse en prenant la 3e place générale et les 2e places en matches de robots et en conception du robot. *Jur'Avenir* se classe 4e et *Rauracity* 9e.
 
-### 2020
+*Juracity* et *Jurarchitecte* se rendent à Brugg-Windisch pour la finale Suisse FLL le 15 février 2020. La première équipe obtient la 7e place et la seconde la 14e place et la 4e place des matches de robots.
+
+Le même jour, 2 équipes des *Ateliers Avancés* participent aux 24 Heures de Coire. Elles se classent 2e et 8e du classement général.
+
+Nous participons pour la première fois avec deux équipes au concours Arcobot le 7 mars à Bienne. Nous prenons les 3e et 5e places du classement général.
+
+### Saison 2020-2021
 {: class="side-title"}
 
-### 2021
+Le 13 février 2021, nous participons virtuellement à la sélection régionale FLL (catégorie Challenge) de Lausanne.
+
+### Saison 2021-2022
 {: class="side-title"}
 
 ### 2022
