@@ -126,20 +126,50 @@ Nous participons pour la première fois avec deux équipes au concours Arcobot l
 ### Saison 2020-2021
 {: class="side-title"}
 
-Le 13 février 2021, nous participons virtuellement à la sélection régionale FLL (catégorie Challenge) de Lausanne.
+Le 13 février 2021, 4 équipes de Robots-JU participent virtuellement à la sélection régionale FLL (catégorie Challenge) de Lausanne. *Jura.py* remporte le trophée de la meilleure conception du robot et se classe 2e au classement général, ex-aequo avec *Jur'actif* qui prend aussi la 3e place des matches de robtos. *Jur'athlétique* termine à la 2e place des matches de robots et gagne le prix du meilleur match de robot en direct. Robots-JU reçoit le prix du meilleur coaching.
 
 ### Saison 2021-2022
 {: class="side-title"}
 
-### 2022
+En raison des mesures sanitaires en vigueur, nous n'avons pas pu nous rendre à la sélection régionale FLL de Lausanne avec nos trois équipes. A la place, nous organisons notre propre concours interne en mars 2022 à Glovelier.
+
+### Saison 2022-2023
 {: class="side-title"}
 
-### 2023
+Le 17 décembre 2022, nos trois équipes se rendent à la sélection régionale de la FLL (catégorie Challenge) à Lausanne. Les classements détaillés ne sont plus publiés. *Jur'arc électrique* reçoit le trophée de la meilleure conception de robot. *thorium_power.ju* est finaliste pour la conception du robot et *Les Patates jurassiennes* sont finalistes pour le travail de recherche.
+
+La Coupe Robots-JU fait son retour après 3 éditions d'absence. *Ultra_powered.ju* remporte le Live Challenge et la 1re place du classement général. *Jur'arc électrique* prend la 2e place du Live Challenge et la 2e place du classement général. *Les Patates jurassiennes* reçoivent le prix du meilleur esprit d'équipe.
+
+### Saison 2023-2024
 {: class="side-title"}
 
-### 2024
+Robots-JU retrouve son niveau de 2020 et se rend avec 4 équipes à la sélection régionale FLL (catégorie Challenge) d'Yverdon-les-Bains le 9 décembre 2023. *L'équi-pain jurassien* remporte les matches de robots, est finaliste en valeurs FLL et en conception de robot, et prend la 3e place du classement général. Elle se qualifie ainsi pour la finale Suisse. *Master Pare-Chocs.JU* est aussi finalist ede la conception de robot et son coach Sam Houser reçoit le prix du meilleur coaching.
+
+Nous participons avec 6 équipes au concours Arcobot de Bienne le 3 février 2024. En catégorie senior, nos équipes prennent les 3 places du podium et les équipes junior terminent à la 3e place ex-aequo.
+
+La Coupe Robots-JU est organisée dans le cadre du Salon de la formation à Moutier le 2 mars 2024. *Master Pare-Chocs.JU* remporte le Live Challenge et prend la 3e place du classement général.
+
+Le même jour à Lausanne, *L'équi-pain jurassien* participe à la finale Suisse FLL. Elle remporte le trophée des valeurs FLL, est finaliste en conception du robot et prend la 4e place des matches de robots (meilleur matche de qualification). Elle continue la saison en se qualifiant pour la finale Europe FLL.
+
+Les trois autres équipes Robots-Ju se rendent à la FLL Alsace. Ce concours a lieu le 16 mars 2024 à Altkirch (France). *Master Pare-Chocs.JU* termine à la 1re place et *Les Patates jurassiennes* à la deuxième place. *Jurartiste* est 5e au classement général.
+
+L'Association Robots-JU se rend à Davos le week-end du 12 au 14 avril 2024 pour soutenir *L'équi-pain jurassien* lors de la finale Europe FLL. L'équipe prend la 5e place des matches de robots et se qualifie pour le concours Open European Championship (OEC), à Bodø en Norvège, pour représenter le Jura et la Suisse parmi 50 équipes internationales.
+
+*L'équi-pain jurassien* part une semaine en Norvège représenter le Jura et la Suisse lors du concours OEC. Elle remporte la 36e place des matches de robots et rencontre des équipes du monde entier.
+
+### Saison 2024-2025
 {: class="side-title"}
+
+L'Association s'agrandit et nous comptons à présent 9 équipes (6 Challenge et 3 Explore). Le nombre de membres passe de 20 à 50 ! Des ateliers ont lieu le mercredi après-midi, le samedi matin et le samedi après-midi.
+
+L'Association Robots-JU revoit son organisation avec un Comité directeur (composé du président, du caissier et du secrétaire) et avec un Comité organisationnel (organisation des ateliers, technique, matériel). Les Comités se renforcent avec l'élection de nouvelles personnes en décembre 2024.
+
+Nous participons à nouveau au Passeport-Vacances dans les 3 districts et nous accueillons 40 enfants pour nos journées de découverte de la robotique.
+
+Robots-JU organise la première sélection régionale de la FLL à Delémont. Le concours a lieu le 18 janvier 2025. 12 équipes Challenge, dont 9 du Jura, y participent et tenteront de se qualifier pour la finale Suisse. 3 équipes Explore, du Jura, seront également présentes et tenteront de partir en finale Europe.
+
+La Coupe Robots-JU a lieu le samedi 15 mars 2025 et est également ouverte à des équipes externes. Une nouvelle catégorie *Explorateurs" est ouverte pour les équipes participant à la FLL Explore. Les inscriptions sont ouvertes jusqu'au 31 décembre 2024 sur le site [Coupe Robots-JU](https://coupe.robots-ju.ch/).
 
 ## Futur
 
-Le club continue à se développer et nous souhaitons augmenter le nombre de nos équipes FLL Explore et Challenge. En plus de la FIRST LEGO League Jura et de la Coupe Robots-JU, nous envisageons d'organiser d'autres événements, comme une journée centrée sur la robotique ou un concours d'une durée de 24 heures.
+Le club continue à se développer et nous souhaitons augmenter le nombre de nos équipes FLL Explore et Challenge. En plus de la FIRST LEGO League Jura et de la Coupe Robots-JU, nous envisageons d'organiser d'autres événements, comme une journée centrée sur la robotique ou un concours d'une durée de 24 heures. Nous nous réjouissons également d'accueillir une finale Suisse FLL dans les prochaines années.
