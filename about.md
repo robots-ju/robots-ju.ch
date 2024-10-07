@@ -123,10 +123,28 @@ Notre équipe la plus âgée, *Jur'Apollo 18* remporte le prix du design du robo
 ### 2019
 {: class="side-title"}
 
-À suivre...
+- Finale Suisse FLL : *Jur'Apollo 18* se classe 6e au classement général et obtient la 3e place en conception du robot.
+- 24 Heures de Coire : *Kensaki* prend la 4e place et *Jur'ASCII* la 5e place.
+- Coupe Robots-JU : *Jur'Apollo 18* se classe 1re (1re place en Live Challenge et 2e place en matches de robots), *Jurapiter* 4e (4e place en matches de robots), *Jurastronaute* 6e, *Falcon 9* 8e et *La 5* 9e.
+- Crush the Flag : *Jurapiter* obtient la 2e place et *Jura-Bot-Time's* la 6e place.
+- Robopolympiques : *Ju.rar* se classe 2e et *Jur'ASCII* 3e.
+- Sélection régionale FLL : *Juracity* (2e place) et *Jur'architecte* (3e) se qualifient en finale Suisse. *Jur'Avenir* se classe 4e et *Rauracity* 9e.
+
+### 2020
+{: class="side-title"}
+
+### 2021
+{: class="side-title"}
+
+### 2022
+{: class="side-title"}
+
+### 2023
+{: class="side-title"}
+
+### 2024
+{: class="side-title"}
 
 ## Futur
 
-Le club continue à se développer et nous étendons nos activités. Nous mettons sur pied des ateliers de robotique plus avancés et espérons participer à d'autres concours comme le FIRST Tech Challenge par exemple.
-
-Côté FLL, nous continuerons à augmenter le nombre d'équipes, et pourrons peut-être un jour organiser notre propre sélection régionale jurassienne !
+Le club continue à se développer et nous souhaitons augmenter le nombre de nos équipes FLL Explore et Challenge. En plus de la FIRST LEGO League Jura et de la Coupe Robots-JU, nous envisageons d'organiser d'autres événements, comme une journée centrée sur la robotique ou un concours d'une durée de 24 heures.
