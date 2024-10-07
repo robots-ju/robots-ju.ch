@@ -12,47 +12,47 @@ banner_text: Programmeurs de robots depuis 2011
 
 Robots-JU est un club de robotique qui entraîne de jeunes jurassiennes et jurassiens pour participer aux championnats de la FIRST LEGO League et d'autres concours similaires.
 
-Le club a officiellement été créé en 2014 par un groupe de participants à la FLL depuis 2011.
+Le club a officiellement été créé en 2014 par un groupe de participants à la FIRST LEGO League (FLL) depuis 2011.
 
-Ce site web sert de média d'information pour les membres du club, leur famille, ou simplement ceux qui souhaitent en savoir plus sur nous et ce que l'on fait.
+Ce site web sert de média d'information pour les membres du club, leur famille, ou simplement ceux qui souhaitent en savoir plus sur nous et nos activités.
 
 ## Historique
 
-### 2011
+### Saison 2011-2012
 {: class="side-title"}
 
-Quelques familles du Jura souhaitent participer à la FIRST LEGO League mais ne sont pas assez pour participer (il fallait au moins 5 membres à l'époque). Ils se mettent en contact avec les bureaux de l'égalité du Jura et de l'EPFL (actuel SPS) et forment la première équipe *Team Jura* composée de 7 jeunes.
+Quelques familles du Jura souhaitent participer à la FLL. Elles se mettent en contact avec les bureaux de l'égalité entre femmes et hommes du Canton du Jura et de l'Ecole polytechnique fédérale de Lausanne (EPFL) et forment la première équipe *Team Jura* composée de 7 membres.
 
-Nous participons à notre première sélection régionale à Lausanne le 1er novembre 2011 où nous finissons 3e, et remportons le premier prix pour notre projet de recherche sur la conservation des aliments.
+L'équipe *Team Jura*, composée de 7 membres, participe pour la première fois à la FLL, en catégorie Challenge. Le concours a lieu le 1er novembre 2011 à Lausanne. L'équipe obtient la 3e place du classement général et remporte le trophée du meilleur projet de recherche scientifique sur la conservation des aliments.
 
-Nous sommes ainsi sélectionnés pour la finale suisse à Brugg-Windisch le 3 décembre, où nous finirons 17èmes au classement général.
+La 3e place obtenue par *Team Jura* lui permet de se sélectionner pour la finale Suisse à Brugg-Windisch le 3 décembre. L'équipe se classe 17e au classement général.
 
-### 2012
+### Saison 2012-2013
 {: class="side-title"}
 
-Après quelques modifications de participants, l'équipe *Team Jura* participe à nouveau à la FLL et remporte le prix du meilleur travail d'équipe. Pas de finale malheureusement.
+L'équipe *Team Jura* participe à sa deuxième sélection régionale FLL (catégorie Challenge) le 10 novembre 2012 à Lausanne. Elle y obtient la 7e place du classement général et remporte le trophée du meilleur travail d'équipe.
 
-### 2013
+*Team Jura* participe pour la première fois à la Coupe Roberta. Le concours, organisé par l'EPFL, a lieu le 20 avril 2013 à Lausanne. L'équipe se classe à la 7e place.
+
+### Saison 2013-2014
 {: class="side-title"}
 
-Nous participons pour la première fois à la Coupe Roberta organisée par l'EPFL le 20 avril 2013.
+Grâce aux nouvelles adhésions, une seconde équipe *Team Jura Junior* est créée. Avec *Team Jura Senior", nous nous rendons à la sélection régionale FLL (catégorie Challenge) qui a lieu le 9 novembre 2013 à Lausanne. *Team Jura Senior* se classe 5e au classement général et obtient la deuxième place de la meilleure conception de robot. *Team Jura Junior* se classe 8e et obtient la 3e place du meilleur travail d'équipe.
 
-Le nombre de participants augmente, et nous participons cette année avec 2 équipes, Team Jura "Junior" et "Senior" à la sélection régionale FLL le 9 novembre 2013.
+L'Association Robots-JU est officiellement créée le 3 février 2014 afin de faciliter la gestion des membres et des finances.
 
-### 2014
+Dans le cadre de la semaine sans télévision à Delémont, nous proposons des ateliers de découverte de la robotique.
+
+Les équipes sont à présent nommées *Team Jura 1*, *Team Jura 2* et *Team Jura 3*. Elles participent à la Coupe Roberta le 5 avril 2014 à Lausanne. *Team Jura 2* se classe 3e au classement général et remporte la deuxième place des matches de robots. *Team Jura 3* sera 5e et *Team Jura 1* 13e au classement général.
+
+### Saison 2014-2015
 {: class="side-title"}
 
-En février 2014, face à l'augmentation des membres, nous créons officiellement le club Robots-JU afin de faciliter la gestion des participations et finances du groupe de robotique.
-
-Nous proposons des ateliers  de découverte des robots LEGO Mindstorms dans le cadre de la semaine sans télé à Delémont.
-
-Nous participons à nouveau à la Coupe Roberta le 5 avril 2014, cette fois avec 3 équipes.
-
-En août 2014, nous mettons en ligne le site [robots-ju.ch](https://robots-ju.ch/).
+Le site Internet [robots-ju.ch](https://robots-ju.ch/). est mis en ligne en août 2014.
 
 Nous proposons des ateliers de robotique dans le cadre du passeport vacances de Delémont. Une quarantaine de jeunes filles et garçons construisent et programment un robots Mindstorms EV3 durant une journée.
 
-Le 29 novembre 2014 nous participons avec les mêmes équipes à la sélection régionale FLL à Lausanne.
+Lors de la sélection régionale FLL (catégorie Challenge) le 29 novembre 2014 à Lausanne, *Team Jura 2* se classe au 4e rang du concours et obtient la 3e place des matches de robots et la 2e place de la meilleure conception de robot. *Team Jura 1* se classe 5e et obtient la 2e place du travail d'équipe. *Team Jura 3* se classe à la 6e place.
 
 ### 2015
 {: class="side-title"}
