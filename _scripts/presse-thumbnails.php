@@ -93,9 +93,21 @@ foreach ($entries as $index => $entryRawYaml) {
         // Requires updating Imagick config to allow PDF https://stackoverflow.com/a/52677573
         $imagick = new Imagick($sourcepath . '[0]');
         $imagick->setImageAlphaChannel(Imagick::ALPHACHANNEL_REMOVE); // Prevents black backgrounds
-    } else if ($url) {
+    } else if (str_contains($url, 'www.lqj.ch')) {
+        printInfo("Capturing $url via OG tags...");
+
+        $html = file_get_contents($url);
+
+        if (preg_match('~<meta[^>]*property="og:image"\s+content="([^"]+)">~', $html, $matches) !== 1) {
+            printError("Failed to locate OG image tag");
+            continue;
+        }
+
+        printInfo("Resizing image with Imagick...");
+        $imagick = new Imagick($matches[1]);
+    } else {
         printInfo("Capturing $url via headless Chrome...");
-        $tmpFile = tempnam('/tmp', 'robotsju');
+        $tmpFile = tempnam('/tmp', 'robotsju') . '.png';
         $command = 'google-chrome --headless --disable-gpu --hide-scrollbars --window-size=1200,1000 --screenshot=' . escapeshellarg($tmpFile) . ' ' . escapeshellarg($url);
         shell_exec($command);
 
@@ -106,7 +118,7 @@ foreach ($entries as $index => $entryRawYaml) {
     $imagick->resizeImage(300, 0, Imagick::FILTER_LANCZOS, 0.9);
     $cropY = 0;
 
-    if (strpos($entryRawYaml, 'scan_bottom: yes') !== false) {
+    if (str_contains($entryRawYaml, 'scan_bottom: yes')) {
         $cropY = $imagick->getImageHeight() - 200;
     }
 
