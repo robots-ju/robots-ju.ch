@@ -87,7 +87,7 @@ La deuxième édition de la Coupe Robots-JU a lieu le 11 mars 2017 à Delémont.
 ### Saison 2017 - 2018
 {: class="side-title"}
 
-L'Association Robots-JU s'agrandit encore et se rend avec 5 équipes à la sélection régionale FLL (catégorie Challenge) de Lausanne, qui a lieu le 25 novembre 2017. *Team Juratlantique* remporte le trophée du travail d'équipe, la 3e place des matches de robots et se qualifie pour la finale Suisse grâce à sa première place au classement général. *Team Jur'aqua" se classe 7e et obtient le prix de la meilleure conception du robot.
+L'Association Robots-JU s'agrandit encore et se rend avec 5 équipes à la sélection régionale FLL (catégorie Challenge) de Lausanne, qui a lieu le 25 novembre 2017. *Team Juratlantique* remporte le trophée du travail d'équipe, la 3e place des matches de robots et se qualifie pour la finale Suisse grâce à sa première place au classement général. *Team Jur'aqua* se classe 7e et obtient le prix de la meilleure conception du robot.
 
 *Team Juratlantique* participe à la finale Suisse FLL à Yverdon le 10 février 2018. L'équipe se classe à la 3e place du classement général et se qualifie pour la finale Europe de la FLL ! C'est la première fois qu'une équipe romande se qualifie à ce niveau.
 
@@ -100,7 +100,7 @@ La troisième édition de la Coupe Robots-JU a lieu le 24 mars 2018 à Delémont
 
 Les trois équipes des *Ateliers Avancés* se rendent à Renens pour le concours Drive-It le week-end des 29 et 30 septembre 2018. Les équipes se classent aux 4e, 7e et 9e places.
 
-4 équipes *Team Jura* partiicpent à la sélection régionale FLL (catégorie Challenge) le 24 novembre 2018 à Lausanne. *Jur'Apollo 18* obtient le trophée de la meilleure conception de robot et se classe 3e au classement général, ce qui lui permet de se qualifier pour la finale Suisse !
+4 équipes *Team Jura* participent à la sélection régionale FLL (catégorie Challenge) le 24 novembre 2018 à Lausanne. *Jur'Apollo 18* obtient le trophée de la meilleure conception de robot et se classe 3e au classement général, ce qui lui permet de se qualifier pour la finale Suisse !
 
 Le 2 février 2019 a lieu la finale Suisse FLL à Coire. *Jur'Apollo 18* se classe à la 6e place et obtient le 3e rang de la meilleure conception de robot.
 
@@ -143,7 +143,7 @@ La Coupe Robots-JU fait son retour après 3 éditions d'absence. *Ultra_powered.
 ### Saison 2023-2024
 {: class="side-title"}
 
-Robots-JU retrouve son niveau de 2020 et se rend avec 4 équipes à la sélection régionale FLL (catégorie Challenge) d'Yverdon-les-Bains le 9 décembre 2023. *L'équi-pain jurassien* remporte les matches de robots, est finaliste en valeurs FLL et en conception de robot, et prend la 3e place du classement général. Elle se qualifie ainsi pour la finale Suisse. *Master Pare-Chocs.JU* est aussi finalist ede la conception de robot et son coach Sam Houser reçoit le prix du meilleur coaching.
+Robots-JU retrouve son niveau de 2020 et se rend avec 4 équipes à la sélection régionale FLL (catégorie Challenge) d'Yverdon-les-Bains le 9 décembre 2023. *L'équi-pain jurassien* remporte les matches de robots, est finaliste en valeurs FLL et en conception de robot, et prend la 3e place du classement général. Elle se qualifie ainsi pour la finale Suisse. *Master Pare-Chocs.JU* est aussi finaliste de la conception de robot et son coach Sam Houser reçoit le prix du meilleur coaching.
 
 Nous participons avec 6 équipes au concours Arcobot de Bienne le 3 février 2024. En catégorie senior, nos équipes prennent les 3 places du podium et les équipes junior terminent à la 3e place ex-aequo.
 
