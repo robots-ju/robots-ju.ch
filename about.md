@@ -82,7 +82,7 @@ A l'occasion de la finale Suisse FLL, *Team Jura 1* obtient la 3e place des matc
 
 Le compte Twitter/X de la [@CoupeRobotsJU](https://twitter.com/CoupeRobotsJU) est créé en janvier 2017.
 
-La deuxième édition de la Coupe Robots-JU a lieu le 11 mars 2017 à Delémont. *MADAORPLULA* gagne cette édition et obtient la 1re place des matches de robots et la deuxième place du Live Challenge. *Team Jur'Allies* se classe 2e et remporte le Live Challenge. *Team Jura 2* est 4e, *CUB-X 8e et *RHINO* 9e.
+La deuxième édition de la Coupe Robots-JU a lieu le 11 mars 2017 à Delémont. *MADAORPLULA* gagne cette édition et obtient la 1re place des matches de robots et la deuxième place du Live Challenge. *Team Jur'Allies* se classe 2e et remporte le Live Challenge. *Team Jura 2* est 4e, *CUB-X* 8e et *RHINO* 9e.
 
 ### Saison 2017 - 2018
 {: class="side-title"}
