@@ -37,7 +37,7 @@ L'équipe *Team Jura* participe à sa deuxième sélection régionale FLL (caté
 ### Saison 2013-2014
 {: class="side-title"}
 
-Grâce aux nouvelles adhésions, une seconde équipe *Team Jura Junior* est créée. Avec *Team Jura Senior", nous nous rendons à la sélection régionale FLL (catégorie Challenge) qui a lieu le 9 novembre 2013 à Lausanne. *Team Jura Senior* se classe 5e au classement général et obtient la deuxième place de la meilleure conception de robot. *Team Jura Junior* se classe 8e et obtient la 3e place du meilleur travail d'équipe.
+Grâce aux nouvelles adhésions, une seconde équipe *Team Jura Junior* est créée. Avec *Team Jura Senior*, nous nous rendons à la sélection régionale FLL (catégorie Challenge) qui a lieu le 9 novembre 2013 à Lausanne. *Team Jura Senior* se classe 5e au classement général et obtient la deuxième place de la meilleure conception de robot. *Team Jura Junior* se classe 8e et obtient la 3e place du meilleur travail d'équipe.
 
 L'Association Robots-JU est officiellement créée le 3 février 2014 afin de faciliter la gestion des membres et des finances.
 
