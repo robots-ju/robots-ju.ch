@@ -162,7 +162,7 @@ L'Association Robots-JU se rend à Davos le week-end du 12 au 14 avril 2024 pour
 
 L'Association s'agrandit et nous comptons à présent 9 équipes (6 Challenge et 3 Explore). Le nombre de membres passe de 20 à 50 ! Des ateliers ont lieu le mercredi après-midi, le samedi matin et le samedi après-midi.
 
-L'Association Robots-JU revoit son organisation avec un Comité directeur (composé du président, du caissier et du secrétaire) et avec un Comité organisationnel (organisation des ateliers, technique, matériel). Les Comités se renforcent avec l'élection de nouvelles personnes en décembre 2024.
+L'Association Robots-JU revoit son organisation avec un Comité directeur (composé du président, du caissier et du secrétaire) et avec un Comité opérationnel (organisation des ateliers, organisation des concours, technique et matériel). Un nouveau Comité directeur sera élu en décembre 2024.
 
 Nous participons à nouveau au Passeport-Vacances dans les 3 districts et nous accueillons 40 enfants pour nos journées de découverte de la robotique.
 
