@@ -41,12 +41,12 @@ Le programme détaillé sera publié en décembre.
 Le programme détaillé sera publié en décembre.
 
 **Programme pour le public :**
-- 09:00 - 09:15 : Cérémonie d'ouverture Challenge
-- 09:30 - 15:30 : Présentations des projets de recherche et des conceptions de robots (ouvert au public dans la limite des places disponibles)
-- 09:30 - 17:00 : Matches de robots (tests, qualifications et finales)
-- 13:45 - 14:00 : Cérémonie d'ouverture Explore
-- 14:15 - 17:15 : Exposition Explore
-- 17:30 - 18:00 : Cérémonie de remise des prix avec la qualification de trois équipes en finale Suisse
+- 09:00 - 09:30 : Cérémonie d'ouverture Challenge
+- 09:45 - 15:35 : Présentations des projets de recherche et des conceptions de robots (ouvert au public dans la limite des places disponibles)
+- 10:00 - 17:40 : Matches de robots (tests, qualifications et finales)
+- 14:15 - 15:30 : Cérémonie d'ouverture Explore
+- 15:45 - 17:00 : Exposition Explore
+- 18:00 - 18:30 : Cérémonie de remise des prix avec la qualification de trois équipes en finale Suisse
 
 Le programme détaillé sera publié en décembre.
 
