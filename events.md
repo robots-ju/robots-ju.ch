@@ -21,27 +21,26 @@ Différents événements à venir auxquels participe le club ou organisés par l
 Le concours est ouvert à toutes les équipes de la région Mitteland et de la région du Nord-Ouest de la Suisse.
 
 **Programme général pour les équipes Challenge :**
-- 08:00 - 08:30 : Accueil des équipes
+- 08:00 - 08:15 : Accueil des équipes
 - 08:30 - 08:45 : Briefing des coaches
-- 09:00 - 09:15 : Cérémonie d'ouverture
-- 09:30 - 15:30 : Présentations des projets de recherche et des conceptions de robots
-- 09:30 - 10:30 : Matches d'entraînements
-- 11:30 - 14:30 : Matches de qualification
-- 16:00 - 17:00 : Matches de finales
-- 17:30 - 18:00 : Cérémonie de remise des prix
+- 09:00 - 09:30 : Cérémonie d'ouverture
+- 09:45 - 15:35 : Présentations des projets de recherche et des conceptions de robots
+- 10:00 - 10:45 : Matches d'entraînements
+- 12:00 - 15:15 : Matches de qualification
+- 16:30 - 17:40 : Matches de finales
+- 18:00 - 18:30 : Cérémonie de remise des prix
 
 Le programme détaillé sera publié en décembre.
 
 **Programme général pour les équipes Explore :**
-- 13:00 - 13:30 : Accueil des équipes
-- 13:30 - 13:45 : Briefing des coaches
-- 13:45 - 14:00 : Cérémonie d'ouverture
-- 14:15 - 15:30 : Présentations
-- 17:30 - 18:00 : Cérémonie de remise des prix
+- 14:00 - 14:15 : Accueil des équipes
+- 14:15 - 14:30 : Cérémonie d'ouverture
+- 15:45 - 17:00 : Présentations
+- 18:00 - 18:30 : Cérémonie de remise des prix
 
 Le programme détaillé sera publié en décembre.
 
-**Programme pour le public : **
+**Programme pour le public :**
 - 09:00 - 09:15 : Cérémonie d'ouverture Challenge
 - 09:30 - 15:30 : Présentations des projets de recherche et des conceptions de robots (ouvert au public dans la limite des places disponibles)
 - 09:30 - 17:00 : Matches de robots (tests, qualifications et finales)
