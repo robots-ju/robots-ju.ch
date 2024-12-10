@@ -24,31 +24,26 @@ Le concours est ouvert à toutes les équipes de la région Mitteland et de la r
 - 08:00 - 08:15 : Accueil des équipes
 - 08:30 - 08:45 : Briefing des coaches
 - 09:00 - 09:30 : Cérémonie d'ouverture
-- 09:45 - 15:35 : Présentations des projets de recherche et des conceptions de robots
+- 09:45 - 15:30 : Présentations des projets de recherche et des conceptions de robots
 - 10:00 - 10:45 : Matches d'entraînements
-- 12:00 - 15:15 : Matches de qualification
-- 16:30 - 17:40 : Matches de finales
-- 18:00 - 18:30 : Cérémonie de remise des prix
-
-Le programme détaillé sera publié en décembre.
+- 12:00 - 15:00 : Matches de qualification
+- 16:20 - 17:30 : Matches de finales
+- 17:45 - 18:15 : Cérémonie de remise des prix
 
 **Programme général pour les équipes Explore :**
 - 14:00 - 14:15 : Accueil des équipes
-- 14:15 - 14:30 : Cérémonie d'ouverture
+- 14:30 - 14:45 : Briefing des coaches
+- 15:15 - 15:30 : Cérémonie d'ouverture
 - 15:45 - 17:00 : Présentations
-- 18:00 - 18:30 : Cérémonie de remise des prix
-
-Le programme détaillé sera publié en décembre.
+- 17:45 - 18:15 : Cérémonie de remise des prix
 
 **Programme pour le public :**
 - 09:00 - 09:30 : Cérémonie d'ouverture Challenge
-- 09:45 - 15:35 : Présentations des projets de recherche et des conceptions de robots (ouvert au public dans la limite des places disponibles)
+- 09:45 - 15:30 : Présentations des projets de recherche et des conceptions de robots (ouvert au public dans la limite des places disponibles)
 - 10:00 - 17:40 : Matches de robots (tests, qualifications et finales)
 - 14:15 - 15:30 : Cérémonie d'ouverture Explore
 - 15:45 - 17:00 : Exposition Explore
-- 18:00 - 18:30 : Cérémonie de remise des prix avec la qualification de trois équipes en finale Suisse
-
-Le programme détaillé sera publié en décembre.
+- 17:45 - 18:15 : Cérémonie de remise des prix avec la qualification de trois équipes en finale Suisse
 
 ## Finale Suisse FLL
 
