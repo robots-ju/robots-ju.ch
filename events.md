@@ -39,7 +39,7 @@ Le concours est ouvert à toutes les équipes de la région Mitteland et de la r
 
 **Programme pour le public :**
 - 09:00 - 09:30 : Cérémonie d'ouverture Challenge
-- 09:45 - 15:30 : Présentations des projets de recherche et des conceptions de robots (ouvert au public dans la limite des places disponibles)
+- 09:45 - 15:30 : Présentations
 - 10:00 - 17:40 : Matches de robots (tests, qualifications et finales)
 - 14:15 - 15:30 : Cérémonie d'ouverture Explore
 - 15:45 - 17:00 : Exposition Explore
