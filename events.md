@@ -24,7 +24,7 @@ Le concours est ouvert à toutes les équipes de la région Mitteland et de la r
 - 08:00 - 08:15 : Accueil des équipes
 - 08:30 - 08:45 : Briefing des coaches
 - 09:00 - 09:30 : Cérémonie d'ouverture
-- 09:45 - 15:30 : Présentations des projets de recherche et des conceptions de robots
+- 09:45 - 15:30 : Présentations
 - 10:00 - 10:45 : Matches d'entraînements
 - 12:00 - 15:00 : Matches de qualification
 - 16:20 - 17:30 : Matches de finales
