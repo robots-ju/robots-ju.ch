@@ -2,7 +2,7 @@
 title: Assemblée générale d'hiver 2024
 ---
 
-Robots-JU a organisé son Assemblée générale d'hiver 2024, à laquelle 100 personnes ont participé.
+Robots-JU a organisé son Assemblée générale d'hiver 2024, à laquelle cent personnes ont participé.
 
 <!--more-->
 
@@ -13,9 +13,10 @@ Le nouveau Comité directeur de Robots-JU a été élu le 14 décembre dernier �
 À la suite de la démission de l’actuel président, Sam Houser du Noirmont, c’est Daniel Renaud de Develier qui a été élu pour le remplacer. Amélien Lovis de Montsevelier (nouveau) est élu en tant que membre et Alexandre Bart de Courrendlin reste en fonction.
 
 Le Comité opérationnel, qui est chargé de l'organisation des ateliers et des concours ainsi que de la gestion du matériel et de la technique, est composé des membres suivants :
-- Akil Studer (Montfaucon), Alexandre Bart (Courrendlin) ;
+- Akil Studer (Montfaucon),
+- Alexandre Bart (Courrendlin) ;
 - Amélien Lovis (Montsevelier);
--Clark Winkelmann (Boécourt);
+- Clark Winkelmann (Boécourt);
 - Daniel Renaud (Develier);
 - Ganaelle Mundwiler (Coeuve);
 - Josquin Martignier (Courfaivre);
