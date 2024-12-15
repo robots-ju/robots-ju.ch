@@ -162,9 +162,11 @@ L'Association Robots-JU se rend à Davos le week-end du 12 au 14 avril 2024 pour
 
 L'Association s'agrandit et nous comptons à présent 9 équipes (6 Challenge et 3 Explore). Le nombre de membres passe de 20 à 50 ! Des ateliers ont lieu le mercredi après-midi, le samedi matin et le samedi après-midi.
 
-L'Association Robots-JU revoit son organisation avec un Comité directeur (composé du président, du caissier et du secrétaire) et avec un Comité opérationnel (organisation des ateliers, organisation des concours, technique et matériel). Un nouveau Comité directeur sera élu en décembre 2024.
+L'Association Robots-JU revoit son organisation avec un Comité directeur (composé du président, du caissier et du secrétaire qui sont responsables de la gestion administrative de l'organisation) et avec un Comité opérationnel (organisation des ateliers, organisation des concours, technique et matériel). Un nouveau Comité directeur sera élu en décembre 2024.
 
 Nous participons à nouveau au Passeport-Vacances dans les 3 districts et nous accueillons 40 enfants pour nos journées de découverte de la robotique.
+
+Lors de l'Assemblée générale d'hiver 2024, qui a lieu le 14 décembre à Glovelier, les cent personnes présentes ont élu un nouveau Comité directeur composé de Daniel Renaud (Président), Alexandre Bart (secrétaire) et Amélien Lovis (caissier). Le Comité opérationnel est composé d'Akil Studer, d'Alexandre Bart, d'Amélien Lovis, de Clark Winkelmann, de Daniel Renaud, de Ganaelle Mundwiler, de Josquin Martignier et de Thibault Berthold.
 
 Robots-JU organise la première sélection régionale de la FLL à Delémont. Le concours a lieu le 18 janvier 2025. 12 équipes Challenge, dont 9 du Jura, y participent et tenteront de se qualifier pour la finale Suisse. 3 équipes Explore, du Jura, seront également présentes et tenteront de partir en finale Europe.
 
