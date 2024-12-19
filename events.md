@@ -20,30 +20,24 @@ Différents événements à venir auxquels participe le club ou organisés par l
 **NOUVEAU :** Robots-JU organise la première sélection régionale FIRST LEGO League (FLL) Jura en 2025.
 Le concours est ouvert à toutes les équipes de la région Mitteland et de la région du Nord-Ouest de la Suisse.
 
-**Programme général pour les équipes Challenge :**
+**Programme général pour les équipes Challenge (9-16 ans) :**
 - 08:00 - 08:15 : Accueil des équipes
-- 08:30 - 08:45 : Briefing des coaches
+- 08:15 - 08:45 : Briefing des coaches
 - 09:00 - 09:30 : Cérémonie d'ouverture
-- 09:45 - 15:30 : Présentations
-- 10:00 - 10:45 : Matches d'entraînements
-- 12:00 - 15:00 : Matches de qualification
-- 16:20 - 17:30 : Matches de finales
-- 17:45 - 18:15 : Cérémonie de remise des prix
+- 09:45 - 15:45 : Présentations (projets de recherche scientifique, conceptions des robots)
+- 10:00 - 10:50 : Matches de robots (entraînements)
+- 12:00 - 15:15 : Matches de robots (qualifications)
+- 16:25 - 17:35 : Matches de robots (finales)
+- 17:45 - 19:00 : Cérémonie de remise des prix
 
-**Programme général pour les équipes Explore :**
-- 14:00 - 14:15 : Accueil des équipes
-- 14:30 - 14:45 : Briefing des coaches
-- 15:15 - 15:30 : Cérémonie d'ouverture
-- 15:45 - 17:00 : Présentations
-- 17:45 - 18:15 : Cérémonie de remise des prix
+**Programme général pour les équipes Explore (6-10 ans) :**
+- 12:15 - 12:30 : Accueil des équipes
+- 12:30 - 12:45 : Briefing des coaches
+- 12:45 - 13:05 : Cérémonie d'ouverture
+- 13:15 - 17:15 : Exposition publique et présentations des équipes
+- 17:45 - 19:00 : Cérémonie de remise des prix
 
-**Programme pour le public :**
-- 09:00 - 09:30 : Cérémonie d'ouverture Challenge
-- 09:45 - 15:30 : Présentations
-- 10:00 - 17:40 : Matches de robots (tests, qualifications et finales)
-- 14:15 - 15:30 : Cérémonie d'ouverture Explore
-- 15:45 - 17:00 : Exposition Explore
-- 17:45 - 18:15 : Cérémonie de remise des prix avec la qualification de trois équipes en finale Suisse
+**Lien public vers le [programme de la journée](https://planning.hands-on-technology.org/public/jura)**
 
 ## Finale Suisse FLL
 
