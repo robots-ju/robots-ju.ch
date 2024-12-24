@@ -28,14 +28,14 @@ Le concours est ouvert à toutes les équipes de la région Mitteland et de la r
 - 10:00 - 10:50 : Matches de robots (entraînements)
 - 12:00 - 15:15 : Matches de robots (qualifications)
 - 16:25 - 17:35 : Matches de robots (finales)
-- 17:45 - 19:00 : Cérémonie de remise des prix (présence de Leïla Hanini et Yann Rufer)
+- 17:45 - 19:00 : Cérémonie de remise des prix
 
 **Programme général pour les équipes Explore (6-10 ans) :**
 - 12:15 - 12:30 : Accueil des équipes
 - 12:30 - 12:45 : Briefing des coaches
-- 12:45 - 13:05 : Cérémonie d'ouverture *(discours de bienvenue du Ministre Martial Courtet)*
+- 12:45 - 13:05 : Cérémonie d'ouverture *(discours de bienvenue de Martial Courtet)*
 - 13:15 - 17:15 : Exposition publique et présentations des équipes
-- 17:45 - 19:00 : Cérémonie de remise des prix *(présence de Leïla Hanini et Yann Rufer)*
+- 17:45 - 19:00 : Cérémonie de remise des prix
 
 **Lien public vers le [programme de la journée](https://planning.hands-on-technology.org/public/jura)**
 
