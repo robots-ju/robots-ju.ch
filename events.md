@@ -17,7 +17,7 @@ Différents événements à venir auxquels participe le club ou organisés par l
 
 <i class="fa fa-map-marker"></i> Brugg-Windisch
 
-Les 3 meilleures équipes de la sélection jurassienne se qualifieront pour la finale Suisse.
+Nos équipes "Yellow_Submarine.JU" et "www.patataquatique.ju" se sont qualifiées, aux côtés de l'équipe "RoboHunter" (Roggwil BE), pour la Finale Suisse.
 
 ## Coupe Robots-JU 2025
 
