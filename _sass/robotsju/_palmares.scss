@@ -29,7 +29,8 @@
             font-size: 0.9em;
         }
 
-        &.type-fll td {
+        &.type-fll td,
+        &.type-fll-explore td {
             border-bottom-color: #F78B1F;
         }
         &.type-roberta td {

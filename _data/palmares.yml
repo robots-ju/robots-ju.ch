@@ -840,3 +840,58 @@
         robotgame: 36
   notes:
     - "Notre équipe a représenté la Suisse parmi les 50 équipes internationales"
+- type: fll-explore
+  teamwork_is_core_values: 1
+  title: FLL Explore "SUBMERGED"
+  step: Sélection régionale
+  place: Delémont
+  date: 2025-01-18
+  teams:
+    - name: Les monstres marins du Jura
+      rank: Esprit d’équipe bienveillant et accueillant
+    - name: Les régalecs éclairs du Jura XXL
+      rank: Station de recherches fantastique
+      qualified: true
+    - name: Les robots marins étoiles du Jura
+      rank: Modèle avec de nombreux détails
+  notes:
+    - "L’équipe « Les régalecs éclairs du Jura XXL » représentera le Jura lors du tournoi européen le 29 mars 2025 à Siegen (D)"
+- type: fll
+  teamwork_is_core_values: 1
+  title: FLL Challenge "SUBMERGED"
+  step: Sélection régionale
+  place: Delémont
+  date: 2025-01-18
+  url: https://evaluation.hands-on-technology.org/en/score/challenge-2024-25-jura
+  teams:
+    - name: www.patataquatique.ju
+      rank: 2
+      qualified: true
+      scores:
+        research: Finaliste
+        teamwork: 1
+        robotdesign: Finaliste
+        robotgame: 7
+    - name: Yellow_Submarine.JU
+      rank: 3
+      qualified: true
+      scores:
+        robotdesign: Finaliste
+        robotgame: 1
+    - name: L'équi-pain Jurassien
+      scores:
+        research: Finaliste
+        teamwork: Finaliste
+        robotdesign: 1
+        robotgame: 4
+    - name: AquaJura
+      scores:
+        robotgame: 2
+    - name: Jurabysses
+      scores:
+        robotgame: 9
+    - name: Poséidon.JU
+      scores:
+        robotgame: 10
+  notes:
+    - "L’équi-pain jurassien reçoit le Prix du Bureau de l’égalité"

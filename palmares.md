@@ -19,7 +19,7 @@ banner_text: Nos performances aux différents concours
         {% endif %}
         <tr class="competion-title type-{{ competition.type }}">
             <td colspan="6">
-                {% if competition.type == 'fll' %}
+                {% if competition.type == 'fll' or competition.type == 'fll-explore' %}
                 <a class="logo" href="https://www.first-lego-league.org/"><img src="/media/competitions/fll.png" alt="Logo compétition FIRST LEGO League"></a>
                 {% elsif competition.type == 'roberta' %}
                 <a class="logo" href="https://sps.epfl.ch/CoupeRoberta"><img src="/media/competitions/roberta.jpg" alt="Logo Coupe Roberta"></a>
@@ -49,7 +49,11 @@ banner_text: Nos performances aux différents concours
         </tr>
         <tr class="competition-headers">
             <th></th>
+            {% if competition.type == 'fll-explore' %}
+            <th colspan="5">Prix</th>
+            {% else %}
             <th>Rang</th>
+            {% endif %}
             {% if competition.type == 'fll' or competition.type == 'openday' %}
             <th>Robot-Game</th>
             <th>{% if competition.teamwork_is_core_values %}Valeurs FLL{% else %}Travail d'équipe{% endif %}</th>
@@ -75,7 +79,7 @@ banner_text: Nos performances aux différents concours
                 <br><em class="text-muted">{{ team.comment }}</em>
                 {% endif %}
             </td>
-            <td class="standout">{{ team.rank }}</td>
+            <td class="standout"{% if competition.type == 'fll-explore' %} colspan="5"{% endif %}>{{ team.rank }}</td>
             {% if competition.type == 'fll' or competition.type == 'roberta' or competition.type == 'robotsju' or competition.type == 'openday' %}
             <td{% if team.scores.robotgame <= 4 %} class="standout"{% endif %}>{{ team.scores.robotgame   }}</td>
             {% endif %}
