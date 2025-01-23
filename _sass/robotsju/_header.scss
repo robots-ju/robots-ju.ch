@@ -68,15 +68,23 @@ header {
 
         .logo {
             a {
-                font-weight: bold;
+                color: transparent;
+                background-image: url(/media/logo.svg);
+                background-repeat: no-repeat;
+                background-position: center center;
+                background-size: 100px;
 
                 @media (min-width: $screen-md-min) {
-                    font-size: 2em;
-                    padding: 0.7em 1em 0.6em 0.5em;
+                    width: 180px;
+                    background-size: 140px;
+                }
+
+                @media (max-width: $screen-md-min) {
+                    height: 50px;
                 }
 
                 &:hover {
-                    background: rgba(black, 0.2);
+                    background-color: rgba(black, 0.2);
                 }
             }
         }
