@@ -39,6 +39,7 @@ banner_text: Robots-JU dans les médias
       {% elsif article.tag == 'roberta' %}Coupe Roberta
       {% elsif article.tag == '24h' %}24h de robotique
       {% elsif article.tag == 'arcobot' %}Arcobot
+      {% elsif article.tag == 'association' %}Association
       {% else %}<span class="text-danger">Unknown {{ article.tag }}</span>
       {% endif %}
     </span>
@@ -59,6 +60,7 @@ banner_text: Robots-JU dans les médias
     {% elsif article.media == 'lagazette' %}La Gazette
     {% elsif article.media == 'lematindimanche' %}Le Matin Dimanche
     {% elsif article.media == 'couleurslocales' %}RTS Couleurs locales
+    {% elsif article.media == 'ajour' %}Journal du Jura
     {% else %}<span class="text-danger">Unknown {{ article.media }}</span>
     {% endif %},
     {{ article.date }}
