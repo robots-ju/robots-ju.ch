@@ -6,9 +6,9 @@ banner_image: /media/banners/sponsoring.jpg
 banner_text: Soutenez le club
 ---
 
-[![Télécharger notre dossier de sponsoring](/media/dossier-sponsoring-thumbnail.jpg)](https://kdrive.infomaniak.com/app/share/800255/b40b4b75-3200-49d8-8515-6368907077f7)
+[![Télécharger notre dossier de sponsoring](/media/dossier-sponsoring-thumbnail.jpg)](https://kdrive.infomaniak.com/app/share/800255/1ef2f33e-b0e1-4e23-84f2-858fe24a92fb)
 
-[Télécharger notre dossier de sponsoring (PDF)](https://kdrive.infomaniak.com/app/share/800255/b40b4b75-3200-49d8-8515-6368907077f7)
+[Télécharger notre dossier de sponsoring (PDF)](https://kdrive.infomaniak.com/app/share/800255/1ef2f33e-b0e1-4e23-84f2-858fe24a92fb)
 
 <!-- section -->
 
