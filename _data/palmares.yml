@@ -898,14 +898,14 @@
 - type: fll
   teamwork_is_core_values: 1
   title: FLL Challenge "SUBMERGED"
-  step: Finale Suisse
-  place: Brugg-Windisch
+  step: Finale suisse
+  place: Windisch
   date: 2025-02-22
   url: https://evaluation.hands-on-technology.org/en/score/challenge-2024-25-schweiz-brugg-windisch
   teams:
-  - name: Yellow_Submarine.JU
+    - name: Yellow_Submarine.JU
       scores:
         robotgame: 11
-  - name: www.patataquatique.ju
+    - name: www.patataquatique.ju
       scores:
         robotgame: 18
