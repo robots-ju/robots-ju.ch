@@ -11,14 +11,6 @@ Différents événements à venir auxquels participe le club ou organisés par l
 2025
 {:class="side-title"}
 
-## Finale Suisse FLL
-
-<i class="fa fa-calendar"></i> Samedi 22 février 2025
-
-<i class="fa fa-map-marker"></i> Brugg-Windisch
-
-Nos équipes "Yellow_Submarine.JU" et "www.patataquatique.ju" se sont qualifiées, aux côtés de l'équipe "RoboHunter" (Roggwil BE), pour la Finale Suisse.
-
 ## Coupe Robots-JU 2025
 
 <i class="fa fa-calendar"></i> Samedi 15 mars 2025
