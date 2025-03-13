@@ -1,12 +1,12 @@
 <section class="sponsoring">
     <div class="container">
         <div class="thanks">
-            <h3>Merci à nos sponsors !</h3>
+            <h3>Merci à nos sponsorss&nbsp;!</h3>
             <p><a href="/sponsoring">Devenez sponsor</a></p>
         </div>
         <ul class="sponsors">
             {% for sponsor in site.data.sponsors %}
-            <li><a href="{{ sponsor.url }}" title="{{ sponsor.title }}"><img alt="{{ sponsor.title }}" src="{{ sponsor.img }}"></a></li>
+            <li><a href="{{ sponsor.url }}" title="{{ sponsor.title }}"><span class="sponsor-logo" style="background-image: url('{{ sponsor.img }}');">{{ sponsor.title }}</span></a></li>
             {% endfor %}
         </ul>
     </div>
