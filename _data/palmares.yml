@@ -909,8 +909,20 @@
     - name: www.patataquatique.ju
       scores:
         robotgame: 18
+- type: robotsju-explorateur
+  title: Coupe Robots-JU Explorateur
+  place: StrateJ Delémont
+  date: 2025-03-15
+  url: https://coupe.robots-ju.ch/resultats/2025
+  teams:
+    - name: Les robots marins étoiles du Jura
+      rank: Meilleur Poster
+    - name: Les régalecs éclairs du Jura XXL
+      rank: Meilleure Maquette
+    - name: Les monstres marins du Jura
+      rank: Meilleur Esprit d'équipe
 - type: robotsju
-  title: Coupe Robots-JU
+  title: Coupe Robots-JU Ingénieur
   place: StrateJ Delémont
   date: 2025-03-15
   url: https://coupe.robots-ju.ch/resultats/2025

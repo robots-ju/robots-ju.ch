@@ -23,7 +23,7 @@ banner_text: Nos performances aux différents concours
                 <a class="logo" href="https://www.first-lego-league.org/"><img src="/media/competitions/fll.png" alt="Logo compétition FIRST LEGO League"></a>
                 {% elsif competition.type == 'roberta' %}
                 <a class="logo" href="https://sps.epfl.ch/CoupeRoberta"><img src="/media/competitions/roberta.jpg" alt="Logo Coupe Roberta"></a>
-                {% elsif competition.type == 'robotsju' %}
+                {% elsif competition.type == 'robotsju' or competition.type == 'robotsju-explorateur' %}
                 <a class="logo" href="https://coupe.robots-ju.ch/"><img src="/media/competitions/robotsju.png" alt="Logo Coupe Robots-JU"></a>
                 {% elsif competition.type == 'driveit' %}
                 <span class="logo"><img src="/media/competitions/driveit.png" alt="Logo compétition Drive-it"></span>
@@ -49,7 +49,7 @@ banner_text: Nos performances aux différents concours
         </tr>
         <tr class="competition-headers">
             <th></th>
-            {% if competition.type == 'fll-explore' %}
+            {% if competition.type == 'fll-explore' or competition.type == 'robotsju-explorateur' %}
             <th colspan="5">Prix</th>
             {% else %}
             <th>Rang</th>
@@ -79,7 +79,7 @@ banner_text: Nos performances aux différents concours
                 <br><em class="text-muted">{{ team.comment }}</em>
                 {% endif %}
             </td>
-            <td class="standout"{% if competition.type == 'fll-explore' %} colspan="5"{% endif %}>{{ team.rank }}</td>
+            <td class="standout"{% if competition.type == 'fll-explore' or competition.type == 'robotsju-explorateur' %} colspan="5"{% endif %}>{{ team.rank }}</td>
             {% if competition.type == 'fll' or competition.type == 'roberta' or competition.type == 'robotsju' or competition.type == 'openday' %}
             <td{% if team.scores.robotgame <= 4 %} class="standout"{% endif %}>{{ team.scores.robotgame   }}</td>
             {% endif %}

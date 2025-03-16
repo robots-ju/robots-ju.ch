@@ -36,7 +36,7 @@
         &.type-roberta td {
             border-bottom-color: #AE0010;
         }
-        &.type-robotsju, &.type-openday {
+        &.type-robotsju, &.type-robotsju-explorateur, &.type-openday {
             td {
                 border-bottom-color: $robotsju-color-green;
             }
