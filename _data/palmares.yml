@@ -909,3 +909,39 @@
     - name: www.patataquatique.ju
       scores:
         robotgame: 18
+- type: robotsju
+  title: Coupe Robots-JU
+  place: StrateJ Delémont
+  date: 2025-03-15
+  url: https://coupe.robots-ju.ch/resultats/2025
+  teams:
+    - name: Yellow_Submarine.JU
+      rank: 1
+      scores:
+        robotgame: 2
+        livechallenge: 1
+    - name: Jurabysses
+      rank: 5
+      scores:
+        robotgame: 7
+        livechallenge: 5
+    - name: Poséidon.ju
+      rank: 6
+      scores:
+        robotgame: 9
+        livechallenge: 4
+    - name: www.patataquatique.ju
+      rank: 8
+      scores:
+        robotgame: 10
+        livechallenge: 5
+    - name: L’équi-pain jurassien
+      rank: 9
+      scores:
+        robotgame: 6
+        livechallenge: 10
+    - name: AquaJura
+      rank: 10
+      scores:
+        robotgame: 8
+        livechallenge: 9
