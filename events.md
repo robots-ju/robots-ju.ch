@@ -30,7 +30,7 @@ L'équipe Explore "Les régalecs éclairs du Jura XXL" représentera le Jura lor
 
 ## Finale Suisse FLL
 
-<i class="fa fa-calendar"></i> Samedi 21 ou 28 février 2026
+<i class="fa fa-calendar"></i> Février 2026
 
 <i class="fa fa-map-marker"></i> A définir
 
@@ -48,6 +48,6 @@ L'équipe Explore "Les régalecs éclairs du Jura XXL" représentera le Jura lor
 
 ## Finale Europe FLL
 
-<i class="fa fa-calendar"></i> Samedi 21 ou 28 mars 2026
+<i class="fa fa-calendar"></i> Mars 2026
 
 <i class="fa fa-map-marker"></i> A définir
