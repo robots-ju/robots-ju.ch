@@ -957,3 +957,16 @@
       scores:
         robotgame: 8
         livechallenge: 9
+    - type: fll-explore
+      teamwork_is_core_values: 1
+      title: FLL Explore "SUBMERGED"
+      step: Finale Europe Centrale
+      place: Siegen
+      date: 2025-03-29
+      teams:
+    - name: Les régalecs éclairs du Jura XXL
+      rank: Exemplarité dans l´application des valeurs de base
+
+
+
+    
