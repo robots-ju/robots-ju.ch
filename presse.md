@@ -61,6 +61,7 @@ banner_text: Robots-JU dans les médias
     {% elsif article.media == 'lematindimanche' %}Le Matin Dimanche
     {% elsif article.media == 'couleurslocales' %}RTS Couleurs locales
     {% elsif article.media == 'ajour' %}Journal du Jura
+    {% elsif article.media == 'rcju' %}République et Canton du Jura
     {% else %}<span class="text-danger">Unknown {{ article.media }}</span>
     {% endif %},
     {{ article.date }}
