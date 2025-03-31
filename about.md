@@ -164,7 +164,7 @@ L'Association s'agrandit et nous comptons à présent 9 équipes (6 Challenge et
 
 Nous participons à nouveau au Passeport-Vacances dans les 3 districts et nous accueillons 40 enfants pour nos journées de découverte de la robotique.
 
-L'Association Robots-JU revoit son organisation avec un Comité directeur (composé du président, du caissier et du secrétaire qui sont responsables de la gestion administrative de l'organisation) et avec un Comité opérationnel (organisation des ateliers, organisation des concours, technique et matériel). Un nouveau Comité directeur a été en décembre 2024.
+L'Association Robots-JU revoit son organisation avec un Comité directeur (composé du président, du caissier et du secrétaire qui sont responsables de la gestion administrative de l'organisation) et avec un Comité opérationnel (organisation des ateliers, organisation des concours, technique et matériel). Un nouveau Comité directeur est élu en décembre 2024.
 
 Lors de l'Assemblée générale d'hiver 2024, qui a lieu le 14 décembre à Glovelier, les cent personnes présentes ont élu un nouveau Comité directeur composé de Daniel Renaud (Président), Alexandre Bart (secrétaire) et Amélien Lovis (caissier). Le Comité opérationnel est composé d'Akil Studer, d'Alexandre Bart, d'Amélien Lovis, de Clark Winkelmann, de Daniel Renaud, de Ganaelle Mundwiler, de Josquin Martignier et de Thibault Berthold.
 
