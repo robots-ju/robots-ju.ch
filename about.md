@@ -162,15 +162,19 @@ L'Association Robots-JU se rend à Davos le week-end du 12 au 14 avril 2024 pour
 
 L'Association s'agrandit et nous comptons à présent 9 équipes (6 Challenge et 3 Explore). Le nombre de membres passe de 20 à 50 ! Des ateliers ont lieu le mercredi après-midi, le samedi matin et le samedi après-midi.
 
-L'Association Robots-JU revoit son organisation avec un Comité directeur (composé du président, du caissier et du secrétaire qui sont responsables de la gestion administrative de l'organisation) et avec un Comité opérationnel (organisation des ateliers, organisation des concours, technique et matériel). Un nouveau Comité directeur sera élu en décembre 2024.
-
 Nous participons à nouveau au Passeport-Vacances dans les 3 districts et nous accueillons 40 enfants pour nos journées de découverte de la robotique.
+
+L'Association Robots-JU revoit son organisation avec un Comité directeur (composé du président, du caissier et du secrétaire qui sont responsables de la gestion administrative de l'organisation) et avec un Comité opérationnel (organisation des ateliers, organisation des concours, technique et matériel). Un nouveau Comité directeur a été en décembre 2024.
 
 Lors de l'Assemblée générale d'hiver 2024, qui a lieu le 14 décembre à Glovelier, les cent personnes présentes ont élu un nouveau Comité directeur composé de Daniel Renaud (Président), Alexandre Bart (secrétaire) et Amélien Lovis (caissier). Le Comité opérationnel est composé d'Akil Studer, d'Alexandre Bart, d'Amélien Lovis, de Clark Winkelmann, de Daniel Renaud, de Ganaelle Mundwiler, de Josquin Martignier et de Thibault Berthold.
 
-Robots-JU organise la première sélection régionale de la FLL à Delémont. Le concours a lieu le 18 janvier 2025. 12 équipes Challenge, dont 9 du Jura, y participent et tenteront de se qualifier pour la finale Suisse. 3 équipes Explore, du Jura, seront également présentes et tenteront de partir en finale Europe.
+Robots-JU organise la première sélection régionale de la FLL à Delémont. Le concours a lieu le 18 janvier 2025. 12 équipes Challenge, dont 9 du Jura, y participent et tentent de se qualifier pour la finale Suisse. 3 équipes Explore, du Jura, sont également présentes et tentent de partir en finale Europe. En catégorie Challenge, Robots-JU obtient les trophées des matchs de robots, des valeurs de base et de la conception de robot. Deux équipes obtiennent les 2e et 3e places du classement général et se qualifient pour la finale Suisse FLL. En catégorie Explore, les 3 équipes obtiennent les prix de l'esprit d'équipe bienveillant et accueillant, de la station de recherches fantastique, du modèle avec de nombreux détails. Une équipe Explore est invitée à la finale Europe FLL.
 
-La Coupe Robots-JU a lieu le samedi 15 mars 2025 et est également ouverte à des équipes externes. Une nouvelle catégorie *Explorateurs" est ouverte pour les équipes participant à la FLL Explore. Les inscriptions sont ouvertes jusqu'au 31 décembre 2024 sur le site [Coupe Robots-JU](https://coupe.robots-ju.ch/).
+Robots-JU participe à la finale Suisse FLL avec deux équipes, qui obtiennent les 11e et 18e place des matchs de robots.
+
+La Coupe Robots-JU a lieu le samedi 15 mars 2025 et est également ouverte à des équipes externes. Une nouvelle catégorie *Explorateurs" est ouverte pour les équipes participant à la FLL Explore. En catégorie Explorateurs, les équipes obtiennent les prix du meilleur poster, de la meilleure maquette et du meilleur esprit d'équipe. En catégorie Ingénieurs, nos équipes obtiennent les trophées du Live Challenge et du Champion.
+
+Lors de la finale Europe à Siegen, notre équipe des régalecs éclairs du Jura XXL représente le Jura et la Suisse en catégorie Explore. Après son évaluation par le jury, elle obtient le prix de l'exemplarité dans l'application des valeurs de base.
 
 ## Futur
 
