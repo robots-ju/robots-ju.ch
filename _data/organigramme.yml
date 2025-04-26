@@ -1,34 +1,34 @@
 - name: Comité
   description: Le comité directeur s'occupe de la gestion administrative de l'association
   members:
-    - name: Daniel Renaud
-      location: Develier
-      role: Président
     - name: Alexandre Bart
       location: Courrendlin
       role: Secrétaire
     - name: Amélien Lovis
       location: Montsevelier
       role: Caissier
+    - name: Daniel Renaud
+      location: Develier
+      role: Président
 - name: Ateliers FLL Challenge
   members:
+    - name: Alexandre Bart
+      role: Coach
     - name: Amélien Lovis
       role: Coach
     - name: Josquin Martignier
       role: Coach
     - name: Akil Studer
       role: Coach
-    - name: Alexandre Bart
-      role: Coach
     - name: 6 équipes
       team: yes
 - name: Ateliers FLL Explore
   members:
-    - name: Daniel Renaud
-      role: Coach
     - name: Thibault Berthold
       role: Coach
     - name: Ganaelle Mundwiler
+      role: Coach
+    - name: Daniel Renaud
       role: Coach
     - name: 3 équipes
       team: yes
