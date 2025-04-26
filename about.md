@@ -14,12 +14,26 @@ Robots-JU est un club de robotique qui entraîne de jeunes jurassiennes et juras
 
 Le club a officiellement été créé en 2014 par un groupe de participants à la FIRST LEGO League (FLL) depuis 2011.
 
-Ce site web sert de média d'information pour les membres du club, leur famille, ou simplement ceux qui souhaitent en savoir plus sur nous et nos activités.
+## Structure de l'association
+
+{% for group in site.data.organigramme %}
+<div class="organigramme">
+<h3 class="organigramme-name">{{ group.name }}</h3>
+{% if group.description %}<p class="organigramme-description">{{ group.description }}</p>{% endif %}
+{% for member in group.members %}
+<div class="organigramme-member">
+<div class="organigramme-member-icon"><i class="fa fa-user{% if member.team %}s{% endif %}"></i></div>
+<div class="organigramme-member-name">{{ member.name }}</div>
+{% if member.location %}<div class="organigramme-member-location">{{ member.location }}</div>{% endif %}
+{% if member.role %}<div class="organigramme-member-role">{{ member.role }}</div>{% endif %}
+</div>
+{% endfor %}
+</div>
+{% endfor %}
 
 ## Historique
 
-### Saison 2011-2012
-{: class="side-title"}
+<h3 class="side-title-season"><span>Saison</span> <span>2011-</span><span>2012</span></h3>
 
 Quelques familles du Jura souhaitent participer à la FLL. Elles se mettent en contact avec les bureaux de l'égalité entre femmes et hommes du Canton du Jura et de l'Ecole polytechnique fédérale de Lausanne (EPFL) et forment la première équipe *Team Jura* composée de 7 membres.
 
@@ -27,15 +41,13 @@ L'équipe *Team Jura*, composée de 7 membres, participe pour la première fois 
 
 La 3e place obtenue par *Team Jura* lui permet de se sélectionner pour la finale Suisse à Brugg-Windisch le 3 décembre. L'équipe se classe 17e au classement général.
 
-### Saison 2012-2013
-{: class="side-title"}
+<h3 class="side-title-season"><span>Saison</span> <span>2012-</span><span>2013</span></h3>
 
 L'équipe *Team Jura* participe à sa deuxième sélection régionale FLL (catégorie Challenge) le 10 novembre 2012 à Lausanne. Elle y obtient la 7e place du classement général et remporte le trophée du meilleur travail d'équipe.
 
 *Team Jura* participe pour la première fois à la Coupe Roberta. Le concours, organisé par l'EPFL, a lieu le 20 avril 2013 à Lausanne. L'équipe se classe à la 7e place.
 
-### Saison 2013-2014
-{: class="side-title"}
+<h3 class="side-title-season"><span>Saison</span> <span>2013-</span><span>2014</span></h3>
 
 Grâce aux nouvelles adhésions, une seconde équipe *Team Jura Junior* est créée. Avec *Team Jura Senior*, nous nous rendons à la sélection régionale FLL (catégorie Challenge) qui a lieu le 9 novembre 2013 à Lausanne. *Team Jura Senior* se classe 5e au classement général et obtient la deuxième place de la meilleure conception de robot. *Team Jura Junior* se classe 8e et obtient la 3e place du meilleur travail d'équipe.
 
@@ -45,8 +57,7 @@ Dans le cadre de la semaine sans télévision à Delémont, nous proposons des a
 
 Les équipes sont à présent nommées *Team Jura 1*, *Team Jura 2* et *Team Jura 3*. Elles participent à la Coupe Roberta le 5 avril 2014 à Lausanne. *Team Jura 2* se classe 3e au classement général et remporte la deuxième place des matches de robots. *Team Jura 3* sera 5e et *Team Jura 1* 13e au classement général.
 
-### Saison 2014-2015
-{: class="side-title"}
+<h3 class="side-title-season"><span>Saison</span> <span>2014-</span><span>2015</span></h3>
 
 Le site Internet [robots-ju.ch](https://robots-ju.ch/). est mis en ligne en août 2014.
 
@@ -54,8 +65,7 @@ Nous participons pour la première fois au Passeport-Vacances du district de Del
 
 Lors de la sélection régionale FLL (catégorie Challenge) le 29 novembre 2014 à Lausanne, *Team Jura 2* se classe au 4e rang du concours et obtient la 3e place des matches de robots et la 2e place de la meilleure conception de robot. *Team Jura 1* se classe 5e et obtient la 2e place du travail d'équipe. *Team Jura 3* se classe à la 6e place.
 
-### Saison 2015-2016
-{: class="side-title"}
+<h3 class="side-title-season"><span>Saison</span> <span>2015-</span><span>2016</span></h3>
 
 Nous participons à nouveau au Passeport-Vacances cette année et nous accueillons aussi des enfants du district de Porrentruy.
 
@@ -69,8 +79,7 @@ La Coupe Roberta n'a pas lieu cette saison. Pour pallier cette absence, nous org
 
 Notre compte Twitter/X [@RobotsJU](https://twitter.com/RobotsJU) est ouvert en mai 2016.
 
-### Saison 2016-2017
-{: class="side-title"}
+<h3 class="side-title-season"><span>Saison</span> <span>2016-</span><span>2017</span></h3>
 
 40 enfants de Delémotn et Porrentruy participent à notre journée de découverte de la robotique.
 
@@ -84,8 +93,7 @@ Le compte Twitter/X de la [@CoupeRobotsJU](https://twitter.com/CoupeRobotsJU) es
 
 La deuxième édition de la Coupe Robots-JU a lieu le 11 mars 2017 à Delémont. *MADAORPLULA* gagne cette édition et obtient la 1re place des matches de robots et la deuxième place du Live Challenge. *Team Jur'Allies* se classe 2e et remporte le Live Challenge. *Team Jura 2* est 4e, *CUB-X* 8e et *RHINO* 9e.
 
-### Saison 2017 - 2018
-{: class="side-title"}
+<h3 class="side-title-season"><span>Saison</span> <span>2017-</span><span>2018</span></h3>
 
 L'Association Robots-JU s'agrandit encore et se rend avec 5 équipes à la sélection régionale FLL (catégorie Challenge) de Lausanne, qui a lieu le 25 novembre 2017. *Team Juratlantique* remporte le trophée du travail d'équipe, la 3e place des matches de robots et se qualifie pour la finale Suisse grâce à sa première place au classement général. *Team Jur'aqua* se classe 7e et obtient le prix de la meilleure conception du robot.
 
@@ -95,8 +103,7 @@ La finale Europe a lieu le week-end du 17 au 18 mars 2018 à Aix-la-Chappelle. *
 
 La troisième édition de la Coupe Robots-JU a lieu le 24 mars 2018 à Delémont. 10 équipes romandes et du Tessin y ont participé. *Jur'atlantique* gagne le Live Challenge et obtient la deuxième place des matches de robots, ce qui lui permet de remporter cette édition. *Jur'Aqua* remporte le Live Challenge ex-aequo avec les champions et se classe 2e au classement général. *Jur-à-l'eau* prend la 3e place des matches de robots.
 
-### Saison 2018-2019
-{: class="side-title"}
+<h3 class="side-title-season"><span>Saison</span> <span>2018-</span><span>2019</span></h3>
 
 Les trois équipes des *Ateliers Avancés* se rendent à Renens pour le concours Drive-It le week-end des 29 et 30 septembre 2018. Les équipes se classent aux 4e, 7e et 9e places.
 
@@ -112,8 +119,7 @@ Deux équipes de Robots-JU se rendent pour la première fois à Mulhouse (France
 
 Les membres des *Ateliers Avancés* se rendent à Lausanne le 28 avril 2019 pour le concours Robolympiques. Ils terminent aux 2e et 3e places, dans la catégorie Mindstorms.
 
-### Saison 2019-2020
-{: class="side-title"}
+<h3 class="side-title-season"><span>Saison</span> <span>2019-</span><span>2020</span></h3>
 
 4 équipes se déplacent à Lausanne pour la sélection régionale FLL (catégorie Challenge) le 14 décembre 2019. *Juracity* obtient les 3e places en matches de robots, en travail d'équipe et en conception du robot, ce qui lui permet de décrocher son ticket en finale Suisse grâce à sa 2e place générale. *Jurarchitecte* se qualifie aussi pour la finale Suisse en prenant la 3e place générale et les 2e places en matches de robots et en conception du robot. *Jur'Avenir* se classe 4e et *Rauracity* 9e.
 
@@ -123,25 +129,21 @@ Le même jour, 2 équipes des *Ateliers Avancés* participent aux 24 Heures de C
 
 Nous participons pour la première fois avec deux équipes au concours Arcobot le 7 mars à Bienne. Nous prenons les 3e et 5e places du classement général.
 
-### Saison 2020-2021
-{: class="side-title"}
+<h3 class="side-title-season"><span>Saison</span> <span>2020-</span><span>2021</span></h3>
 
 Le 13 février 2021, 4 équipes de Robots-JU participent virtuellement à la sélection régionale FLL (catégorie Challenge) de Lausanne. *Jura.py* remporte le trophée de la meilleure conception du robot et se classe 2e au classement général, ex-aequo avec *Jur'actif* qui prend aussi la 3e place des matches de robtos. *Jur'athlétique* termine à la 2e place des matches de robots et gagne le prix du meilleur match de robot en direct. Robots-JU reçoit le prix du meilleur coaching.
 
-### Saison 2021-2022
-{: class="side-title"}
+<h3 class="side-title-season"><span>Saison</span> <span>2021-</span><span>2022</span></h3>
 
 En raison des mesures sanitaires en vigueur, nous n'avons pas pu nous rendre à la sélection régionale FLL de Lausanne avec nos trois équipes. A la place, nous organisons notre propre concours interne en mars 2022 à Glovelier.
 
-### Saison 2022-2023
-{: class="side-title"}
+<h3 class="side-title-season"><span>Saison</span> <span>2022-</span><span>2023</span></h3>
 
 Le 17 décembre 2022, nos trois équipes se rendent à la sélection régionale de la FLL (catégorie Challenge) à Lausanne. Les classements détaillés ne sont plus publiés. *Jur'arc électrique* reçoit le trophée de la meilleure conception de robot. *thorium_power.ju* est finaliste pour la conception du robot et *Les Patates jurassiennes* sont finalistes pour le travail de recherche.
 
 La Coupe Robots-JU fait son retour après 3 éditions d'absence. *Ultra_powered.ju* remporte le Live Challenge et la 1re place du classement général. *Jur'arc électrique* prend la 2e place du Live Challenge et la 2e place du classement général. *Les Patates jurassiennes* reçoivent le prix du meilleur esprit d'équipe.
 
-### Saison 2023-2024
-{: class="side-title"}
+<h3 class="side-title-season"><span>Saison</span> <span>2023-</span><span>2024</span></h3>
 
 Robots-JU retrouve son niveau de 2020 et se rend avec 4 équipes à la sélection régionale FLL (catégorie Challenge) d'Yverdon-les-Bains le 9 décembre 2023. *L'équi-pain jurassien* remporte les matches de robots, est finaliste en valeurs FLL et en conception de robot, et prend la 3e place du classement général. Elle se qualifie ainsi pour la finale Suisse. *Master Pare-Chocs.JU* est aussi finaliste de la conception de robot et son coach Sam Houser reçoit le prix du meilleur coaching.
 
@@ -157,8 +159,7 @@ L'Association Robots-JU se rend à Davos le week-end du 12 au 14 avril 2024 pour
 
 *L'équi-pain jurassien* part une semaine en Norvège représenter le Jura et la Suisse lors du concours OEC. Elle remporte la 36e place des matches de robots et rencontre des équipes du monde entier.
 
-### Saison 2024-2025
-{: class="side-title"}
+<h3 class="side-title-season"><span>Saison</span> <span>2024-</span><span>2025</span></h3>
 
 L'Association s'agrandit et nous comptons à présent 9 équipes (6 Challenge et 3 Explore). Le nombre de membres passe de 20 à 50 ! Des ateliers ont lieu le mercredi après-midi, le samedi matin et le samedi après-midi.
 

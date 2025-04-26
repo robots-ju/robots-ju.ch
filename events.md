@@ -17,6 +17,8 @@ Différents événements à venir auxquels participe le club ou organisés par l
 
 <i class="fa fa-map-marker"></i> Delémont
 
+Robots-JU organise la seconde sélection régionale jurassienne de la FIRST LEGO League.
+
 ## Finale Suisse FLL
 
 <i class="fa fa-calendar"></i> Février 2026

@@ -10,7 +10,8 @@ body {
 @media (min-width: $screen-md-min) {
     $md3-width: (3 / $grid-columns) * $container-md + $grid-gutter-width;
 
-    .side-title {
+    .side-title,
+    .side-title-season {
         position: relative;
         left: -$md3-width - $grid-gutter-width;
         width: $md3-width;
@@ -23,6 +24,25 @@ body {
     h3.side-title {
         margin-top: 0.8em;
         margin-bottom: -1.2em;
+    }
+
+    h3.side-title-season {
+        margin-top: 0.8em;
+        margin-bottom: -1.9em;
+    }
+
+    .side-title-season span {
+        &:first-child {
+            display: block;
+        }
+
+        &:nth-child(2) {
+            font-size: 0.65em;
+        }
+
+        &:nth-child(3) {
+            font-size: 0.9em;
+        }
     }
 }
 

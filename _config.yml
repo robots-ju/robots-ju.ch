@@ -73,10 +73,6 @@ sitemap:
       url: /contact
 
 social_links:
-  - title: Twitter/X
-    url: https://twitter.com/RobotsJU
-    label: "@RobotsJU"
-    icon: twitter
   - title: Facebook
     url: https://www.facebook.com/RobotsJU/
     label: "@RobotsJU"

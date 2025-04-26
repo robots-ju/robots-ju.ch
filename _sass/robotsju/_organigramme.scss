@@ -1,0 +1,64 @@
+.organigramme {
+    border: 2px solid $robotsju-color-lightgrey;
+    border-radius: 15px;
+    padding: 0 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 20px;
+
+    @media (min-width: $screen-md-min) {
+        width: calc(100% + 260px);
+        margin: 0 -130px 20px;
+    }
+
+    @media (min-width: $screen-lg-min) {
+        width: calc(100% + 160px);
+        margin: 0 -80px 20px;
+    }
+}
+
+.organigramme-name {
+    width: 100%;
+    font-weight: bold;
+    font-size: 1.5em;
+    margin: 10px 0;
+    color: $robotsju-color-green;
+}
+
+.organigramme-description {
+    width: 100%;
+    margin: 0 0 10px;
+}
+
+.organigramme-member {
+    width: 134px;
+    margin-bottom: 20px;
+
+    @media (max-width: 500px) {
+        width: 50%;
+    }
+
+    @media (max-width: 350px) {
+        width: 100%;
+    }
+}
+
+.organigramme-member-icon {
+    font-size: 44px;
+    color: $robotsju-color-darkgrey;
+}
+
+.organigramme-member-name {
+    font-weight: bold;
+    color: $robotsju-color-green;
+}
+
+.organigramme-member-location {
+    color: $robotsju-color-darkgrey;
+}
+
+.organigramme-member-role {
+    font-weight: bold;
+}
