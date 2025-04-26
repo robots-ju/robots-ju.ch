@@ -1,4 +1,4 @@
-- name: Comité
+- name: Comité directeur
   description: Le comité directeur s'occupe de la gestion administrative de l'association
   members:
     - name: Alexandre Bart
