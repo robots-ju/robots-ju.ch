@@ -21,9 +21,11 @@ Robots-JU organise la seconde sélection régionale jurassienne de la FIRST LEGO
 
 ## Finale Suisse FLL
 
-<i class="fa fa-calendar"></i> Février 2026
+<i class="fa fa-calendar"></i> Samedi 21 février 2026
 
-<i class="fa fa-map-marker"></i> A définir
+<i class="fa fa-map-marker"></i> Jura (lieu exact à définir)
+
+Robots-JU organise la Finale Suisse 2026 de la FIRST LEGO League.
 
 ## Salon interjurassien de la formation
 
@@ -39,6 +41,6 @@ Robots-JU organise la seconde sélection régionale jurassienne de la FIRST LEGO
 
 ## Finale Europe FLL
 
-<i class="fa fa-calendar"></i> Mars 2026
+<i class="fa fa-calendar"></i> 18-19 avril 2026
 
-<i class="fa fa-map-marker"></i> A définir
+<i class="fa fa-map-marker"></i> Leipzig (D)
