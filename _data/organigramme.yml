@@ -18,6 +18,8 @@
       role: Coach
     - name: Josquin Martignier
       role: Coach
+    - name: Daniel Renaud
+      role: Coach
     - name: Akil Studer
       role: Coach
     - name: 6 équipes
@@ -25,8 +27,6 @@
 - name: Ateliers FLL Explore
   members:
     - name: Thibault Berthold
-      role: Coach
-    - name: Ganaelle Mundwiler
       role: Coach
     - name: Daniel Renaud
       role: Coach
