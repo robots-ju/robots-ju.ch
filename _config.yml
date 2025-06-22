@@ -57,7 +57,7 @@ sitemap:
     - title: Événements
       url: /events
     - title: Espace membres
-      url: https://membres.robots-ju.ch/
+      url: https://membres.robots-ju.ch/accueil
   pages:
     - title: Accueil
       url: /
