@@ -47,7 +47,7 @@ Ils développent également leur confiance en soi et leurs connaissances technol
 
 **Les inscriptions sont ouvertes pour la prochaine saison robotique (dès août 2025). 1 place est libre le mercredi après-midi et 1 place est libre le samedi matin.**
 
-L'atelier FLL Explore a lieu le mercredi après-midi,  le samedi matin et le samedi après-midi dans nos locaux de [Glovelier](https://www.google.ch/maps/place/Rue+des+Places+7,+2855+Glovelier/@47.3390915,7.2066171,17z/data=!3m1!4b1!4m5!3m4!1s0x4791e4df12d571d5:0xfc3cb407ccf2c65f!8m2!3d47.3390879!4d7.2088058?hl=fr).
+L'atelier FLL Explore a lieu le mercredi après-midi et le samedi matin dans nos locaux de [Glovelier](https://www.google.ch/maps/place/Rue+des+Places+7,+2855+Glovelier/@47.3390915,7.2066171,17z/data=!3m1!4b1!4m5!3m4!1s0x4791e4df12d571d5:0xfc3cb407ccf2c65f!8m2!3d47.3390879!4d7.2088058?hl=fr).
 
 Vous souhaitez inscrire votre enfant ou obtenir davantage de renseignements ?
 Contactez-nous via ce formulaire:
