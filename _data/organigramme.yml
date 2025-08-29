@@ -12,22 +12,34 @@
 - name: Comité technique
   members:
     - name: Alexandre Bart
+      role: Membre
     - name: Thibault Berthold
+      role: Membre
     - name: Ethan Esteves Ramos
+      role: Membre
     - name: Amélien Lovis
+      role: Membre
     - name: Josquin Martignier
+      role: Membre
     - name: Akil Studer
+      role: Membre
   - name: Comité des ateliers Challenge
   members:
     - name: Alexandre Bart
+      role: Coach
     - name: Amélien Lovis
+      role: Coach
     - name: Josquin Martignier
+      role: Coach
     - name: Daniel Renaud
+      role: Coach
     - name: Akil Studer
+      role: Coach
     - name: 6 équipes
       team: yes
 - name: Comité des ateliers Explore
   members:
     - name: Daniel Renaud
+      role: Coach
     - name: 3 équipes
       team: yes
