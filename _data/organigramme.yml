@@ -15,7 +15,7 @@
       role: Administration et médias sociaux
     - name: Thibault Berthold
       role: Membre
-    - name: Ethan Esteves Ramos
+    - name: Ethan Ramos
       role: Informatique
     - name: Amélien Lovis
       role: Présidence
@@ -39,16 +39,12 @@
       role: Coach
     - name: Akil Studer
       role: Coach
-    - name: 6 équipes
-      team: yes
 - name: Ateliers FLL Explore
   members:
     - name: Sabrina Chapuis
       role: Coach
     - name: Daniel Renaud
       role: Coach
-    - name: 3 équipes
-      team: yes
 - name: Coupe Robots-JU
   members:
     - name: Alexandre Bart
