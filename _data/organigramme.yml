@@ -1,4 +1,5 @@
 - name: Comité directeur
+  description: Le comité directeur s'occupe de la gestion administrative de l'association
   members:
     - name: Alexandre Bart
       location: Courrendlin
@@ -9,21 +10,7 @@
     - name: Daniel Renaud
       location: Develier
       role: Président
-- name: Comité technique
-  members:
-    - name: Alexandre Bart
-      role: Membre
-    - name: Thibault Berthold
-      role: Membre
-    - name: Ethan Esteves Ramos
-      role: Membre
-    - name: Amélien Lovis
-      role: Membre
-    - name: Josquin Martignier
-      role: Membre
-    - name: Akil Studer
-      role: Membre
-  - name: Comité des ateliers Challenge
+- name: Ateliers FLL Challenge
   members:
     - name: Alexandre Bart
       role: Coach
@@ -37,8 +24,10 @@
       role: Coach
     - name: 6 équipes
       team: yes
-- name: Comité des ateliers Explore
+- name: Ateliers FLL Explore
   members:
+    - name: Thibault Berthold
+      role: Coach
     - name: Daniel Renaud
       role: Coach
     - name: 3 équipes
