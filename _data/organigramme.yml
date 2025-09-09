@@ -1,5 +1,4 @@
 - name: Comité directeur
-  description: Le comité directeur s'occupe de la gestion administrative de l'association
   members:
     - name: Alexandre Bart
       location: Courrendlin
@@ -10,9 +9,27 @@
     - name: Daniel Renaud
       location: Develier
       role: Président
+- name: Comité technique
+  members:
+    - name: Alexandre Bart
+      role: Administration et médias sociaux
+    - name: Thibault Berthold
+      role: Membre
+    - name: Ethan Esteves Ramos
+      role: Informatique
+    - name: Amélien Lovis
+      role: Présidence
+    - name: Josquin Martignier
+      role: Membre
+    - name: Akil Studer
+      role: Membre
+    - name: Clark Winkelmann
+      role: Informatique
 - name: Ateliers FLL Challenge
   members:
     - name: Alexandre Bart
+      role: Coach
+    - name: Sabrina Chapuis
       role: Coach
     - name: Amélien Lovis
       role: Coach
@@ -26,9 +43,31 @@
       team: yes
 - name: Ateliers FLL Explore
   members:
-    - name: Thibault Berthold
+    - name: Sabrina Chapuis
       role: Coach
     - name: Daniel Renaud
       role: Coach
     - name: 3 équipes
       team: yes
+- name: Coupe Robots-JU
+  members:
+    - name: Alexandre Bart
+      role: Live Challenge
+    - name: Amélien Lovis
+      role: Finances
+    - name: Daniel Renaud
+      role: Présidence, bénévoles et publicité
+    - name: Akil Studer
+      role: Inscriptions
+    - name: Clark Winkelmann
+      role: Technique
+- name: FIRST LEGO League Jura
+  members:
+    - name: Alexandre Bart
+      role: Administration
+    - name: Amélien Lovis
+      role: Finances
+    - name: Daniel Renaud
+      role: Présidence
+    - name: Clark Winkelmann
+      role: Technique 
