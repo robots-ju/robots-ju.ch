@@ -40,7 +40,7 @@ La saison 2025-2026 marque le début d'une nouvelle collaboration entre Robots-J
 Robots-JU participe au Passeport-Vacances et fait découvrir la robotique à plus de 50 enfants jurassiens pendant 7 journées.
 
 6 équipes Challenge (26 membres) et 3 équipes Explore (17 membres), encadrés par un comité de 9 personnes, sont inscrites au concours de la FIRST LEGO League. La sélection régionale a lieu le 17 janvier 2026 à Delémont.
-Le Comité est composé d'Alexandre Bart, de Thibault Berthold, de Sabrina Chapuis, d'Ethan Esteves Ramos, d'Amélien Lovis, de Josquin Martignier, de Daniel Renaud, d'Akil Studer et de Clark Winkelmann.
+Le Comité est composé d'Alexandre Bart, de Thibault Berthold, de Sabrina Chapuis, d'Ethan Ramos, d'Amélien Lovis, de Josquin Martignier, de Daniel Renaud, d'Akil Studer et de Clark Winkelmann.
 
 Robots-JU organise également la Finale Suisse de la FIRST LEGO League (informations à suivre) et participe au Salon interjurassien de la formation 2026 avec deux activités : un après-midi de découverte de la robotique le mercredi 4 mars 2026 et la Coupe Robots-JU le samedi 7 mars 2026.
 
