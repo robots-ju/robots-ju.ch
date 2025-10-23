@@ -74,6 +74,12 @@ Robots-JU participe au projet IDIOMA, organisé par l'Ecole secondaire du Val Te
 
 <i class="fa fa-map-marker"></i> Moutier
 
+## Salon interjurassien de la formation
+
+<i class="fa fa-calendar"></i> Dimanche 8 mars 2026
+
+<i class="fa fa-map-marker"></i> Moutier
+
 ## Finale Europe FLL
 
 <i class="fa fa-calendar"></i> 18-19 avril 2026
