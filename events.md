@@ -21,6 +21,14 @@ Robots-JU participe au projet IDIOMA, organisé par l'Ecole secondaire du Val Te
 
 ## Projet IDIOMA
 
+<i class="fa fa-calendar"></i> Décembre 2025
+
+<i class="fa fa-map-marker"></i> Bassecourt
+
+Robots-JU participe à la Route des Crèches de Bassecourt. Nos équipes Explore construiront des maquettes de Noël qui seront exposées dans le village durant le mois de décembre.
+
+## Projet IDIOMA
+
 <i class="fa fa-calendar"></i> Jeudi 18 décembre 2025
 
 <i class="fa fa-map-marker"></i> Vicques
@@ -82,7 +90,7 @@ Robots-JU participe au projet IDIOMA, organisé par l'Ecole secondaire du Val Te
 
 ## Projet IDIOMA
 
-<i class="fa fa-calendar"></i> Samedi 20 juin 2026
+<i class="fa fa-calendar"></i> Samedi 13 juin 2026
 
 <i class="fa fa-map-marker"></i> Vicques
 
