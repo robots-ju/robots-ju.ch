@@ -19,7 +19,7 @@ Différents événements à venir auxquels participe le club ou organisés par l
 
 Robots-JU participe au projet IDIOMA, organisé par l'Ecole secondaire du Val Terbi (ESVT). Le projet IDIOMA porte sur le langage sous toutes ses formes et mobilise l'ensemble des élèves de l'ESVT autour d'ateliers créatifs et d'oeuvres communes réalisées avec un artiste invité, Dips.
 
-## Projet IDIOMA
+## Route des Crèches Bassecourt 2025
 
 <i class="fa fa-calendar"></i> Décembre 2025
 
@@ -50,7 +50,7 @@ Robots-JU organise la seconde sélection régionale jurassienne de la FIRST LEGO
 
 <i class="fa fa-calendar"></i> Samedi 21 février 2026
 
-<i class="fa fa-map-marker"></i> Jura (lieu exact à définir)
+<i class="fa fa-map-marker"></i> Moutier
 
 Robots-JU organise la Finale Suisse 2026 de la FIRST LEGO League.
 
