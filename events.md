@@ -11,16 +11,6 @@ Différents événements à venir auxquels participe le club ou organisés par l
 2026
 {:class="side-title"}
 
-## Sélection régionale FLL
-
-<i class="fa fa-calendar"></i> Samedi 17 janvier 2026
-
-<i class="fa fa-map-marker"></i> Delémont, campus StrateJ
-
-Robots-JU organise la seconde sélection régionale jurassienne de la FIRST LEGO League.
-
-Suivre en direct sur [live.robots-ju.ch](https://live.robots-ju.ch/)!
-
 ## Finale Suisse FLL
 
 <i class="fa fa-calendar"></i> Samedi 21 février 2026

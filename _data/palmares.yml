@@ -841,7 +841,6 @@
   notes:
     - "Notre équipe a représenté la Suisse parmi les 50 équipes internationales"
 - type: fll-explore
-  teamwork_is_core_values: 1
   title: FLL Explore "SUBMERGED"
   step: Sélection régionale
   place: Delémont
@@ -958,7 +957,6 @@
         robotgame: 8
         livechallenge: 9
 - type: fll-explore
-  teamwork_is_core_values: 1
   title: FLL Explore "SUBMERGED"
   step: Finale Europe Centrale
   place: Siegen
@@ -966,7 +964,47 @@
   teams:
     - name: Les régalecs éclairs du Jura XXL
       rank: Exemplarité dans l´application des valeurs de base
-
-
-
-    
+- type: fll-explore
+  title: FLL Explore "UNEARTHED"
+  step: Sélection régionale
+  place: Delémont
+  date: 2026-01-17
+  teams:
+    - name: Les robots archéologues du Jura
+      rank: Prix pour une recherche globale
+    - name: Les capybaras romains du Jura XXL
+      rank: Prix pour une invention utile pour les archéologues
+    - name: Les archéologues sous-marins du Jura
+      rank: Prix pour un esprit d'équipe positif
+- type: fll
+  teamwork_is_core_values: 1
+  title: FLL Challenge "UNEARTHED"
+  step: Sélection régionale
+  place: Delémont
+  date: 2026-01-17
+  url: https://evaluation.hands-on-technology.org/en/score/challenge-2025-26-jura
+  teams:
+    - name: Raptors.JU
+      rank: 1
+      qualified: true
+      scores:
+        research: Finaliste
+        teamwork: Finaliste
+        robotgame: 2
+    - name: Jura'rchéo
+      rank: 3
+      scores:
+        research: Finaliste
+        teamwork: 1
+        robotdesign: Finaliste
+    - name: Les dinosaures robots têtes de pioche du Jura
+      scores:
+        research: 1
+        teamwork: Finaliste
+        robotdesign: Finaliste
+    - name: Jurartéfact
+      scores:
+        robotdesign: 1
+    - name: Les patatarchéologues
+      scores:
+        robotgame: 3
