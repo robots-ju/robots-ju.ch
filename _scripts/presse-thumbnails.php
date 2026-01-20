@@ -59,7 +59,7 @@ foreach ($entries as $index => $entryRawYaml) {
         }
     }
 
-    if (preg_match('~file:\s(.+?)\s~', $entryRawYaml, $matches) > 0) {
+    if (preg_match('~\sfile:\s(.+?)\s~', $entryRawYaml, $matches) > 0) {
         $file = $matches[1];
         $knownInputFiles[] = $file;
     }
@@ -69,7 +69,12 @@ foreach ($entries as $index => $entryRawYaml) {
         continue;
     }
 
-    $filename = $date . '-' . $media . '.jpg';
+    if (preg_match('~thumbnail_file:\s(.+?)\s~', $entryRawYaml, $matches) === 1) {
+        $filename = $matches[1];
+    } else {
+        $filename = $date . '-' . $media . '.jpg';
+    }
+
     $filepath = $mediaDirectory . '/presse-thumbnails/' . $filename;
     $knownOutputFiles[] = $filename;
 

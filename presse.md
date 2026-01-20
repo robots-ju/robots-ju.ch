@@ -48,22 +48,22 @@ banner_text: Robots-JU dans les médias
   {% if article.url contains '.mp3' %}
   <div class="presse-icon"><i class="fa fa-volume-up"></i></div>
   {% else %}
-  <img src="/media/presse-thumbnails/{{ article.date }}-{{ article.media }}.jpg" alt="Aperçu de l'article du {{ article.date }}">
+  <img src="/media/presse-thumbnails/{% if article.thumbnail_file %}{{ article.thumbnail_file }}{% else %}{{ article.date }}-{{ article.media }}.jpg{% endif %}" alt="Aperçu de l'article du {{ article.date }}">
   {% endif %}
   <h3>{{ article.title }}</h3>
   <p class="presse-source">
-    {% if article.media == 'lqj' %}Le Quotidien Jurassien
-    {% elsif article.media == 'rfj' %}Radio Fréquence Jura
-    {% elsif article.media == 'canalalpha' %}Canal Alpha
-    {% elsif article.media == 'agglo' %}L'agglo Delémont
-    {% elsif article.media == 'echodelarche' %}Echo de l'Arche
-    {% elsif article.media == 'lagazette' %}La Gazette
-    {% elsif article.media == 'lematindimanche' %}Le Matin Dimanche
-    {% elsif article.media == 'couleurslocales' %}RTS Couleurs locales
-    {% elsif article.media == 'ajour' %}Journal du Jura
-    {% elsif article.media == 'rcju' %}République et Canton du Jura
-    {% else %}<span class="text-danger">Unknown {{ article.media }}</span>
-    {% endif %},
+    {% if article.media == 'lqj' %}Le Quotidien Jurassien,
+    {% elsif article.media == 'rfj' %}Radio Fréquence Jura,
+    {% elsif article.media == 'canalalpha' %}Canal Alpha,
+    {% elsif article.media == 'agglo' %}L'agglo Delémont,
+    {% elsif article.media == 'echodelarche' %}Echo de l'Arche,
+    {% elsif article.media == 'lagazette' %}La Gazette,
+    {% elsif article.media == 'lematindimanche' %}Le Matin Dimanche,
+    {% elsif article.media == 'couleurslocales' %}RTS Couleurs locales,
+    {% elsif article.media == 'ajour' %}Journal du Jura,
+    {% elsif article.media == 'rcju' %}République et Canton du Jura,
+    {% else %}<span class="text-danger">Unknown {{ article.media }},</span>
+    {% endif %}
     {{ article.date }}
   </p>
 </a>
