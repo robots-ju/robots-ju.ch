@@ -62,6 +62,8 @@ banner_text: Robots-JU dans les médias
     {% elsif article.media == 'couleurslocales' %}RTS Couleurs locales,
     {% elsif article.media == 'ajour' %}Journal du Jura,
     {% elsif article.media == 'rcju' %}République et Canton du Jura,
+    {% elsif article.media == 'msm' %}Le Mensuel de l'Industrie,
+    {% elsif article.media == 'polymedia' %}La Revue Polytechnique,
     {% else %}<span class="text-danger">Unknown {{ article.media }},</span>
     {% endif %}
     {{ article.date }}
