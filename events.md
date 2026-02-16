@@ -15,9 +15,11 @@ Différents événements à venir auxquels participe le club ou organisés par l
 
 <i class="fa fa-calendar"></i> Samedi 21 février 2026
 
-<i class="fa fa-map-marker"></i> Moutier
+<i class="fa fa-map-marker"></i> Forum de l'Arc, Moutier
 
 Robots-JU organise la Finale Suisse 2026 de la FIRST LEGO League.
+
+La journée commence à 09:30 avec la cérémonie d'ouverture (présentation des équipes). Puis, les matchs de robots et les présentations des équipes démarrent. La journée se termine avec la remise des prix de 17:00 à 18:00. Toute la journée est ouverte gratuitement au public. Le programme détaillé (en allemand) est disponible [ici(https://flow.hands-on-technology.org/quali-jura)].
 
 ## Projet IDIOMA
 
