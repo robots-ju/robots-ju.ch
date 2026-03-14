@@ -9,6 +9,26 @@
     - name: Daniel Renaud
       location: Develier
       role: Président
+- name: Comité de coaching des ateliers
+  members:
+    - name: Alexandre Bart
+      role: Coach Challenge
+    - name: Josquin Martignier
+      role: Coach Challenge
+    - name: Daniel Renaud
+      role: Coach Explore et Challenge
+    - name: Akil Studer
+      role: Coach Challenge
+- name: Comité d'organisation des concours
+  members:
+    - name: Alexandre Bart
+      role: Administration et Live Challenge
+    - name: Amélien Lovis
+      role: Finances
+    - name: Daniel Renaud
+      role: Présidence et bénévoles
+    - name: Clark Winkelmann
+      role: Technique
 - name: Comité technique
   members:
     - name: Alexandre Bart
@@ -18,52 +38,10 @@
     - name: Ethan Ramos
       role: Informatique
     - name: Amélien Lovis
-      role: Présidence
+      role: Finances
     - name: Josquin Martignier
       role: Membre
     - name: Akil Studer
       role: Membre
     - name: Clark Winkelmann
       role: Informatique
-- name: Ateliers FLL Challenge
-  members:
-    - name: Alexandre Bart
-      role: Coach
-    - name: Sabrina Chapuis
-      role: Coach
-    - name: Amélien Lovis
-      role: Coach
-    - name: Josquin Martignier
-      role: Coach
-    - name: Daniel Renaud
-      role: Coach
-    - name: Akil Studer
-      role: Coach
-- name: Ateliers FLL Explore
-  members:
-    - name: Sabrina Chapuis
-      role: Coach
-    - name: Daniel Renaud
-      role: Coach
-- name: Coupe Robots-JU
-  members:
-    - name: Alexandre Bart
-      role: Live Challenge
-    - name: Amélien Lovis
-      role: Finances
-    - name: Daniel Renaud
-      role: Présidence, bénévoles et publicité
-    - name: Akil Studer
-      role: Inscriptions
-    - name: Clark Winkelmann
-      role: Technique
-- name: FIRST LEGO League Jura
-  members:
-    - name: Alexandre Bart
-      role: Administration
-    - name: Amélien Lovis
-      role: Finances
-    - name: Daniel Renaud
-      role: Présidence
-    - name: Clark Winkelmann
-      role: Technique 
