@@ -1,5 +1,5 @@
 ---
-title: De Glovelier aux États-Unis : des jeunes jurassiens en compétition mondiale de robotique
+title: De Glovelier aux États-Unis
 ---
 
 Glovelier (JU) – Deux équipes de l’association Robots-JU participeront cette année à deux compétitions internationales de FIRST LEGO League (FLL), un programme éducatif mondial qui initie les jeunes à la robotique, aux sciences et à l’innovation. Les équipes Team Jura Junior et Team Jura Senior auront ainsi l’occasion de représenter la Suisse et le canton du Jura. Elles participeront à des événements réunissant des équipes venues du monde entier.
