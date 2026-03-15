@@ -2,7 +2,7 @@
 title: FLL Suisse 2026
 ---
 
-L’Association Robots-JU a organisé et participé à la sélection régionale de la FIRST LEGO League (FLL) à Delémont. Au total, 10 équipes sur deux catégories d’âges ont participé à l’évènement.
+L’Association Robots-JU a organisé et participé à la Finale Suisse de la FIRST LEGO League (FLL) à Moutier. Au total, 16 équipes ont participé à l’évènement, afin de décrocher les trois places pour la Finale FLL D-A-CH (Allemagne, Autriche, Suisse) à Leipzig.
 
 <!--more-->
 
