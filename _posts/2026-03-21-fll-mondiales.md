@@ -10,6 +10,8 @@ La Team Jura Junior, composée de Dante Arellano (9 ans), Kayis Buchwalder (8 an
 
 La Team Jura Senior, formée de Thibault Berthold (16 ans), Arnaud Bounameaux (17 ans), Yoan Fahrni (17 ans), Ethan Ramos (16 ans) et Ewen Vogel (15 ans), participera au FIRST LEGO League Georgia Ramblin' Robots Invitational, qui se déroulera à Atlanta (États-Unis) du 5 au 7 juin.
 
+<img src="/media/mondiaux-2026.jpg/">
+
 Les deux équipes jurassiennes ont été invitées, à la suite de leurs résultats lors des compétitions régionales et nationales en Suisse, à rejoindre l’élite internationale de FIRST LEGO League.
 
 Il s’agit de la première participation, à ce niveau de compétition, d’une équipe Explore (division junior) jurassienne — et même suisse —, ainsi que de la deuxième participation d’une équipe Challenge (division senior) jurassienne à une compétition internationale.
