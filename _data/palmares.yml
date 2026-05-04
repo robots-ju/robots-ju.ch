@@ -1008,3 +1008,11 @@
     - name: Les patatarchéologues
       scores:
         robotgame: 3
+- type: fll-explore
+  title: FLL Explore "UNEARTHED"
+  step: FIRST Championship - World Festival
+  place: Houston
+  date: 2026-05-02
+  teams:
+    - name: Team Jura Junior
+      rank: Prix de la meilleure maquette
