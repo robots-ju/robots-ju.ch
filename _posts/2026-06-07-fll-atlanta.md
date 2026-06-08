@@ -15,7 +15,7 @@ Cette participation constitue une étape importante pour l'équipe jurassienne. 
 
 Pour Daniel Renaud, président de l'association, ce succès est avant tout le résultat d'un engagement collectif remarquable. Il souligne que les jeunes ont fait preuve d'une grande autonomie tout au long de la saison, en assumant une part importante des choix techniques et organisationnels du projet. Selon lui, leur capacité à collaborer, à résoudre les problèmes rencontrés et à représenter dignement le Jura à l'international a largement contribué à cette réussite.
 
-<img src="/media/atlanta-2026.jpg/">
+<img src="/media/atlanta-2026.png/">
 De gauche à droite : Akil Studer, Yoan Fahrni, Arnaud Bounameaux, Ewen Vogel, Thibault Berthold, Ethan Esteves Ramos, Daniel Renaud
 
 Les membres de l'équipe relèvent quant à eux le caractère unique de cette expérience. Ils expliquent que la compétition leur a permis de rencontrer des jeunes venus du monde entier, de découvrir d'autres approches de la robotique et de partager une passion commune au-delà des frontières. Ils considèrent cette victoire comme l'aboutissement de nombreux mois de travail et d'investissement.
