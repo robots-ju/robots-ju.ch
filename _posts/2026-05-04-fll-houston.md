@@ -12,6 +12,9 @@ Le jury international a particulièrement salué l’originalité du projet ains
 
 « Nous sommes très fiers d’avoir pu présenter notre projet devant des équipes du monde entier. C’était une expérience incroyable », confient les jeunes membres de Team Jura Junior.
 
+<img src="/media/houston-2026.jpg/">
+De gauche à droite : Dante Arellano, Kayis Buchwalder, Daniel Renaud, Tom Mathie
+
 « Cette récompense met en lumière le potentiel et l’enthousiasme des jeunes pour les sciences et la technologie. Elle valorise aussi le travail accompli au sein de Robots-JU », souligne Daniel Renaud, coach de l’équipe.
 
 Le FIRST Championship est l’un des plus grands événements mondiaux dédiés à la robotique éducative et aux STEM (science, technologie, ingénierie et mathématiques). Il rassemble chaque année des milliers de jeunes talents issus de dizaines de pays.
