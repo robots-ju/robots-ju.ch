@@ -1073,3 +1073,16 @@
   teams:
     - name: Team Jura Junior
       rank: Prix de la meilleure maquette
+- type: fll
+  teamwork_is_core_values: 1
+  title: FLL Challenge "UNEARTHED"
+  step: Georgia Ramblin Robots Invitationals
+  place: Atlanta (USA)
+  date: 2026-06-05
+  teams:
+    - name: Raptors.JU
+      qualified: true
+      scores:
+         robotgame: 19
+         robotdesign: 1
+         livechallenge: 6
