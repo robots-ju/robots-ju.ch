@@ -6,17 +6,12 @@
     - name: Amélien Lovis
       location: Montsevelier
       role: Caissier
-    - name: Daniel Renaud
-      location: Develier
-      role: Président
 - name: Comité de coaching des ateliers
   members:
     - name: Alexandre Bart
       role: Coach Challenge
     - name: Josquin Martignier
       role: Coach Challenge
-    - name: Daniel Renaud
-      role: Coach Explore et Challenge
     - name: Akil Studer
       role: Coach Challenge
 - name: Comité d'organisation des concours
@@ -25,8 +20,6 @@
       role: Administration et Live Challenge
     - name: Amélien Lovis
       role: Finances
-    - name: Daniel Renaud
-      role: Présidence et communication
     - name: Clark Winkelmann
       role: Technique
 - name: Comité technique
