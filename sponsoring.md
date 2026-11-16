@@ -3,12 +3,27 @@ title: Sponsoring
 layout: sidebar
 permalink: /sponsoring
 banner_image: /media/banners/sponsoring.jpg
-banner_text: Soutenez le club
+banner_text: Soutenez l'association
 ---
 
-[![Télécharger notre dossier de sponsoring](/media/dossier-sponsoring-thumbnail.jpg)](https://kdrive.infomaniak.com/app/share/800255/a7f89afa-1335-44b2-b785-cac9d64d738f)
+Consultez nos documents de présentation:
 
-[Télécharger notre dossier de sponsoring (PDF)](https://kdrive.infomaniak.com/app/share/800255/a7f89afa-1335-44b2-b785-cac9d64d738f)
+<div class="row">
+<div class="col-md-6" markdown="1">
+
+[![Télécharger notre dossier de présentation](/media/dossier-presentation-thumbnail.jpg?v=202611){:class="pdf-thumbnail"}](https://cloud.robots-ju.ch/s/qtHFG677GnTiZfb)
+
+[<i class="fa fa-file"></i> Dossier de présentation (PDF)](https://cloud.robots-ju.ch/s/qtHFG677GnTiZfb)
+
+</div>
+<div class="col-md-6" markdown="1">
+
+[![Télécharger notre dossier de sponsoring](/media/dossier-sponsoring-thumbnail.jpg?v=202611){:class="pdf-thumbnail"}](https://cloud.robots-ju.ch/s/RYETsskjXmSiPg4)
+
+[<i class="fa fa-file"></i> Dossier de sponsoring (PDF)](https://cloud.robots-ju.ch/s/RYETsskjXmSiPg4)
+
+</div>
+</div>
 
 <!-- section -->
 
@@ -26,12 +41,12 @@ Utilisez le formulaire ci-dessous pour nous contacter au sujet du sponsoring. No
         <input class="form-control" type="text" name="phone" id="phone" placeholder="0320000000">
     </div>
     <div class="form-group">
-        <label for="level">Niveau de sponsoring (facultatif)</label>
+        <label for="level">Domaine (facultatif)</label>
         <select class="form-control" name="level" id="level">
             <option selected>À discuter</option>
-            <option>Plan 1 - 100 CHF</option>
-            <option>Plan 2 - 300 CHF</option>
-            <option>Plan 3 - 500 CHF</option>
+            <option>Soutien – Association Robots-JU</option>
+            <option>Soutien - Concours</option>
+            <option>Autres</option>
         </select>
     </div>
     <div class="form-group">
